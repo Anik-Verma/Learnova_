@@ -1,5 +1,8 @@
 {
-  "buildCommand": "npm run build",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "buildCommand": "npx vite build",
   "outputDirectory": "dist",
-  "framework": "vite"
+  "installCommand": "npm install"
 }
