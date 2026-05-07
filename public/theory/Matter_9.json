@@ -1,0 +1,583 @@
+{
+  "chapterTitle": "IS MATTER AROUND US PURE?",
+  "subject": "Chemistry",
+  "standard": 9,
+  "totalReadTime": "25 minutes",
+  "chapterSummary": "This chapter introduces students to the concepts of pure substances and mixtures, differentiating them based on their composition and properties. It delves into various types of mixtures like solutions, suspensions, and colloids, explaining their characteristics and methods of separation. Furthermore, it clarifies physical and chemical changes and classifies pure substances into elements and compounds, highlighting their distinct properties.",
+  "subtopics": [
+    {
+      "id": "introduction_pure_vs_mixtures",
+      "title": "Introduction to Pure Substances and Mixtures",
+      "order": 1,
+      "summary": "We often use 'pure' to mean free from adulteration, but in science, a pure substance consists of only one type of particle with uniform chemical nature. Most things around us, like milk or sea water, are actually mixtures of different substances.",
+      "theory": "For a common person, 'pure' implies having no adulteration. However, from a scientific perspective, many everyday items like milk are not pure because they are mixtures (e.g., milk is a mixture of water, fat, and proteins). A substance is considered 'pure' by a scientist if all its constituent particles are chemically identical, meaning it consists of a single type of particle. In other words, a pure substance is a single, uniform form of matter. The world around us is predominantly filled with mixtures, such as sea water, minerals, and soil, which are combinations of two or more pure components.",
+      "didYouKnow": "Even the air we breathe is a mixture of several gases like nitrogen (78%), oxygen (21%), and other gases, making it a gaseous solution!",
+      "example": {
+        "title": "Milk vs. Water",
+        "description": "When you buy 'pure milk' from the market, it's actually a mixture of water, fat, and proteins. But pure water, consisting only of `H_2O` molecules, is a pure substance."
+      },
+      "keyTerms": [
+        {
+          "term": "Pure substance",
+          "definition": "A substance consisting of a single type of particle with uniform chemical nature throughout."
+        },
+        {
+          "term": "Mixture",
+          "definition": "A substance constituted by more than one kind of pure form of matter."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Is milk considered a pure substance by a scientist?",
+        "answer": "No, because milk is a mixture of different components like water, fat, and proteins, not a single type of particle."
+      }
+    },
+    {
+      "id": "what_is_a_mixture",
+      "title": "What is a Mixture?",
+      "order": 2,
+      "summary": "A mixture is formed when two or more pure substances are combined, retaining their individual properties. These substances can be separated by physical methods, unlike pure substances which have a fixed composition.",
+      "theory": "Mixtures are formed from two or more pure substances that are combined physically, meaning their original chemical identities are maintained. For instance, dissolved sodium chloride can be separated from water by evaporation, a physical process. However, sodium chloride itself is a pure substance and cannot be broken down into simpler chemical constituents by physical means. Similarly, sugar is a pure substance with a constant composition. Unlike pure substances, mixtures, such as soft drinks or soil, are not single pure substances and contain more than one pure substance, each retaining its characteristic properties regardless of its source.",
+      "didYouKnow": "The 'muddy water' from the Ganges river often contains a mixture of silt, sand, and various dissolved minerals, each retaining its original properties until separated!",
+      "example": {
+        "title": "Saltwater",
+        "description": "When you dissolve salt in water to make a solution for cooking dal, it's a mixture. You can get the salt back by evaporating the water, showing both salt and water retain their properties."
+      },
+      "keyTerms": [
+        {
+          "term": "Pure substance",
+          "definition": "A substance with a fixed chemical composition and properties, like sodium chloride or sugar."
+        },
+        {
+          "term": "Physical process",
+          "definition": "A method that separates substances without changing their chemical nature, such as evaporation."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can components of a mixture be separated by physical means?",
+        "answer": "Yes, components of a mixture can often be separated by physical processes like evaporation or filtration, unlike pure substances."
+      }
+    },
+    {
+      "id": "types_of_mixtures",
+      "title": "Types of Mixtures",
+      "order": 3,
+      "summary": "Mixtures are classified into homogeneous and heterogeneous types based on the uniformity of their composition. Homogeneous mixtures have a uniform composition throughout, while heterogeneous mixtures have physically distinct parts and non-uniform compositions.",
+      "theory": "The classification of mixtures depends on the nature of their components and how uniformly they are distributed. Homogeneous mixtures, also known as solutions, have a uniform composition throughout. This means that if you take a sample from any part of a homogeneous mixture, its composition will be the same. Examples include salt dissolved in water or sugar dissolved in water. The intensity of color in homogeneous mixtures can vary with the amount of solute, but the uniformity is maintained. In contrast, heterogeneous mixtures have physically distinct parts and a non-uniform composition. This means different parts of the mixture will have different properties. Examples include mixtures of sodium chloride and iron filings, or oil and water.",
+      "didYouKnow": "Even when you mix different types of grains like rice and lentils for khichdi, they form a heterogeneous mixture before cooking, where you can still see individual grains!",
+      "example": {
+        "title": "Chai (Tea) vs. Samosa Filling",
+        "description": "Chai, once sugar is dissolved, is a homogeneous mixture because it tastes the same throughout. A samosa filling, with its distinct pieces of potato, peas, and spices, is a heterogeneous mixture."
+      },
+      "keyTerms": [
+        {
+          "term": "Homogeneous mixture",
+          "definition": "A mixture that has a uniform composition throughout, where components are indistinguishable."
+        },
+        {
+          "term": "Heterogeneous mixture",
+          "definition": "A mixture that has physically distinct parts and a non-uniform composition."
+        },
+        {
+          "term": "Solution",
+          "definition": "A homogeneous mixture of two or more substances."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Is a mixture of oil and water homogeneous or heterogeneous?",
+        "answer": "It is a heterogeneous mixture because oil and water do not mix evenly and form distinct layers."
+      }
+    },
+    {
+      "id": "what_is_a_solution",
+      "title": "What is a Solution?",
+      "order": 4,
+      "summary": "A solution is a homogeneous mixture of two or more substances, typically a liquid containing a dissolved solid, liquid, or gas. It consists of a solvent (larger amount) and a solute (smaller amount), with homogeneity at the particle level.",
+      "theory": "A solution is defined as a homogeneous mixture of two or more substances, common in everyday life, such as lemonade or soda water. While we usually imagine solutions as liquids dissolving other substances, they can also be solid solutions (like alloys) or gaseous solutions (like air). The key characteristic is homogeneity at the particle level, meaning the components are uniformly distributed. A solution has two main components: the solvent, which is the component that dissolves the other (usually present in a larger amount), and the solute, which is the component that gets dissolved in the solvent (usually present in a lesser quantity). For example, in saltwater, water is the solvent and salt is the solute.",
+      "didYouKnow": "Air, often thought of as just 'gas,' is actually a perfect example of a gaseous solution, predominantly made of nitrogen (solvent) and oxygen (solute), along with other gases!",
+      "example": {
+        "title": "Tincture of Iodine",
+        "description": "Tincture of iodine, commonly used as an antiseptic, is a solution where solid iodine is dissolved in liquid alcohol. Here, alcohol is the solvent and iodine is the solute."
+      },
+      "keyTerms": [
+        {
+          "term": "Solvent",
+          "definition": "The component of a solution present in the larger amount, which dissolves the other component."
+        },
+        {
+          "term": "Solute",
+          "definition": "The component of a solution present in the lesser quantity, which gets dissolved in the solvent."
+        },
+        {
+          "term": "Alloys",
+          "definition": "Homogeneous mixtures of two or more metals, or a metal and a non-metal, showing properties of their constituents with variable composition."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "In soda water, which component is the solute?",
+        "answer": "In soda water, carbon dioxide (gas) is the solute, and water (liquid) is the solvent."
+      }
+    },
+    {
+      "id": "properties_of_a_solution",
+      "title": "Properties of a Solution",
+      "order": 5,
+      "summary": "Solutions are homogeneous mixtures with very small particles (less than 1 nm) that cannot be seen with naked eyes or separated by filtration. They are stable and do not scatter light.",
+      "theory": "Solutions exhibit several distinct properties. Firstly, they are homogeneous mixtures, meaning their composition is uniform throughout. The particles within a solution are extremely small, with diameters less than `1 \\text{ nanometer}` (`10^{-9} \\text{ metre}`), making them invisible to the naked eye. Due to this minuscule particle size, solutions do not scatter a beam of light passing through them, which means the path of light remains invisible. Furthermore, the solute particles in a solution are so well-integrated that they cannot be separated from the mixture by simple physical processes like filtration. Solutions are also highly stable; the solute particles do not settle down even when left undisturbed for a long time.",
+      "didYouKnow": "If you shine a laser pointer through a glass of clear sugar water, you won't see the light beam inside the water, precisely because the particles are too small to scatter light!",
+      "example": {
+        "title": "Saltwater Stability",
+        "description": "If you mix salt in water for your cooking, the salt particles will not settle at the bottom of the vessel even if left overnight, demonstrating the stability of a solution."
+      },
+      "keyTerms": [
+        {
+          "term": "Homogeneous",
+          "definition": "Uniform in composition and properties throughout."
+        },
+        {
+          "term": "1 nanometer (nm)",
+          "definition": "A unit of length equal to one billionth of a meter (10⁻⁹ m)."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can the path of light be seen when passed through a solution?",
+        "answer": "No, the path of light is not visible in a solution because its particles are too small to scatter light."
+      }
+    },
+    {
+      "id": "concentration_of_a_solution",
+      "title": "Concentration of a Solution",
+      "order": 6,
+      "summary": "The concentration of a solution expresses the amount of solute present in a given amount of solution. Solutions can be dilute, concentrated, or saturated, depending on the relative proportion of solute and its solubility at a specific temperature.",
+      "theory": "The relative proportion of solute and solvent can vary in a solution, leading to different classifications such as dilute, concentrated, or saturated. A dilute solution contains a relatively small amount of solute, while a concentrated solution contains a larger amount. A saturated solution is one that has dissolved the maximum possible amount of solute at a particular temperature, meaning no more solute can dissolve. The amount of solute in a saturated solution at a given temperature is called its solubility. If a solution contains less solute than its saturation level, it is called an unsaturated solution. The concentration of a solution quantifies the amount (mass or volume) of solute in a given amount (mass or volume) of solution. It can be expressed using different percentage methods.",
+      "didYouKnow": "Some traditional Indian sweets, like jalebis or gulab jamuns, are soaked in 'chashni' (sugar syrup) which is a highly concentrated and often saturated solution of sugar!",
+      "example": {
+        "title": "Making Lemonade",
+        "description": "If you make lemonade with a little sugar, it's dilute. With more sugar, it becomes concentrated. If you keep adding sugar until no more dissolves even after stirring, you have a saturated sugar solution."
+      },
+      "keyTerms": [
+        {
+          "term": "Dilute solution",
+          "definition": "A solution with a relatively small amount of solute."
+        },
+        {
+          "term": "Concentrated solution",
+          "definition": "A solution with a relatively large amount of solute."
+        },
+        {
+          "term": "Saturated solution",
+          "definition": "A solution that has dissolved the maximum amount of solute it can at a given temperature."
+        },
+        {
+          "term": "Solubility",
+          "definition": "The amount of solute present in a saturated solution at a given temperature."
+        },
+        {
+          "term": "Unsaturated solution",
+          "definition": "A solution containing less solute than its saturation level at a given temperature."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": true,
+        "latex": "\\text{Mass by mass percentage of a solution} = \\frac{\\text{Mass of solute}}{\\text{Mass of solution}} \\times 100 \\\\ \\text{Mass by volume percentage of a solution} = \\frac{\\text{Mass of solute}}{\\text{Volume of solution}} \\times 100 \\\\ \\text{Volume by volume percentage of a solution} = \\frac{\\text{Volume of solute}}{\\text{Volume of solution}} \\times 100",
+        "plain": "Mass by mass percentage = (Mass of solute / Mass of solution) x 100\nMass by volume percentage = (Mass of solute / Volume of solution) x 100\nVolume by volume percentage = (Volume of solute / Volume of solution) x 100",
+        "variables": [
+          {
+            "symbol": "Mass of solute",
+            "meaning": "Mass of the substance being dissolved",
+            "unit": "g or kg"
+          },
+          {
+            "symbol": "Mass of solution",
+            "meaning": "Total mass of the solute and solvent",
+            "unit": "g or kg"
+          },
+          {
+            "symbol": "Volume of solution",
+            "meaning": "Total volume of the solute and solvent",
+            "unit": "mL or L"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "If 20g of sugar is dissolved in 80g of water, what is the mass by mass percentage concentration of the solution?",
+        "answer": "Mass of solution = 20g (solute) + 80g (solvent) = 100g. Concentration = (20g / 100g) x 100 = 20%."
+      }
+    },
+    {
+      "id": "what_is_a_suspension",
+      "title": "What is a Suspension?",
+      "order": 7,
+      "summary": "A suspension is a heterogeneous mixture where solid particles are dispersed in a liquid but do not dissolve. These particles are large enough to be seen with the naked eye.",
+      "theory": "Suspensions are non-homogeneous systems, typically formed when solid particles are dispersed in a liquid but do not dissolve. Unlike solutions, a suspension is a heterogeneous mixture where the solute particles remain suspended throughout the bulk of the medium rather than forming a uniform blend. A key characteristic of suspensions is that their particles are large enough to be visible to the naked eye, giving the mixture a cloudy or opaque appearance. Examples include chalk powder mixed in water or wheat flour in water, where the particles eventually settle if left undisturbed.",
+      "didYouKnow": "Many traditional Indian medicines, particularly Ayurvedic 'churna' mixed in water, are examples of suspensions, where fine herbal powders are taken without fully dissolving!",
+      "example": {
+        "title": "Muddy Water",
+        "description": "When it rains heavily, the water in ponds or puddles becomes muddy water, which is a suspension. You can see the fine soil particles floating, and eventually, they settle at the bottom."
+      },
+      "keyTerms": [
+        {
+          "term": "Suspension",
+          "definition": "A heterogeneous mixture in which solid particles are dispersed in a liquid but do not dissolve, and are visible to the naked eye."
+        },
+        {
+          "term": "Heterogeneous mixture",
+          "definition": "A mixture with non-uniform composition and visible distinct parts."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can you see the particles in a suspension with your naked eyes?",
+        "answer": "Yes, the particles in a suspension are large enough to be seen with the naked eye."
+      }
+    },
+    {
+      "id": "properties_of_a_suspension",
+      "title": "Properties of a Suspension",
+      "order": 8,
+      "summary": "Suspensions are heterogeneous mixtures with visible particles that scatter light, making the path visible. They are unstable, with particles settling over time, and can be separated by filtration.",
+      "theory": "Suspensions possess several key properties that distinguish them from solutions. They are heterogeneous mixtures, meaning their composition is not uniform. The particles in a suspension are large enough to be seen with the naked eye. A significant characteristic is that these particles scatter a beam of light passing through the mixture, making the path of the light beam visible – this is often confused with the Tyndall effect. Suspensions are unstable; if left undisturbed, the solute particles will settle down at the bottom due to gravity. This settling indicates that the suspension is unstable, and once the particles settle, it stops scattering light. The components of a suspension can be easily separated from the liquid medium using the process of filtration.",
+      "didYouKnow": "Dust particles floating in a beam of sunlight entering a dark room create a visible path of light, similar to how particles in a suspension scatter light!",
+      "example": {
+        "title": "Chalk Powder in Water",
+        "description": "If you mix chalk powder in water, you get a suspension. The chalk particles are visible, they scatter light if a torch beam is passed through, and they will eventually settle at the bottom if left undisturbed. You can easily filter the chalk out."
+      },
+      "keyTerms": [
+        {
+          "term": "Heterogeneous mixture",
+          "definition": "A mixture with a non-uniform composition where components are visually distinct."
+        },
+        {
+          "term": "Filtration",
+          "definition": "A physical separation method used to separate insoluble solid particles from a liquid in a suspension."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can a suspension be separated by filtration?",
+        "answer": "Yes, the particles in a suspension are large enough to be retained by a filter paper, allowing for separation by filtration."
+      }
+    },
+    {
+      "id": "what_is_a_colloidal_solution",
+      "title": "What is a Colloidal Solution?",
+      "order": 9,
+      "summary": "A colloidal solution, or colloid, is a heterogeneous mixture that appears homogeneous due to small particle size, yet its particles are large enough to scatter light (Tyndall effect). It consists of a dispersed phase and a dispersion medium.",
+      "theory": "A colloidal solution, commonly known as a colloid, is a mixture that, despite appearing homogeneous due to its relatively small particle size compared to suspensions, is actually heterogeneous. The particles in a colloid are too small to be seen with the naked eye, similar to a solution, but are large enough to effectively scatter a beam of visible light. This phenomenon of light scattering by colloidal particles is called the Tyndall effect, named after its discoverer. Examples of colloids include milk, fog, and smoke. The components of a colloidal solution are categorized into the 'dispersed phase' (the solute-like particles) and the 'dispersion medium' (the medium in which the dispersed phase is suspended). Colloids are classified based on the states of the dispersed phase and dispersion medium, encompassing various forms in everyday life.",
+      "didYouKnow": "The blue color of the sky is due to the Tyndall effect! Tiny dust particles and water droplets in the atmosphere scatter blue light more effectively than other colors, making the sky appear blue.",
+      "example": {
+        "title": "Milk and Face Cream",
+        "description": "Milk is a common colloidal solution (an emulsion of fat in water). Face cream is also an emulsion, a type of colloid, where tiny oil droplets are dispersed in water or vice versa, giving it a smooth appearance."
+      },
+      "keyTerms": [
+        {
+          "term": "Colloid",
+          "definition": "A heterogeneous mixture that appears homogeneous, with particles large enough to scatter light but too small to be seen with the naked eye."
+        },
+        {
+          "term": "Tyndall effect",
+          "definition": "The scattering of a beam of light by the particles in a colloid or suspension, making the path of light visible."
+        },
+        {
+          "term": "Dispersed phase",
+          "definition": "The solute-like component or dispersed particles in a colloid."
+        },
+        {
+          "term": "Dispersion medium",
+          "definition": "The medium in which the dispersed phase of a colloid is suspended."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the phenomenon called when a beam of light passes through a colloidal solution and its path becomes visible?",
+        "answer": "This phenomenon is called the Tyndall effect."
+      }
+    },
+    {
+      "id": "properties_of_a_colloid",
+      "title": "Properties of a Colloid",
+      "order": 10,
+      "summary": "Colloids are heterogeneous (though appearing homogeneous) with particles too small to be seen but large enough to scatter light, making them stable. They cannot be separated by filtration but can be by centrifugation.",
+      "theory": "Colloidal solutions exhibit a unique set of properties. Although they often appear homogeneous, colloids are fundamentally heterogeneous mixtures. Their particle size is intermediate—too small to be individually seen by the naked eye, yet large enough to scatter a beam of light, making its path visible (Tyndall effect). This light-scattering property is why headlights are often visible in fog. Colloids are quite stable; their particles do not settle down when left undisturbed, distinguishing them from suspensions. Unlike suspensions, colloidal particles cannot be separated by simple filtration. However, a specialized technique called centrifugation, which involves spinning at high speed, can be used to separate the colloidal particles.",
+      "didYouKnow": "The fog and mist seen in hilly areas or during monsoon mornings in India are natural colloids, where tiny water droplets (dispersed phase) are scattered in the air (dispersion medium)!",
+      "example": {
+        "title": "Foggy Mornings",
+        "description": "On a foggy morning, the headlights of an auto-rickshaw appear as distinct beams. This is because the tiny water droplets in the fog (a colloid) scatter the light, demonstrating the Tyndall effect."
+      },
+      "keyTerms": [
+        {
+          "term": "Heterogeneous",
+          "definition": "Non-uniform in composition, even if visually appearing uniform."
+        },
+        {
+          "term": "Tyndall effect",
+          "definition": "The scattering of light by colloidal particles, making the light beam visible."
+        },
+        {
+          "term": "Centrifugation",
+          "definition": "A separation technique using rapid spinning to separate denser colloidal particles from the dispersion medium."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can colloidal particles be separated by ordinary filtration?",
+        "answer": "No, colloidal particles are too small to be separated by ordinary filtration. Centrifugation is needed."
+      }
+    },
+    {
+      "id": "physical_and_chemical_changes",
+      "title": "Physical and Chemical Changes",
+      "order": 11,
+      "summary": "Matter undergoes two types of changes: physical changes alter physical properties without changing chemical composition, while chemical changes result in new substances with different chemical properties.",
+      "theory": "In the study of matter, we observe two fundamental types of changes. Physical changes involve alterations in physical properties like color, hardness, rigidity, fluidity, density, melting point, and boiling point, without changing the chemical composition of the substance. For example, the interconversion of states (ice to water to water vapor) is a physical change; all forms are chemically `H_2O`. Chemical changes, on the other hand, involve a change in chemical composition, leading to the formation of new substances with different chemical properties. Burning is a classic example of a chemical change, where a substance reacts with another to form new compounds. For instance, oil burns in air (chemical change), while water extinguishes fire (physical property). During the burning of a candle, both physical (wax melting) and chemical (wax burning to `CO_2` and `H_2O`) changes occur.",
+      "didYouKnow": "The process of making curd from milk (dahi jamana) is a chemical change, as lactic acid bacteria convert lactose into lactic acid, creating a new substance with different properties!",
+      "example": {
+        "title": "Making Roti vs. Burning Roti",
+        "description": "Kneading flour into dough and rolling it into a roti is a physical change. Cooking the roti on a tawa (griddle) is also physical. However, if you accidentally burn the roti, it's a chemical change as new substances (ash, smoke) are formed."
+      },
+      "keyTerms": [
+        {
+          "term": "Physical property",
+          "definition": "Characteristics of a substance that can be observed and specified without changing its chemical composition, such as color, melting point, or density."
+        },
+        {
+          "term": "Physical change",
+          "definition": "A change in the physical properties of a substance without altering its chemical composition."
+        },
+        {
+          "term": "Chemical property",
+          "definition": "A characteristic that describes how a substance reacts with other substances, such as inflammability."
+        },
+        {
+          "term": "Chemical change (Chemical reaction)",
+          "definition": "A change that results in the formation of new substances with different chemical compositions and properties."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Is the melting of ice a physical or chemical change?",
+        "answer": "It is a physical change because water (H₂O) remains water, only its state changes from solid to liquid."
+      }
+    },
+    {
+      "id": "types_of_pure_substances",
+      "title": "What are the Types of Pure Substances?",
+      "order": 12,
+      "summary": "Pure substances are categorized into elements and compounds. Elements are the basic forms of matter that cannot be broken down further, while compounds are formed by the chemical combination of two or more elements in a fixed proportion.",
+      "theory": "Based on their chemical composition, pure substances are fundamentally classified into two types: elements and compounds. An element is the simplest form of matter that cannot be broken down into simpler substances by ordinary chemical reactions. Robert Boyle first used the term 'element' in 1661, and Antoine Laurent Lavoisier established its experimental definition. Elements include metals, non-metals, and metalloids, each with characteristic properties. A compound, on the other hand, is a substance composed of two or more different elements that are chemically combined together in a fixed proportion. The chemical combination in compounds means that the resulting substance has properties entirely different from its constituent elements.",
+      "didYouKnow": "All the vast diversity of materials we see around us, from a simple piece of iron to complex organic molecules, are ultimately made up of combinations of these fundamental elements!",
+      "example": {
+        "title": "Water vs. Hydrogen and Oxygen",
+        "description": "Water (H₂O) is a compound formed from the elements hydrogen and oxygen. While hydrogen is a flammable gas and oxygen supports combustion, water is a liquid that extinguishes fire, showing properties distinct from its constituent elements."
+      },
+      "keyTerms": [
+        {
+          "term": "Element",
+          "definition": "A basic form of matter that cannot be broken down into simpler substances by chemical reactions."
+        },
+        {
+          "term": "Compound",
+          "definition": "A substance composed of two or more elements chemically combined in a fixed proportion."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can an element be broken down into simpler substances by chemical reactions?",
+        "answer": "No, by definition, an element is the basic form of matter that cannot be broken down into simpler substances by chemical reactions."
+      }
+    },
+    {
+      "id": "elements",
+      "title": "Elements",
+      "order": 13,
+      "summary": "Elements are classified as metals, non-metals, and metalloids, each exhibiting distinct physical and chemical properties. Metals are typically lustrous, ductile, malleable, and good conductors, while non-metals lack these properties and are poor conductors.",
+      "theory": "Elements are fundamental substances, broadly categorized into metals, non-metals, and metalloids, each with specific properties. Metals generally possess lustre (shine), silvery-grey or golden-yellow color, conduct heat and electricity, are ductile (can be drawn into wires), malleable (can be hammered into thin sheets), and are sonorous (produce a ringing sound when hit). Examples include gold, silver, and copper, with mercury being the only liquid metal at room temperature. Non-metals typically display a variety of colors, are poor conductors of heat and electricity, and are neither lustrous, sonorous, nor malleable. Examples are hydrogen, oxygen, and carbon. Metalloids exhibit intermediate properties between metals and non-metals, such as boron, silicon, and germanium. Currently, over 100 elements are known, with the majority being solid, while eleven are gases and two (mercury and bromine) are liquids at room temperature.",
+      "didYouKnow": "Gallium and Cesium are unique elements that melt at temperatures slightly above room temperature (303 K or 30°C), meaning they would melt in your hand!",
+      "example": {
+        "title": "Copper Wires and Coal",
+        "description": "Copper, a metal, is used in electrical wires because it is ductile and conducts electricity well. Coal, a form of carbon (a non-metal), is brittle, dull, and a poor conductor of electricity, thus not suitable for wiring."
+      },
+      "keyTerms": [
+        {
+          "term": "Metals",
+          "definition": "Elements typically characterized by lustre, malleability, ductility, sonorousness, and good conductivity of heat and electricity."
+        },
+        {
+          "term": "Non-metals",
+          "definition": "Elements generally characterized by a lack of lustre, non-malleability, non-ductility, non-sonorousness, and poor conductivity."
+        },
+        {
+          "term": "Metalloids",
+          "definition": "Elements that exhibit properties intermediate between those of metals and non-metals."
+        },
+        {
+          "term": "Ductile",
+          "definition": "The ability of a material to be drawn into thin wires."
+        },
+        {
+          "term": "Malleable",
+          "definition": "The ability of a material to be hammered into thin sheets."
+        },
+        {
+          "term": "Sonorous",
+          "definition": "The property of producing a ringing sound when hit."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which property allows metals like gold to be made into thin wires for jewellery?",
+        "answer": "Ductility, the property of metals to be drawn into thin wires, allows gold to be used for jewellery."
+      }
+    },
+    {
+      "id": "compounds",
+      "title": "Compounds",
+      "order": 14,
+      "summary": "A compound is a substance formed when two or more elements chemically combine in a fixed proportion, resulting in a new substance with properties entirely different from its constituent elements. Unlike mixtures, compounds have a fixed composition and can only be separated by chemical or electrochemical reactions.",
+      "theory": "Compounds are pure substances formed by the chemical combination of two or more elements in a fixed ratio. When elements react to form a compound, a chemical change occurs, leading to a new substance with completely different properties compared to its individual constituents. For example, if iron filings and sulphur powder are mixed (a mixture), they retain their individual properties (e.g., iron is still magnetic). However, if this mixture is heated strongly, they chemically combine to form iron sulphide, a compound. This compound has distinct properties (e.g., it is no longer attracted to a magnet, and produces a rotten egg smell with acid, unlike hydrogen gas produced from an iron-sulphur mixture). Compounds always have a fixed composition throughout and can only be separated into their constituent elements by chemical or electrochemical reactions, not by simple physical methods.",
+      "didYouKnow": "Diamond and graphite are both made purely of the element carbon, but due to different arrangements of carbon atoms, they exhibit vastly different properties like hardness and conductivity!",
+      "example": {
+        "title": "Common Salt (Sodium Chloride)",
+        "description": "Common salt, sodium chloride (`NaCl`), is a compound. It is formed by sodium (a reactive metal) and chlorine (a poisonous gas) chemically combining in a fixed proportion. The resulting salt is essential for life and has properties entirely unlike sodium or chlorine."
+      },
+      "keyTerms": [
+        {
+          "term": "Compound",
+          "definition": "A substance composed of two or more elements chemically combined in a fixed proportion, forming a new substance with unique properties."
+        },
+        {
+          "term": "Chemical combination",
+          "definition": "A process where elements react to form new chemical bonds, resulting in a compound."
+        },
+        {
+          "term": "Fixed proportion",
+          "definition": "The constant ratio by mass in which elements combine to form a specific compound."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "How do the properties of a compound compare to its constituent elements?",
+        "answer": "The properties of a compound are entirely different from those of its constituent elements, as new chemical bonds and substances are formed."
+      }
+    }
+  ],
+  "importantFormulas": [
+    {
+      "formula": "\\text{Mass by mass percentage of a solution} = \\frac{\\text{Mass of solute}}{\\text{Mass of solution}} \\times 100",
+      "meaning": "Calculates the concentration of a solution based on the mass of solute relative to the total mass of the solution.",
+      "unit": "%"
+    },
+    {
+      "formula": "\\text{Mass by volume percentage of a solution} = \\frac{\\text{Mass of solute}}{\\text{Volume of solution}} \\times 100",
+      "meaning": "Calculates the concentration of a solution based on the mass of solute relative to the total volume of the solution.",
+      "unit": "g/mL or %"
+    },
+    {
+      "formula": "\\text{Volume by volume percentage of a solution} = \\frac{\\text{Volume of solute}}{\\text{Volume of solution}} \\times 100",
+      "meaning": "Calculates the concentration of a solution based on the volume of solute relative to the total volume of the solution, typically for liquid-liquid solutions.",
+      "unit": "%"
+    }
+  ],
+  "connectsTo": [
+    "Atoms and Molecules",
+    "Structure of the Atom",
+    "Chemical Reactions and Equations (Class 10)"
+  ]
+}

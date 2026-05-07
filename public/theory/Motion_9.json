@@ -1,0 +1,666 @@
+{
+  "chapterTitle": "MOTION",
+  "subject": "Physics",
+  "standard": 9,
+  "totalReadTime": "25 minutes",
+  "chapterSummary": "This chapter introduces the fundamental concepts of motion, beginning with how to describe an object's position using a reference point. It differentiates between distance and displacement, uniform and non-uniform motion, and defines speed and velocity. The concept of acceleration, or the rate of change of velocity, is explained. The chapter further explores graphical representations of motion through distance-time and velocity-time graphs. Finally, it presents the three equations of motion for uniformly accelerated linear motion and concludes with uniform circular motion.",
+  "subtopics": [
+    {
+      "id": "describing_motion",
+      "title": "Describing Motion",
+      "order": 1,
+      "summary": "We describe the location of an object by specifying a reference point, also called the origin. This helps in understanding if an object is at rest or in motion relative to that point.",
+      "theory": "In everyday life, we observe objects both at rest and in motion. An object's motion is often perceived when its position changes with time, but it can also be inferred indirectly, like observing dust movement to know air motion. The perception of motion is relative; an object might appear moving to one person but stationary to another (e.g., passengers in a bus). To precisely describe an object's position, we need a 'reference point' or 'origin'. For instance, saying a school is '2 km north of the railway station' uses the railway station as the reference point.",
+      "didYouKnow": "While we perceive ourselves as stationary on Earth, the Earth itself is constantly in motion, rotating on its axis and revolving around the Sun, at speeds we don't directly feel!",
+      "example": {
+        "title": "School Location",
+        "description": "To describe a school's location, we might say it is '2 km north of the railway station.' Here, the railway station acts as the reference point or origin."
+      },
+      "keyTerms": [
+        {
+          "term": "Reference Point",
+          "definition": "A fixed point or object with respect to which the position of another object is described."
+        },
+        {
+          "term": "Origin",
+          "definition": "The specified reference point from which the position of an object is measured."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "A passenger inside a moving bus sees their fellow passengers at rest. Is this passenger frame of reference valid?",
+        "answer": "Yes, it is valid. Motion is relative, and from the passenger's frame of reference inside the bus, other passengers are stationary relative to them."
+      }
+    },
+    {
+      "id": "motion_straight_line",
+      "title": "Motion Along a Straight Line",
+      "order": 2,
+      "summary": "The simplest type of motion is along a straight path. To describe this, we use two key quantities: distance (total path covered) and displacement (shortest distance from initial to final position).",
+      "theory": "Motion along a straight line is the most basic type of motion. The `distance` covered by an object is the total path length traveled, and it is described only by its numerical value (magnitude). In contrast, `displacement` is the shortest straight-line distance between the initial and final positions of an object. Displacement requires both magnitude and direction. The magnitude of displacement can be equal to or less than the distance traveled. Importantly, if an object moves and then returns to its exact starting point, its displacement is zero, even if it has covered a significant distance.",
+      "didYouKnow": "If you walk around a perfect square field and end up exactly where you started, your displacement is zero, but you've walked a considerable distance!",
+      "example": {
+        "title": "Car Journey",
+        "description": "Imagine a car starting from point O, going to A (60 km), then returning to B (25 km back from A). The total distance covered is 60 km + 35 km = 95 km. However, the magnitude of displacement from O to B is 35 km (60 km - 25 km). If the car returns to O, its displacement is 0 km, but the distance covered is 120 km."
+      },
+      "keyTerms": [
+        {
+          "term": "Distance",
+          "definition": "The total length of the path covered by an object during its motion; it only has magnitude."
+        },
+        {
+          "term": "Displacement",
+          "definition": "The shortest straight-line distance between the initial and final positions of an object; it has both magnitude and direction."
+        },
+        {
+          "term": "Magnitude",
+          "definition": "The numerical value of a physical quantity."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Can an object have zero displacement but a non-zero distance?",
+        "answer": "Yes. For example, if a person walks around a circular track and returns to their starting point, the total distance covered is the circumference of the track, but their displacement is zero."
+      }
+    },
+    {
+      "id": "uniform_nonuniform_motion",
+      "title": "Uniform Motion and Non-Uniform Motion",
+      "order": 3,
+      "summary": "Motion is classified as uniform if an object covers equal distances in equal time intervals, and non-uniform if it covers unequal distances in equal time intervals.",
+      "theory": "When an object travels equal distances in equal intervals of time, it is said to be in `uniform motion`. For instance, if a car covers 5 meters every second. For uniform motion, these time intervals should be small. Conversely, when an object covers unequal distances in equal intervals of time, its motion is described as `non-uniform motion`. This type of motion is common in daily life, such as a car moving on a crowded street or a person jogging in a park, where speeds constantly change.",
+      "didYouKnow": "The Earth's rotation on its axis is a very good approximation of uniform motion, as it completes one rotation in almost exactly 24 hours every day!",
+      "example": {
+        "title": "Daily Activities",
+        "description": "A car moving on a crowded street, frequently stopping and starting, exhibits non-uniform motion. In contrast, a train running at a constant speed on a straight, empty track over a short duration can be considered to be in uniform motion."
+      },
+      "keyTerms": [
+        {
+          "term": "Uniform Motion",
+          "definition": "Motion in which an object covers equal distances in equal intervals of time."
+        },
+        {
+          "term": "Non-uniform Motion",
+          "definition": "Motion in which an object covers unequal distances in equal intervals of time."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "A cyclist covers 10 m in the first 5 seconds, and then 15 m in the next 5 seconds. Is this uniform or non-uniform motion?",
+        "answer": "This is non-uniform motion because the cyclist covers unequal distances (10 m and 15 m) in equal time intervals (5 seconds)."
+      }
+    },
+    {
+      "id": "rate_of_motion",
+      "title": "Measuring the Rate of Motion (Speed)",
+      "order": 4,
+      "summary": "To quantify how fast an object moves, we use `speed`, defined as the distance traveled per unit of time.",
+      "theory": "Objects move at different rates; some are fast, some are slow. To measure this rate, we determine the `speed` of an object, which is the distance it travels in a unit of time. The SI unit for speed is meters per second (m/s), commonly written as `m s^{-1}`. Other units include kilometers per hour (km/h) and centimeters per second (cm/s). Speed only requires magnitude (numerical value) and does not specify direction. Since motion is often non-uniform, we calculate `average speed` by dividing the total distance traveled by the total time taken for the journey.",
+      "didYouKnow": "The speed of light in a vacuum is approximately 299,792,458 m/s (or about 1.08 billion km/h), making it the fastest speed possible in the universe!",
+      "example": {
+        "title": "Car Odometer",
+        "description": "An odometer in an automobile measures the total distance traveled. If a car's odometer shows a difference of 1850 km between Bhubaneshwar and New Delhi, that's the total distance covered. If this journey took, say, 30 hours, the average speed would be 1850 km / 30 hours."
+      },
+      "keyTerms": [
+        {
+          "term": "Speed",
+          "definition": "The rate at which an object covers distance; it is a scalar quantity (has only magnitude)."
+        },
+        {
+          "term": "Average Speed",
+          "definition": "The total distance traveled divided by the total time taken for the journey."
+        },
+        {
+          "term": "SI Unit of Speed",
+          "definition": "Meters per second (m/s or m s⁻¹)."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "v = \\frac{s}{t}",
+        "plain": "Speed = Total distance travelled / Total time taken",
+        "variables": [
+          {
+            "symbol": "v",
+            "meaning": "Speed",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "s",
+            "meaning": "Distance travelled",
+            "unit": "m"
+          },
+          {
+            "symbol": "t",
+            "meaning": "Time taken",
+            "unit": "s"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "An object travels 100 meters in 20 seconds. What is its average speed?",
+        "answer": "The average speed is 100 m / 20 s = 5 m/s."
+      }
+    },
+    {
+      "id": "speed_with_direction",
+      "title": "Speed with Direction (Velocity)",
+      "order": 5,
+      "summary": "When speed is combined with the direction of motion, it becomes `velocity`, a vector quantity that describes both how fast an object is moving and in which direction.",
+      "theory": "To describe motion more comprehensively, we combine speed with the direction of motion. This combined quantity is called `velocity`. Velocity is a vector quantity, meaning it has both magnitude (speed) and direction. An object's velocity can be uniform (constant speed and direction) or variable. Velocity changes if either the object's speed, its direction of motion, or both change. For an object moving in a straight line at a variable speed, we use `average velocity`, which, if the velocity changes at a uniform rate, can be found by taking the arithmetic mean of the initial and final velocities.",
+      "didYouKnow": "Aircraft use air speed (speed relative to the air) and ground speed (speed relative to the ground) to navigate, with ground speed being a form of velocity as it considers direction relative to Earth.",
+      "example": {
+        "title": "Usha Swimming in a Pool",
+        "description": "Usha swims 180 m in one minute in a 90 m long pool, going from one end to the other and back along the same straight path. Her average speed is 180 m / 60 s = 3 m/s. However, since she returns to her starting point, her total displacement is 0 m, making her average velocity 0 m/s."
+      },
+      "keyTerms": [
+        {
+          "term": "Velocity",
+          "definition": "The speed of an object in a specific direction; it is a vector quantity."
+        },
+        {
+          "term": "Average Velocity",
+          "definition": "The total displacement divided by the total time taken, or for uniformly changing velocity, the arithmetic mean of initial and final velocities."
+        },
+        {
+          "term": "Initial Velocity",
+          "definition": "The velocity of an object at the beginning of a time interval."
+        },
+        {
+          "term": "Final Velocity",
+          "definition": "The velocity of an object at the end of a time interval."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "v_{av} = \\frac{u+v}{2}",
+        "plain": "Average velocity = (Initial velocity + Final velocity) / 2",
+        "variables": [
+          {
+            "symbol": "v_{av}",
+            "meaning": "Average velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "u",
+            "meaning": "Initial velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "v",
+            "meaning": "Final velocity",
+            "unit": "m/s"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "How is velocity different from speed?",
+        "answer": "Velocity includes both the magnitude (speed) and the direction of motion, while speed only refers to the magnitude of motion."
+      }
+    },
+    {
+      "id": "rate_of_change_velocity",
+      "title": "Rate of Change of Velocity (Acceleration)",
+      "order": 6,
+      "summary": "`Acceleration` is the physical quantity that measures how quickly an object's velocity changes over time.",
+      "theory": "In uniform motion, velocity is constant, so the change in velocity is zero. However, in non-uniform motion, velocity varies. To quantify this change, we use `acceleration`, defined as the change in velocity per unit time. Its SI unit is meters per second squared (`m/s^2` or `m s^{-2}`). Acceleration is positive if it's in the direction of velocity (speeding up) and negative if it's opposite to the direction of velocity (slowing down, also called deceleration or retardation). When an object's velocity changes by equal amounts in equal time intervals, it's `uniform acceleration`; otherwise, it's `non-uniform acceleration`.",
+      "didYouKnow": "Gravity causes a constant acceleration on Earth, approximately 9.8 m/s², meaning a falling object's speed increases by about 9.8 meters per second, every second!",
+      "example": {
+        "title": "Rahul's Bicycle Ride",
+        "description": "Rahul starts from rest (u=0) and attains a velocity of 6 m/s in 30 s, resulting in an acceleration of 0.2 m/s². Later, he applies brakes, reducing his velocity from 6 m/s to 4 m/s in 5 s, which results in a negative acceleration (deceleration) of -0.4 m/s²."
+      },
+      "keyTerms": [
+        {
+          "term": "Acceleration",
+          "definition": "The rate of change of an object's velocity over time."
+        },
+        {
+          "term": "SI Unit of Acceleration",
+          "definition": "Meters per second squared (m/s² or m s⁻²)."
+        },
+        {
+          "term": "Uniform Acceleration",
+          "definition": "Acceleration where velocity changes by equal amounts in equal intervals of time."
+        },
+        {
+          "term": "Non-uniform Acceleration",
+          "definition": "Acceleration where velocity changes by unequal amounts in equal intervals of time."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "a = \\frac{v-u}{t}",
+        "plain": "Acceleration = (Final velocity - Initial velocity) / Time taken",
+        "variables": [
+          {
+            "symbol": "a",
+            "meaning": "Acceleration",
+            "unit": "m/s²"
+          },
+          {
+            "symbol": "v",
+            "meaning": "Final velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "u",
+            "meaning": "Initial velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "t",
+            "meaning": "Time taken",
+            "unit": "s"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "A bus decreases its speed from 80 km/h to 60 km/h in 5 seconds. What is its acceleration?",
+        "answer": "First convert speeds to m/s: 80 km/h ≈ 22.22 m/s, 60 km/h ≈ 16.67 m/s. Acceleration = (16.67 - 22.22) m/s / 5 s = -1.11 m/s². The bus is decelerating."
+      }
+    },
+    {
+      "id": "graphical_representation_motion",
+      "title": "Graphical Representation of Motion",
+      "order": 7,
+      "summary": "Graphs offer a visual and convenient way to represent and analyze motion, showing how physical quantities like distance or velocity change over time.",
+      "theory": "Graphs are powerful tools for presenting complex information clearly, similar to how cricket match run rates are shown. In the study of motion, line graphs are commonly used to show the dependence of one physical quantity on another. Typically, time is plotted on the horizontal (x-axis), and quantities like distance or velocity are plotted on the vertical (y-axis). These visual representations help us understand and describe various types of motion, whether an object is at rest, moving uniformly, or accelerating.",
+      "didYouKnow": "The widespread use of graphs in science and engineering really took off after René Descartes popularized the Cartesian coordinate system in the 17th century, revolutionizing how we visualize mathematical relationships!",
+      "example": {
+        "title": "Cricket Match Run Rates",
+        "description": "In a cricket match telecast, vertical bar graphs are used to show the run rate of a team in each over. Similarly, line graphs can represent how a vehicle's distance or velocity changes over time during a journey, making it easy to spot trends."
+      },
+      "keyTerms": [
+        {
+          "term": "Line Graph",
+          "definition": "A graph used to show the relationship between two variables, typically with time on the x-axis."
+        },
+        {
+          "term": "X-axis",
+          "definition": "The horizontal axis on a graph, usually representing time in motion graphs."
+        },
+        {
+          "term": "Y-axis",
+          "definition": "The vertical axis on a graph, usually representing distance or velocity in motion graphs."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Why is a graphical representation useful for studying motion?",
+        "answer": "Graphs provide a clear visual summary of how motion variables change over time, making patterns and relationships easier to understand and analyze than just raw data."
+      }
+    },
+    {
+      "id": "distance_time_graphs",
+      "title": "Distance-Time Graphs",
+      "order": 8,
+      "summary": "`Distance-time graphs` plot the distance an object has traveled against time, providing insights into its speed and whether its motion is uniform or non-uniform.",
+      "theory": "In a distance-time graph, time is plotted on the x-axis and distance is plotted on the y-axis. For `uniform speed`, the graph is a straight line, showing that equal distances are covered in equal time intervals. The slope of this straight line represents the object's speed. For `non-uniform speed`, the graph is a curved line, indicating that the distance traveled varies unequally in equal time intervals. If an object is `at rest`, its distance-time graph will be a horizontal line parallel to the time axis, as its position does not change.",
+      "didYouKnow": "The steeper the slope of a distance-time graph, the faster the object is moving. A perfectly vertical line would imply infinite speed, which is physically impossible!",
+      "example": {
+        "title": "Car Moving at Uniform Speed",
+        "description": "Imagine a car traveling at a constant speed of 30 km/h. Its distance-time graph would be a straight line sloping upwards. For instance, if it travels 10 km in 20 minutes, then 20 km in 40 minutes, and 30 km in 60 minutes, plotting these points will form a straight line, and the slope of this line will give the car's constant speed."
+      },
+      "keyTerms": [
+        {
+          "term": "Distance-Time Graph",
+          "definition": "A graph showing the distance traveled by an object on the y-axis versus time on the x-axis."
+        },
+        {
+          "term": "Slope of Distance-Time Graph",
+          "definition": "Represents the speed of the object."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": true,
+        "latex": "v = \\frac{s_2 - s_1}{t_2 - t_1}",
+        "plain": "Speed = (Final distance - Initial distance) / (Final time - Initial time)",
+        "variables": [
+          {
+            "symbol": "v",
+            "meaning": "Speed",
+            "unit": "km/min"
+          },
+          {
+            "symbol": "s_1",
+            "meaning": "Initial distance",
+            "unit": "km"
+          },
+          {
+            "symbol": "s_2",
+            "meaning": "Final distance",
+            "unit": "km"
+          },
+          {
+            "symbol": "t_1",
+            "meaning": "Initial time",
+            "unit": "min"
+          },
+          {
+            "symbol": "t_2",
+            "meaning": "Final time",
+            "unit": "min"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "What does a curved line on a distance-time graph indicate?",
+        "answer": "A curved line indicates non-uniform motion, meaning the object's speed is changing over time."
+      }
+    },
+    {
+      "id": "velocity_time_graphs",
+      "title": "Velocity-Time Graphs",
+      "order": 9,
+      "summary": "`Velocity-time graphs` plot an object's velocity against time, allowing us to visualize acceleration and calculate the displacement covered.",
+      "theory": "In a velocity-time graph, time is plotted on the x-axis and velocity on the y-axis. For `uniform velocity`, the graph is a straight line parallel to the x-axis, as velocity remains constant. The area enclosed by this graph and the time axis represents the `magnitude of displacement` (or distance covered). For `uniformly accelerated motion`, the graph is a straight line with a slope. The slope of this line gives the `acceleration`. The area under this graph also represents the distance traveled, often calculated by dividing the area into geometric shapes like rectangles and triangles. For `non-uniformly accelerated motion`, the graph will be a curved line.",
+      "didYouKnow": "The area under a velocity-time graph can tell you the total distance traveled, regardless of how complex the motion is, which is a key concept in calculus!",
+      "example": {
+        "title": "Car Moving at Uniform Velocity",
+        "description": "Consider a car moving at a constant velocity of 40 km/h. Its velocity-time graph would be a horizontal line at 40 km/h. If this motion occurs for 4 hours, the area under the graph (a rectangle) would be 40 km/h * 4 h = 160 km, which is the total distance traveled by the car."
+      },
+      "keyTerms": [
+        {
+          "term": "Velocity-Time Graph",
+          "definition": "A graph showing the velocity of an object on the y-axis versus time on the x-axis."
+        },
+        {
+          "term": "Area Under Velocity-Time Graph",
+          "definition": "Represents the magnitude of the displacement (or distance) traveled by the object."
+        },
+        {
+          "term": "Slope of Velocity-Time Graph",
+          "definition": "Represents the acceleration of the object."
+        }
+      ],
+      "hasGraph": false,
+      "graph": null,
+      "formula": {
+        "exists": true,
+        "latex": "s = v \\times (t_2 - t_1)",
+        "plain": "Distance = Velocity × (Final time - Initial time)",
+        "variables": [
+          {
+            "symbol": "s",
+            "meaning": "Distance",
+            "unit": "km"
+          },
+          {
+            "symbol": "v",
+            "meaning": "Uniform velocity",
+            "unit": "km/h"
+          },
+          {
+            "symbol": "t_1",
+            "meaning": "Initial time",
+            "unit": "h"
+          },
+          {
+            "symbol": "t_2",
+            "meaning": "Final time",
+            "unit": "h"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "What does a straight line sloping upwards in a velocity-time graph signify?",
+        "answer": "It signifies uniform positive acceleration, meaning the object's velocity is increasing at a constant rate."
+      }
+    },
+    {
+      "id": "equations_of_motion",
+      "title": "Equations of Motion",
+      "order": 10,
+      "summary": "For objects moving with uniform acceleration along a straight line, three fundamental equations relate initial velocity (u), final velocity (v), acceleration (a), time (t), and distance (s).",
+      "theory": "When an object undergoes `uniform acceleration` along a straight line, its motion can be precisely described using a set of three equations, known as the `equations of motion`: \n1.  `v = u + at` (Velocity-time relation)\n2.  `s = ut + \\frac{1}{2}at^2` (Position-time relation)\n3.  `2as = v^2 - u^2` (Position-velocity relation)\nHere, `u` is the initial velocity, `v` is the final velocity, `a` is the uniform acceleration, `t` is the time interval, and `s` is the distance traveled. These equations are fundamental to kinematics and can also be derived graphically.",
+      "didYouKnow": "These equations are often attributed to Galileo Galilei, whose pioneering work in the 17th century laid the mathematical foundations for understanding how objects move and fall.",
+      "example": {
+        "title": "Train Accelerating",
+        "description": "A train starts from rest (u = 0) and reaches a velocity of 72 km/h (which is 20 m/s) in 5 minutes (300 s). Using the first equation, acceleration `a = (v-u)/t` = (20-0)/300 = 1/15 m/s². To find the distance traveled, `s = (v² - u²)/(2a)` = (20² - 0²)/(2 * 1/15) = 3000 m or 3 km."
+      },
+      "keyTerms": [
+        {
+          "term": "Equations of Motion",
+          "definition": "A set of mathematical formulas relating displacement, velocity, acceleration, and time for objects in uniformly accelerated linear motion."
+        },
+        {
+          "term": "Uniform Acceleration",
+          "definition": "Constant rate of change of velocity."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "v = u + at",
+        "plain": "Final Velocity = Initial Velocity + Acceleration × Time",
+        "variables": [
+          {
+            "symbol": "v",
+            "meaning": "Final velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "u",
+            "meaning": "Initial velocity",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "a",
+            "meaning": "Acceleration",
+            "unit": "m/s²"
+          },
+          {
+            "symbol": "t",
+            "meaning": "Time",
+            "unit": "s"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "If a car accelerates from rest at 2 m/s² for 5 seconds, what will be its final velocity?",
+        "answer": "Using `v = u + at`, with `u = 0`, `a = 2 m/s²`, `t = 5 s`, we get `v = 0 + (2 * 5) = 10 m/s`."
+      }
+    },
+    {
+      "id": "uniform_circular_motion",
+      "title": "Uniform Circular Motion",
+      "order": 11,
+      "summary": "`Uniform circular motion` occurs when an object moves in a circular path at a constant speed, but its velocity continuously changes direction, meaning it is always accelerating.",
+      "theory": "When an object moves in a circular path at a `constant speed`, its `velocity` continuously changes because its direction of motion is constantly changing at every point. Since acceleration is defined as the rate of change of velocity, an object in uniform circular motion is always `accelerating`. For example, an athlete running on a track with many sides (like a hexagon or octagon) constantly changes direction at each corner. As the number of sides increases, the path approaches a circle, requiring continuous direction change. The speed `v` of an object moving in a circular path of radius `r` with a time period `t` (time for one complete round) is given by `v = \\frac{2\\pi r}{t}`.",
+      "didYouKnow": "Satellites orbiting Earth are in uniform circular motion; they are constantly 'falling' towards Earth due to gravity but also moving forward so fast that they continuously miss the Earth, staying in orbit!",
+      "example": {
+        "title": "Stone on a String",
+        "description": "Imagine tying a small stone to a thread and whirling it in a circular path at a constant speed. When you release the thread, the stone flies off in a straight line tangent to the circle at the point of release. This demonstrates that while in circular motion, its direction (and thus velocity) was continuously changing."
+      },
+      "keyTerms": [
+        {
+          "term": "Uniform Circular Motion",
+          "definition": "The motion of an object in a circular path with constant speed."
+        },
+        {
+          "term": "Radius",
+          "definition": "The distance from the center of the circle to any point on its circumference."
+        },
+        {
+          "term": "Time Period",
+          "definition": "The time taken for one complete revolution in circular motion."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "v = \\frac{2\\pi r}{t}",
+        "plain": "Speed = (2 × pi × radius) / Time period",
+        "variables": [
+          {
+            "symbol": "v",
+            "meaning": "Speed",
+            "unit": "m/s"
+          },
+          {
+            "symbol": "π",
+            "meaning": "Pi (approximately 3.14159)",
+            "unit": "none"
+          },
+          {
+            "symbol": "r",
+            "meaning": "Radius of the circular path",
+            "unit": "m"
+          },
+          {
+            "symbol": "t",
+            "meaning": "Time period for one revolution",
+            "unit": "s"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "Why is a satellite orbiting the Earth at a constant speed considered to be accelerating?",
+        "answer": "Because its direction of motion is constantly changing as it moves along its circular orbit, which means its velocity is changing, and a change in velocity implies acceleration."
+      }
+    }
+  ],
+  "importantFormulas": [
+    {
+      "formula": "v = \\frac{s}{t}",
+      "meaning": "Speed = Distance / Time",
+      "unit": "m/s"
+    },
+    {
+      "formula": "v_{av} = \\frac{u+v}{2}",
+      "meaning": "Average velocity = (Initial velocity + Final velocity) / 2",
+      "unit": "m/s"
+    },
+    {
+      "formula": "a = \\frac{v-u}{t}",
+      "meaning": "Acceleration = (Final velocity - Initial velocity) / Time",
+      "unit": "m/s²"
+    },
+    {
+      "formula": "v = u + at",
+      "meaning": "First Equation of Motion: Final velocity = Initial velocity + Acceleration × Time",
+      "unit": "m/s"
+    },
+    {
+      "formula": "s = ut + \\frac{1}{2}at^2",
+      "meaning": "Second Equation of Motion: Distance = (Initial velocity × Time) + (½ × Acceleration × Time²)",
+      "unit": "m"
+    },
+    {
+      "formula": "2as = v^2 - u^2",
+      "meaning": "Third Equation of Motion: 2 × Acceleration × Distance = (Final velocity)² - (Initial velocity)²",
+      "unit": "m²/s²"
+    },
+    {
+      "formula": "v = \\frac{2\\pi r}{t}",
+      "meaning": "Speed in Uniform Circular Motion = (2 × pi × radius) / Time period",
+      "unit": "m/s"
+    }
+  ],
+  "connectsTo": [
+    "Force and Laws of Motion",
+    "Gravitation",
+    "Work and Energy"
+  ]
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "The force that keeps an object moving in a circular path and is directed towards the center is called:",
+    "subtopic": "Gravitation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Gravitational force", "isCorrect": false },
+      { "id": "B", "text": "Frictional force", "isCorrect": false },
+      { "id": "C", "text": "Centripetal force", "isCorrect": true },
+      { "id": "D", "text": "Electromagnetic force", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because the 'centre-seeking' force required for circular motion is known as centripetal force.",
+      "whyOthersWrong": "A is a specific example of centripetal force for planets, but the general term is centripetal. B and D are different types of fundamental/contact forces."
+    },
+    "hint": "The word literally means 'centre-seeking'."
+  },
+  {
+    "id": 2,
+    "question": "What is the value of the Universal Gravitational Constant (G)?",
+    "subtopic": "Universal Law of Gravitation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "9.8 m/s²", "isCorrect": false },
+      { "id": "B", "text": "6.673 × 10⁻¹¹ N m² kg⁻²", "isCorrect": true },
+      { "id": "C", "text": "6.673 × 10¹¹ N m² kg⁻²", "isCorrect": false },
+      { "id": "D", "text": "1.67 × 10⁻²⁷ kg", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The accepted value of G, found by Henry Cavendish, is 6.673 × 10⁻¹¹ N m² kg⁻².",
+      "whyOthersWrong": "A is the acceleration due to gravity (g). C has a positive power. D is the mass of a proton."
+    },
+    "hint": "It is a very small number involving 10 to the power of negative 11."
+  },
+  {
+    "id": 3,
+    "question": "According to the Universal Law of Gravitation, the gravitational force between two objects is inversely proportional to the:",
+    "subtopic": "Universal Law of Gravitation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Product of their masses", "isCorrect": false },
+      { "id": "B", "text": "Sum of their masses", "isCorrect": false },
+      { "id": "C", "text": "Square of the distance between them", "isCorrect": true },
+      { "id": "D", "text": "Distance between them", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as the law states F ∝ 1/d², meaning the force decreases with the square of the distance.",
+      "whyOthersWrong": "A is what the force is *directly* proportional to. B and D are incorrect mathematical relations for gravitation."
+    },
+    "hint": "Recall the 'Inverse-square' law mentioned in the chapter."
+  },
+  {
+    "id": 4,
+    "question": "Mass of an object is a measure of its:",
+    "subtopic": "Mass",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Weight", "isCorrect": false },
+      { "id": "B", "text": "Inertia", "isCorrect": true },
+      { "id": "C", "text": "Volume", "isCorrect": false },
+      { "id": "D", "text": "Pressure", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct as mass is the quantitative measure of the inertia of an object and remains constant everywhere.",
+      "whyOthersWrong": "A changes with gravity. C is the space occupied. D is force per unit area."
+    },
+    "hint": "It's the same definition used in the Laws of Motion chapter."
+  },
+  {
+    "id": 5,
+    "question": "The weight of an object on the Moon is approximately ______ times its weight on the Earth.",
+    "subtopic": "Weight",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1/2", "isCorrect": false },
+      { "id": "B", "text": "1/4", "isCorrect": false },
+      { "id": "C", "text": "1/6", "isCorrect": true },
+      { "id": "D", "text": "6", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because the Moon's mass and radius result in a surface gravity that is one-sixth of the Earth's.",
+      "whyOthersWrong": "Other ratios are incorrect. 6 would mean you are heavier on the moon."
+    },
+    "hint": "You feel much lighter on the moon; think of the specific fraction."
+  },
+  {
+    "id": 6,
+    "question": "Acceleration due to gravity (g) on Earth is calculated using which formula?",
+    "subtopic": "Free Fall",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "g = GM/R", "isCorrect": false },
+      { "id": "B", "text": "g = GM/R²", "isCorrect": true },
+      { "id": "C", "text": "g = G/M R²", "isCorrect": false },
+      { "id": "D", "text": "g = mG/R²", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. By equating F=mg and F=GMm/R², we get g = GM/R².",
+      "whyOthersWrong": "A, C, and D are algebraic errors or use the wrong variables."
+    },
+    "hint": "Equate the two formulas for gravitational force acting on mass 'm'."
+  },
+  {
+    "id": 7,
+    "question": "An object of mass 10 kg is measured on Earth. What is its weight? (Take g = 9.8 m/s²)",
+    "subtopic": "Weight",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "10 kg", "isCorrect": false },
+      { "id": "B", "text": "98 N", "isCorrect": true },
+      { "id": "C", "text": "1.67 N", "isCorrect": false },
+      { "id": "D", "text": "9.8 N", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Weight W = m × g = 10 kg × 9.8 m/s² = 98 N.",
+      "whyOthersWrong": "A is its mass. C is its weight on the moon. D is the value of g."
+    },
+    "hint": "Multiply the mass by the acceleration due to gravity."
+  },
+  {
+    "id": 8,
+    "question": "What is meant by 'Free Fall'?",
+    "subtopic": "Free Fall",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Falling with zero acceleration", "isCorrect": false },
+      { "id": "B", "text": "Falling under the influence of gravitational force alone", "isCorrect": true },
+      { "id": "C", "text": "Falling into a vacuum only", "isCorrect": false },
+      { "id": "D", "text": "Falling at a constant velocity", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. An object is in free fall when the ONLY force acting on it is the gravity of the Earth.",
+      "whyOthersWrong": "A and D contradict the fact that gravity causes acceleration (g). C is a special case where air resistance is absent, but the definition is about the force origin."
+    },
+    "hint": "Think about a stone dropped from a height with no other push or pull."
+  },
+  {
+    "id": 9,
+    "question": "The pressure exerted by a force of 100 N on an area of 4 m² is:",
+    "subtopic": "Thrust and Pressure",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "400 Pa", "isCorrect": false },
+      { "id": "B", "text": "25 Pa", "isCorrect": true },
+      { "id": "C", "text": "0.04 Pa", "isCorrect": false },
+      { "id": "D", "text": "25 N/m", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Pressure = Force / Area = 100 / 4 = 25 Pa (or N/m²).",
+      "whyOthersWrong": "A results from multiplication. C is area/force. D uses an incorrect unit for pressure."
+    },
+    "hint": "Use the formula Pressure = Thrust / Area."
+  },
+  {
+    "id": 10,
+    "question": "Archimedes' Principle states that the upward buoyant force is equal to the:",
+    "subtopic": "Archimedes' Principle",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Mass of the object", "isCorrect": false },
+      { "id": "B", "text": "Weight of the displaced fluid", "isCorrect": true },
+      { "id": "C", "text": "Density of the object", "isCorrect": false },
+      { "id": "D", "text": "Volume of the object", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. According to Archimedes, the buoyant force (upthrust) is exactly equal to the weight of the fluid pushed aside by the object.",
+      "whyOthersWrong": "A, C, and D are related to whether an object floats or sinks, but are not what the force *equals*."
+    },
+    "hint": "Think about what happens to the water level when you get into a bathtub."
+  },
+  {
+    "id": 11,
+    "question": "An object will float on a liquid if its density is:",
+    "subtopic": "Relative Density",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Greater than the liquid's density", "isCorrect": false },
+      { "id": "B", "text": "Equal to the liquid's density", "isCorrect": false },
+      { "id": "C", "text": "Less than the liquid's density", "isCorrect": true },
+      { "id": "D", "text": "Zero", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. If the object is less dense than the fluid, the buoyant force can exceed the object's weight at some immersion depth, allowing it to float.",
+      "whyOthersWrong": "A causes the object to sink. B results in neutral buoyancy (floats submerged)."
+    },
+    "hint": "Think of cork versus an iron nail in water."
+  },
+  {
+    "id": 12,
+    "question": "Why does a sheet of paper fall slower than a crumpled ball of paper?",
+    "subtopic": "Free Fall",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Gravity acts less on the sheet", "isCorrect": false },
+      { "id": "B", "text": "The sheet has less mass", "isCorrect": false },
+      { "id": "C", "text": "The sheet experiences more air resistance due to its larger surface area", "isCorrect": true },
+      { "id": "D", "text": "The ball is heavier", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Air offers resistance to motion. A sheet has a larger area, so it hits more air particles, slowing its descent more than the compact ball.",
+      "whyOthersWrong": "In a vacuum, both would fall at the same rate. Gravity depends on mass, which is the same for both."
+    },
+    "hint": "Consider the effect of the 'wind' on the falling paper."
+  },
+  {
+    "id": 13,
+    "question": "The value of 'g' becomes ______ as we move from the poles to the equator.",
+    "subtopic": "Free Fall",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Greater", "isCorrect": false },
+      { "id": "B", "text": "Smaller", "isCorrect": true },
+      { "id": "C", "text": "Zero", "isCorrect": false },
+      { "id": "D", "text": "Remains constant", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Because Earth is not a perfect sphere (it bulges at the equator), the radius R is larger at the equator. Since g ∝ 1/R², 'g' is smaller at the equator and greater at the poles.",
+      "whyOthersWrong": "A describes the reverse motion. D is a simplification used in basic problems but isn't geographically accurate."
+    },
+    "hint": "Earth is fat at the middle (equator); does that move you further from the center?"
+  },
+  {
+    "id": 14,
+    "question": "A balloon filled with helium rises in the air because:",
+    "subtopic": "Buoyancy",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Air has no weight", "isCorrect": false },
+      { "id": "B", "text": "The upthrust of air is greater than the weight of the balloon", "isCorrect": true },
+      { "id": "C", "text": "Gravity does not act on helium", "isCorrect": false },
+      { "id": "D", "text": "Helium has zero density", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Air is a fluid. The weight of compressed air displaced by the balloon is greater than the total weight of the light helium and balloon skin.",
+      "whyOthersWrong": "Air has weight (pressure). Gravity acts on everything. Helium is light but has mass/density."
+    },
+    "hint": "It's the same reason a ship floats on water."
+  },
+  {
+    "id": 15,
+    "question": "Newton's seat under an apple tree led to which realization?",
+    "subtopic": "Gravitation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Apples are tasty", "isCorrect": false },
+      { "id": "B", "text": "The same force of attraction acts on both the apple and the moon", "isCorrect": true },
+      { "id": "C", "text": "The moon is falling in a straight line", "isCorrect": false },
+      { "id": "D", "text": "Only Earth has gravity", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Newton conjectured that the Earth attracts the moon just like it does an apple, and this force is universal for all celestial bodies.",
+      "whyOthersWrong": "A is trivial. C is wrong as the moon moves in a circle. D is wrong as all objects attract each other."
+    },
+    "hint": "He connected terrestrial motion (falling apple) with celestial motion (orbiting moon)."
+  }
+]

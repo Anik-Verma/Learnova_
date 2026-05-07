@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "The part of the human eye that regulates and controls the amount of light entering the eye is:",
+    "subtopic": "Structure of Human Eye",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Retina", "isCorrect": false },
+      { "id": "B", "text": "Pupil", "isCorrect": true },
+      { "id": "C", "text": "Cornea", "isCorrect": false },
+      { "id": "D", "text": "Iris", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The pupil is the central opening in the eye that changes its size to control luminosity. The Iris actually moves to make the pupil larger or smaller.",
+      "whyOthersWrong": "A is the screen. C is the outer covering. D is the muscular diaphragm that *controls* the pupil but isn't the opening itself."
+    },
+    "hint": "It's the black spot in the center of your eye."
+  },
+  {
+    "id": 2,
+    "question": "A person cannot see objects beyond 1.2 m distinctly. What should be the nature of the corrective lens?",
+    "subtopic": "Defects of Vision",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Convex lens", "isCorrect": false },
+      { "id": "B", "text": "Concave lens", "isCorrect": true },
+      { "id": "C", "text": "Cylindrical lens", "isCorrect": false },
+      { "id": "D", "text": "Bifocal lens", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Inability to see distant objects (far point < infinity) is Myopia. It is corrected using a concave (diverging) lens to move the image back onto the retina.",
+      "whyOthersWrong": "A corrects Hypermetropia. C corrects Astigmatism. D corrects Presbyopia."
+    },
+    "hint": "This condition is also called 'near-sightedness'."
+  },
+  {
+    "id": 3,
+    "question": "The splitting of white light into its component colors by a prism is called:",
+    "subtopic": "Dispersion of Light",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Reflection", "isCorrect": false },
+      { "id": "B", "text": "Refraction", "isCorrect": false },
+      { "id": "C", "text": "Dispersion", "isCorrect": true },
+      { "id": "D", "text": "Scattering", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Dispersion is the phenomenon where white light separates into a spectrum (VIBGYOR) because different colors travel at different speeds through glass.",
+      "whyOthersWrong": "Reflection is bouncing back. Refraction is bending. Scattering is random redirection by particles."
+    },
+    "hint": "This process leads to the formation of a rainbow."
+  },
+  {
+    "id": 4,
+    "question": "The blue color of the sky is due to:",
+    "subtopic": "Atmospheric Refraction and Scattering",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Dispersion", "isCorrect": false },
+      { "id": "B", "text": "Total internal reflection", "isCorrect": false },
+      { "id": "C", "text": "Scattering of light", "isCorrect": true },
+      { "id": "D", "text": "Refraction", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Molecules in the atmosphere scatter shorter wavelengths (blue/violet) more effectively than longer ones, coloring the sky blue.",
+      "whyOthersWrong": "Other optical phenomena like refraction and dispersion create stars' twinkling and rainbows but not the overall sky color."
+    },
+    "hint": "It involves fine particles in the air redirecting light rays."
+  },
+  {
+    "id": 5,
+    "question": "Which set of colors is correct for the light spectrum in increasing order of wavelength?",
+    "subtopic": "Dispersion of Light",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Red, Yellow, Blue, Violet", "isCorrect": false },
+      { "id": "B", "text": "Violet, Blue, Yellow, Red", "isCorrect": true },
+      { "id": "C", "text": "Green, Orange, Indigo, Red", "isCorrect": false },
+      { "id": "D", "text": "Red, Orange, Yellow, Green", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. In VIBGYOR, wavelength increases from Violet to Red. So increasing order is V -> I -> B -> G -> Y -> O -> R.",
+      "whyOthersWrong": "A is decreasing order. C and D have out-of-sequence colors."
+    },
+    "hint": "Remember VIBGYOR; the tail (Red) has the longest wavelength."
+  },
+  {
+    "id": 6,
+    "question": "The danger signal lights are red in color because red light:",
+    "subtopic": "Atmospheric Refraction and Scattering",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Is scattered most by fog or smoke", "isCorrect": false },
+      { "id": "B", "text": "Is scattered least by fog or smoke", "isCorrect": true },
+      { "id": "C", "text": "Is most pleasant to the eyes", "isCorrect": false },
+      { "id": "D", "text": "Has the highest frequency", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Red has the longest wavelength and is scattered the least by air/water particles, allowing it to be seen from the greatest distance.",
+      "whyOthersWrong": "Scattering most would make it invisible. Red has the *lowest* frequency, not highest."
+    },
+    "hint": "It remains visible even in thick fog."
+  },
+  {
+    "id": 7,
+    "question": "A student sitting on the last bench can read the blackboard but finds it difficult to read a book on his desk. He is suffering from:",
+    "subtopic": "Defects of Vision",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Myopia", "isCorrect": false },
+      { "id": "B", "text": "Hypermetropia", "isCorrect": true },
+      { "id": "C", "text": "Presbyopia", "isCorrect": false },
+      { "id": "D", "text": "Cataract", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Since he can see clearly at a distance but NOT near, he has 'farsightedness' or Hypermetropia. Near point > 25 cm.",
+      "whyOthersWrong": "Myopia is the opposite (can't see far). Presbyopia is age-related near vision loss (student context implies hypermetropia)."
+    },
+    "hint": "Analyze what he can see (far) versus what he can't (near)."
+  },
+  {
+    "id": 8,
+    "question": "The twinkling of stars is primarily due to:",
+    "subtopic": "Atmospheric Refraction",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Scattering of light by dust", "isCorrect": false },
+      { "id": "B", "text": "Atmospheric refraction of starlight", "isCorrect": true },
+      { "id": "C", "text": "Dispersion of light by water drops", "isCorrect": false },
+      { "id": "D", "text": "Bouncing of starlight from clouds", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Starlight undergoes continuous refraction as it passes through layers of varying density in the atmosphere, making the star's apparent position flicker.",
+      "whyOthersWrong": "Scattering causes colors. Dispersion causes rainbows. Twinkling is purely a refractive phenomenon."
+    },
+    "hint": "The atmosphere acts like a lens with changing optical density."
+  },
+  {
+    "id": 9,
+    "question": "At noon the sun appears white because:",
+    "subtopic": "Atmospheric Refraction and Scattering",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "All component colors are scattered away", "isCorrect": false },
+      { "id": "B", "text": "Blue color is scattered most", "isCorrect": false },
+      { "id": "C", "text": "Light is least scattered", "isCorrect": true },
+      { "id": "D", "text": "Only red color reaches the eye", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. When overhead, sun rays travel a shorter distance through the atmosphere, meaning very little light is scattered compared to sunrise/sunset.",
+      "whyOthersWrong": "Scattering away would make it look black. Scattering most happens for blue (not overhead). D happens at sunrise/sunset."
+    },
+    "hint": "Sunlight has the shortest path to your eye when it's directly above."
+  },
+  {
+    "id": 10,
+    "question": "The least distance of distinct vision for a young adult with normal vision is:",
+    "subtopic": "Structure of Human Eye",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "25 m", "isCorrect": false },
+      { "id": "B", "text": "2.5 cm", "isCorrect": false },
+      { "id": "C", "text": "25 cm", "isCorrect": true },
+      { "id": "D", "text": "2.5 m", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. A standard human eye can focus on objects clearly as near as 25 cm without strain.",
+      "whyOthersWrong": "Other values are either too small (iris focal distance) or too large (room length)."
+    },
+    "hint": "How close can you comfortably hold a book?"
+  },
+  {
+    "id": 11,
+    "question": "By increasing the curvature of the eye lens, its focal length:",
+    "subtopic": "Accommodation of Eye",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increases", "isCorrect": false },
+      { "id": "B", "text": "Decreases", "isCorrect": true },
+      { "id": "C", "text": "Remains same", "isCorrect": false },
+      { "id": "D", "text": "Becomes infinite", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. A more curved ('bulgy') lens has a smaller radius of curvature, which corresponds to a shorter (decreased) focal length for near vision.",
+      "whyOthersWrong": "Thinning the lens increases focal length for distance. Increasing curve never increases focal length."
+    },
+    "hint": "Ciliary muscles contract to make the lens thicker for reading."
+  },
+  {
+    "id": 12,
+    "question": "Tyndall effect is the phenomenon of scattering of light by:",
+    "subtopic": "Tyndall Effect",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Glass slab", "isCorrect": false },
+      { "id": "B", "text": "Clear water", "isCorrect": false },
+      { "id": "C", "text": "Colloidal particles", "isCorrect": true },
+      { "id": "D", "text": "Vacuum", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. When a beam of light passes through a colloid (like milk or smoky air), the path becomes visible due to scattering by suspended particles.",
+      "whyOthersWrong": "True solutions (clear water) and transparent solids (glass) do not scatter light significantly. Vacuum has no particles."
+    },
+    "hint": "Think of dust motes dancing in a beam of sunlight."
+  },
+  {
+    "id": 13,
+    "question": "During a rainbow formation, which optical effect happens first in a raindrop?",
+    "subtopic": "Dispersion of Light",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Total Internal Reflection", "isCorrect": false },
+      { "id": "B", "text": "Dispersion", "isCorrect": false },
+      { "id": "C", "text": "Refraction", "isCorrect": true },
+      { "id": "D", "text": "Diffraction", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Light first 'refracts' (enters) the drop, then undergoes dispersion and internal reflection. Refraction is the gateway.",
+      "whyOthersWrong": "Reflection and dispersion happen *inside* or *after* the initial bending."
+    },
+    "hint": "Light must enter the water drop from the air first."
+  },
+  {
+    "id": 14,
+    "question": "A bi-focal lens is used to correct which condition?",
+    "subtopic": "Defects of Vision",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Myopia", "isCorrect": false },
+      { "id": "B", "text": "Presbyopia", "isCorrect": true },
+      { "id": "C", "text": "Hypermetropia", "isCorrect": false },
+      { "id": "D", "text": "Color blindness", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Presbyopia often leaves old individuals unable to see both near and far distinctly. Bifocals have concave (top) and convex (bottom) parts to fix both.",
+      "whyOthersWrong": "Myopia and Hypermetropia are usually corrected with single-focus lenses. D is a physiological defect not fixed by lenses."
+    },
+    "hint": "It contains 'two' different focal lengths in one glass."
+  },
+  {
+    "id": 15,
+    "question": "Stars appear slightly higher than their actual position due to:",
+    "subtopic": "Atmospheric Refraction",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Reflection by clouds", "isCorrect": false },
+      { "id": "B", "text": "Total internal reflection", "isCorrect": false },
+      { "id": "C", "text": "Atmospheric refraction", "isCorrect": true },
+      { "id": "D", "text": "Dispersion by ozone layer", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. As starlight enters the atmosphere at an angle, it bends toward the normal, following a curved path that makes the star appear higher.",
+      "whyOthersWrong": "Clouds block light. TIR and dispersion are not responsible for apparent altitude shift."
+    },
+    "hint": "The air's refractive index increases toward the surface."
+  }
+]

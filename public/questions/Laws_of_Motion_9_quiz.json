@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is correct for the S.I. unit of Force?",
+    "subtopic": "Force and Acceleration",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Kilogram (kg)", "isCorrect": false },
+      { "id": "B", "text": "Pascal (Pa)", "isCorrect": false },
+      { "id": "C", "text": "Newton (N)", "isCorrect": true },
+      { "id": "D", "text": "Joule (J)", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as the Newton (N) is the official SI unit for Force, defined as kg·m/s².",
+      "whyOthersWrong": "A is the unit for mass. B is for pressure. D is for work/energy."
+    },
+    "hint": "It is named after the scientist who formulated the three laws of motion."
+  },
+  {
+    "id": 2,
+    "question": "The tendency of an object to resist a change in its state of rest or of uniform motion is called:",
+    "subtopic": "Newton's First Law",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Momentum", "isCorrect": false },
+      { "id": "B", "text": "Inertia", "isCorrect": true },
+      { "id": "C", "text": "Force", "isCorrect": false },
+      { "id": "D", "text": "Velocity", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Inertia is the inherent property of all matter that causes it to oppose any change in its existing state of motion.",
+      "whyOthersWrong": "A is the product of mass and velocity. C is the agency that changes the state. D is the rate of displacement."
+    },
+    "hint": "This word describes a body's 'stubbornness' to move or stop."
+  },
+  {
+    "id": 3,
+    "question": "Momentum of an object is defined as the product of its mass (m) and its:",
+    "subtopic": "Momentum",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Acceleration (a)", "isCorrect": false },
+      { "id": "B", "text": "Distance (s)", "isCorrect": false },
+      { "id": "C", "text": "Velocity (v)", "isCorrect": true },
+      { "id": "D", "text": "Force (F)", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Momentum (p) = m × v. It is a vector quantity having the same direction as velocity.",
+      "whyOthersWrong": "Mass times acceleration equals Force (F=ma). Other combinations are not standard definitions in this context."
+    },
+    "hint": "Check the formula p = mv."
+  },
+  {
+    "id": 4,
+    "question": "When a bus suddenly stops, the passengers are thrown forward. This is due to:",
+    "subtopic": "Newton's First Law",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Inertia of rest", "isCorrect": false },
+      { "id": "B", "text": "Inertia of motion", "isCorrect": true },
+      { "id": "C", "text": "Centripetal force", "isCorrect": false },
+      { "id": "D", "text": "Newton's third law", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The upper body of the passenger was in motion with the bus and tries to stay in that motion due to inertia, while the feet stop with the bus.",
+      "whyOthersWrong": "Inertia of rest happens when a stopped bus starts. C relates to circular motion. D involves reaction forces."
+    },
+    "hint": "You were moving, and your body wants to 'keep' moving."
+  },
+  {
+    "id": 5,
+    "question": "What is the force acting on a body of mass 1000 kg if its momentum changes by 20 kg·m/sec in 0.02 seconds?",
+    "subtopic": "Newton's Second Law",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1 N", "isCorrect": false },
+      { "id": "B", "text": "10 N", "isCorrect": false },
+      { "id": "C", "text": "1000 N", "isCorrect": true },
+      { "id": "D", "text": "0.1 N", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. According to Newton's Second Law, Force = Rate of change of momentum = Δp / Δt = 20 / 0.02 = 1000 N.",
+      "whyOthersWrong": "A, B, and D are incorrect calculations due to power-of-ten errors."
+    },
+    "hint": "Force = Change in Momentum / Time."
+  },
+  {
+    "id": 6,
+    "question": "A fielder pulls his hands backwards after catching a cricket ball. Why?",
+    "subtopic": "Newton's Second Law",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "To increase the force on the ball", "isCorrect": false },
+      { "id": "B", "text": "To increase the time of catch to reduce the impact force", "isCorrect": true },
+      { "id": "C", "text": "To catch the ball more stylishly", "isCorrect": false },
+      { "id": "D", "text": "To decrease the acceleration of the ball", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because extending the time of the catch (Δt) reduces the rate of change of momentum, thereby decreasing the force exerted on the hands.",
+      "whyOthersWrong": "A would hurt the fielder. C is not a scientific reason. D is a result, but B is the underlying purpose."
+    },
+    "hint": "Increase the 'delta t' to decrease the 'F'."
+  },
+  {
+    "id": 7,
+    "question": "'Action and reaction forces always act on two different bodies and in opposite directions.' This is a statement of:",
+    "subtopic": "Newton's Third Law",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Newton's first law", "isCorrect": false },
+      { "id": "B", "text": "Newton's second law", "isCorrect": false },
+      { "id": "C", "text": "Newton's third law", "isCorrect": true },
+      { "id": "D", "text": "Law of gravitation", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Newton's Third Law states that for every action, there is an equal and opposite reaction acting on the opposing body.",
+      "whyOthersWrong": "First law is inertia. Second law is F=ma. Gravitation relates to mass attraction."
+    },
+    "hint": "To every action there is an equal and opposite reaction."
+  },
+  {
+    "id": 8,
+    "question": "A gun recoils after firing a bullet. This can be explained by which law?",
+    "subtopic": "Conservation of Momentum",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Law of Inertia", "isCorrect": false },
+      { "id": "B", "text": "Law of Conservation of Momentum", "isCorrect": true },
+      { "id": "C", "text": "Pascal's Law", "isCorrect": false },
+      { "id": "D", "text": "Newton's First Law", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. In an isolated system, the total momentum remains constant. The forward momentum of the bullet is balanced by the backward momentum of the gun.",
+      "whyOthersWrong": "A and D are the same and don't involve the exchange of momentum. C is about fluid pressure."
+    },
+    "hint": "Total momentum before = Total momentum after."
+  },
+  {
+    "id": 9,
+    "question": "The inertia of an object depends primarily on its:",
+    "subtopic": "Newton's First Law",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Volume", "isCorrect": false },
+      { "id": "B", "text": "Shape", "isCorrect": false },
+      { "id": "C", "text": "Mass", "isCorrect": true },
+      { "id": "D", "text": "Velocity", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Mass is defined as a measure of inertia. A heavier object (more mass) has more inertia than a lighter one.",
+      "whyOthersWrong": "Volume, shape, and velocity do not dictate the intrinsic capability of a body to resist change in its state of rest/motion."
+    },
+    "hint": "Is it harder to push a bicycle or a truck?"
+  },
+  {
+    "id": 10,
+    "question": "A goalkeeper in a football game pulls his hands backwards after holding the ball. This enables him to:",
+    "subtopic": "Newton's Second Law",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increase the momentum of the ball", "isCorrect": false },
+      { "id": "B", "text": "Decrease the rate of change of momentum", "isCorrect": true },
+      { "id": "C", "text": "Exert larger force on the ball", "isCorrect": false },
+      { "id": "D", "text": "Keep the ball stationary", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. By moving the hands with the ball, the catcher increases the time taken to bring the ball to rest, thus reducing the rate of momentum change and the force impact.",
+      "whyOthersWrong": "A and C are counter-productive. D is the end result but B is the physics mechanism described in NCERT."
+    },
+    "hint": "Think about how 'time' affects the 'impact' felt."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following describes 'Force' mathematically according to Newton's second law?",
+    "subtopic": "Force and Acceleration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "F = m + a", "isCorrect": false },
+      { "id": "B", "text": "F = m / a", "isCorrect": false },
+      { "id": "C", "text": "F = m × a", "isCorrect": true },
+      { "id": "D", "text": "F = v × t", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Newton's Second Law provides the quantitative definition of force as the product of mass and acceleration.",
+      "whyOthersWrong": "A, B, and D are geometrically and physically incorrect relations for Force."
+    },
+    "hint": "It's the most famous equation in mechanics: Force = Mass x ______."
+  },
+  {
+    "id": 12,
+    "question": "If the action is a force and the reaction is also a force, why do they not cancel each other out to produce zero net force?",
+    "subtopic": "Newton's Third Law",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Because they are not equal in magnitude", "isCorrect": false },
+      { "id": "B", "text": "Because they act along the same direction", "isCorrect": false },
+      { "id": "C", "text": "Because they act on two different bodies", "isCorrect": true },
+      { "id": "D", "text": "Because one is always greater than the other", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Forces only cancel when they act on the SAME body. Newton's Third Law forces act on distinct bodies, so each body experiences a non-zero net force.",
+      "whyOthersWrong": "A and D contradict the Third Law which states they are always equal. B contradicts the Third Law which states they are opposite."
+    },
+    "hint": "Cancellation of forces requires them to be applied to the same object."
+  },
+  {
+    "id": 13,
+    "question": "The motion of a rocket works on the principle of:",
+    "subtopic": "Newton's Third Law",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Newton's first law", "isCorrect": false },
+      { "id": "B", "text": "Force of inertia", "isCorrect": false },
+      { "id": "C", "text": "Newton's third law of motion", "isCorrect": true },
+      { "id": "D", "text": "Atmospheric pressure", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The rocket expels gas downwards (action), and the gas pushes the rocket upwards (reaction), allowing it to lift off.",
+      "whyOthersWrong": "While conservation of momentum also applies, NCERT specifically lists it as an example of action-reaction pairs."
+    },
+    "hint": "Gas goes down, rocket goes up."
+  },
+  {
+    "id": 14,
+    "question": "Two objects of different masses moving with the same velocity are stopped by applying the same retarding force. Which one will take more time to stop?",
+    "subtopic": "Newton's Second Law",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The lighter object", "isCorrect": false },
+      { "id": "B", "text": "The heavier object", "isCorrect": true },
+      { "id": "C", "text": "Both will take the same time", "isCorrect": false },
+      { "id": "D", "text": "Cannot be determined", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Momentum (mv) is higher for the heavier object. Since Force = Δp / t, for the same Force, a larger Δp requires a larger 't'.",
+      "whyOthersWrong": "A is easier to stop. C assumes mass doesn't matter. D is incorrect as the relationship is defined."
+    },
+    "hint": "Heavier things have more 'punch' or momentum to take away."
+  },
+  {
+    "id": 15,
+    "question": "A heavy object of mass 10 kg falls on the floor from a height of 80 cm. What is the momentum transferred to the floor? (Take g = 10 m/s²)",
+    "subtopic": "Momentum",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "10 kg m/s", "isCorrect": false },
+      { "id": "B", "text": "40 kg m/s", "isCorrect": true },
+      { "id": "C", "text": "80 kg m/s", "isCorrect": false },
+      { "id": "D", "text": "400 kg m/s", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Calculate v using v²-u²=2as: v² = 2*10*0.8 = 16 => v = 4 m/s. Momentum p = mv = 10*4 = 40 kg m/s.",
+      "whyOthersWrong": "Other values result from using height in cm directly (80) or other calculation errors."
+    },
+    "hint": "First find the velocity just before hitting the ground using v² = 2gh."
+  }
+]

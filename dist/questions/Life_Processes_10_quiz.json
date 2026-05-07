@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "In which part of a biogas plant would you find anaerobic bacteria responsible for fermentation?",
+    "subtopic": "Energy from Biomass",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Inlet chamber (A)", "isCorrect": false },
+      { "id": "B", "text": "Digester tank (B)", "isCorrect": true },
+      { "id": "C", "text": "Gas storage tank (D)", "isCorrect": false },
+      { "id": "D", "text": "Outlet chamber (C)", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The digester is a sealed tank where anaerobic decomposition of animal and plant waste takes place in the absence of oxygen.",
+      "whyOthersWrong": "A is for mixing slurry. D is the gas collection dome. C is for removing spent slurry (manure)."
+    },
+    "hint": "It is the large underground tank where the main chemical breakdown happens."
+  },
+  {
+    "id": 2,
+    "question": "Biogas is primarily a mixture of which gases?",
+    "subtopic": "Energy from Biomass",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Propane and Butane", "isCorrect": false },
+      { "id": "B", "text": "Methane, Hydrogen, CO2 and Nitrogen", "isCorrect": true },
+      { "id": "C", "text": "Ethane and Carbon Monoxide", "isCorrect": false },
+      { "id": "D", "text": "Oxygen and Sulphur Dioxide", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Biogas contains up to 75% Methane, making it an excellent fuel, along with smaller amounts of hydrogen and carbon dioxide.",
+      "whyOthersWrong": "A is LPG. C and D contain gases that are either toxic pollutants or not primary components of fermented biomass."
+    },
+    "hint": "One of these is a potent greenhouse gas that makes up the majority of the mixture."
+  },
+  {
+    "id": 3,
+    "question": "If 10,000 J of solar energy falls on green plants in a terrestrial ecosystem, approximately how much energy will be converted into food energy?",
+    "subtopic": "Energy Flow in Ecosystem",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1,000 J", "isCorrect": false },
+      { "id": "B", "text": "100 J", "isCorrect": true },
+      { "id": "C", "text": "10,000 J", "isCorrect": false },
+      { "id": "D", "text": "10 J", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Green plants capture only about 1% of the energy of sunlight that falls on their leaves and convert it into food energy.",
+      "whyOthersWrong": "1,000 J is 10%. 10,000 J is 100%. 10 J is 0.1%."
+    },
+    "hint": "Apply the '1% law' for solar energy capture by producers."
+  },
+  {
+    "id": 4,
+    "question": "A person consuming curd/yogurt for lunch occupies which trophic level in a food chain?",
+    "subtopic": "Trophic Levels",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "First trophic level", "isCorrect": false },
+      { "id": "B", "text": "Second trophic level", "isCorrect": false },
+      { "id": "C", "text": "Third trophic level", "isCorrect": true },
+      { "id": "D", "text": "Fourth trophic level", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Plants (Producers, 1st) are eaten by cattle (Primary Consumers, 2nd), whose milk product (curd) is eaten by humans (Secondary Consumers, 3rd).",
+      "whyOthersWrong": "1st is reserved for plants. 2nd is for herbivores. 4th would be a predator eating the human."
+    },
+    "hint": "Map the path: Grass -> Cow -> Milk/Curd -> Human."
+  },
+  {
+    "id": 5,
+    "question": "The role of decomposers in an ecosystem is to:",
+    "subtopic": "Energy Flow in Ecosystem",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Produce food from solar energy", "isCorrect": false },
+      { "id": "B", "text": "Break down organic material into inorganic forms", "isCorrect": true },
+      { "id": "C", "text": "Eat primary consumers directly", "isCorrect": false },
+      { "id": "D", "text": "Regulate the climate only", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Decomposers recycle nutrients by converting complex organic matter from dead organisms into simple inorganic substances for plants to use again.",
+      "whyOthersWrong": "Producers make food. Carnivores eat consumers. Decomposers work at all levels once life ends."
+    },
+    "hint": "Think about what happens to fallen leaves and dead wood over time."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following describes the movement of energy and matter in an ecosystem?",
+    "subtopic": "Energy and Matter Cycling",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Energy is bidirectional and matter is unidirectional", "isCorrect": false },
+      { "id": "B", "text": "Energy is repeatedly circulating and matter is unidirectional", "isCorrect": false },
+      { "id": "C", "text": "Energy is unidirectional and matter is repeatedly circulating", "isCorrect": true },
+      { "id": "D", "text": "Both move in a single straight line", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Energy enters as sunlight and is lost as heat (unidirectional flow). Matter (nutrients) is recycled back into the system by decomposers (cycling).",
+      "whyOthersWrong": "A and B reverse the fundamental principles of thermodynamics and nutrient cycles in ecology."
+    },
+    "hint": "Sunlight cannot be 'reclaimed' once lost as heat, but minerals can be reused."
+  },
+  {
+    "id": 7,
+    "question": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in:",
+    "subtopic": "Respiration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Cytoplasm", "isCorrect": false },
+      { "id": "B", "text": "Mitochondria", "isCorrect": true },
+      { "id": "C", "text": "Chloroplast", "isCorrect": false },
+      { "id": "D", "text": "Nucleus", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Aerobic respiration involves the complete oxidation of pyruvate in the mitochondria to produce significant ATP energy.",
+      "whyOthersWrong": "Glycolysis (pyruvate formation) happens in the cytoplasm. Chloroplasts are for photosynthesis. Nucleus is for genetic control."
+    },
+    "hint": "It is often called the 'powerhouse of the cell'."
+  },
+  {
+    "id": 8,
+    "question": "What prevents backflow of blood inside the heart during contraction?",
+    "subtopic": "Transportation in Humans",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Valves in heart", "isCorrect": true },
+      { "id": "B", "text": "Thick muscular walls of ventricles", "isCorrect": false },
+      { "id": "C", "text": "Thin walls of atria", "isCorrect": false },
+      { "id": "D", "text": "Presence of septum", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Valves ensure that blood flows only in one direction through the heart chambers and into the arteries.",
+      "whyOthersWrong": "Thick walls help in pumping. Septum prevents mixing of oxygenated/deoxygenated blood."
+    },
+    "hint": "Think of one-way gates."
+  },
+  {
+    "id": 9,
+    "question": "The filtration units of kidneys are called:",
+    "subtopic": "Excretion in Humans",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Ureter", "isCorrect": false },
+      { "id": "B", "text": "Urethra", "isCorrect": false },
+      { "id": "C", "text": "Nephrons", "isCorrect": true },
+      { "id": "D", "text": "Neurons", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Each kidney contains about a million nephrons, which are the basic functional and structural units for urine formation.",
+      "whyOthersWrong": "Ureter and Urethra are tubes for transport. Neurons are nerve cells."
+    },
+    "hint": "The name sounds similar to 'neuron' but is part of the renal system."
+  },
+  {
+    "id": 10,
+    "question": "In autotrophs, excess carbohydrates are stored in the form of:",
+    "subtopic": "Photosynthesis",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Glycogen", "isCorrect": false },
+      { "id": "B", "text": "Fat", "isCorrect": false },
+      { "id": "C", "text": "Starch", "isCorrect": true },
+      { "id": "D", "text": "Protein", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Plants produce glucose through photosynthesis and store any surplus as complex starch for later use.",
+      "whyOthersWrong": "Glycogen is the storage form in animals. Fats and proteins have different structural/biological roles."
+    },
+    "hint": "It's the same substance that makes potatoes energy-rich."
+  },
+  {
+    "id": 11,
+    "question": "The exit of unabsorbed food material is regulated by:",
+    "subtopic": "Nutrition and Digestion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Liver", "isCorrect": false },
+      { "id": "B", "text": "Anal sphincter", "isCorrect": true },
+      { "id": "C", "text": "Small intestine", "isCorrect": false },
+      { "id": "D", "text": "Villi", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The anal sphincter is a ring-like muscle that controls the expulsion of waste (egestion) from the large intestine.",
+      "whyOthersWrong": "Liver secretes bile. Small intestine absorbs nutrients. Villi increase absorption surface area."
+    },
+    "hint": "It is a muscular ring at the end of the digestive tract."
+  },
+  {
+    "id": 12,
+    "question": "Xylem in plants is responsible for the transport of:",
+    "subtopic": "Transportation in Plants",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Amino acids", "isCorrect": false },
+      { "id": "B", "text": "Food", "isCorrect": false },
+      { "id": "C", "text": "Water and minerals", "isCorrect": true },
+      { "id": "D", "text": "Oxygen", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Xylem vessels and tracheids form a continuous system of water-conducting channels reaching all parts of the plant.",
+      "whyOthersWrong": "Phloem transports food (sucrose) and amino acids. Oxygen moves via diffusion (stomata)."
+    },
+    "hint": "Think of the upward movement from roots to leaves."
+  },
+  {
+    "id": 13,
+    "question": "Which of these is a byproduct of anaerobic respiration in yeast?",
+    "subtopic": "Respiration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Lactic acid", "isCorrect": false },
+      { "id": "B", "text": "Water", "isCorrect": false },
+      { "id": "C", "text": "Ethanol and CO2", "isCorrect": true },
+      { "id": "D", "text": "Oxygen", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Yeast breaks down glucose into ethanol and carbon dioxide in the absence of oxygen, a process used in brewing and baking.",
+      "whyOthersWrong": "Lactic acid forms in muscle cells during anaerobic exercise. Water and Oxygen are not anaerobic products."
+    },
+    "hint": "This process is also known as fermentation."
+  },
+  {
+    "id": 14,
+    "question": "Biological catalysts that speed up chemical reactions in the body are called:",
+    "subtopic": "Nutrition and Digestion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Hormones", "isCorrect": false },
+      { "id": "B", "text": "Enzymes", "isCorrect": true },
+      { "id": "C", "text": "Vitamins", "isCorrect": false },
+      { "id": "D", "text": "Antibodies", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Enzymes like pepsin or amylase break down complex food into simpler molecules without being consumed in the reaction.",
+      "whyOthersWrong": "Hormones are chemical messengers. Vitamins are micronutrients. Antibodies fight pathogens."
+    },
+    "hint": "Salivary amylase is one example of these."
+  },
+  {
+    "id": 15,
+    "question": "Why is the rate of breathing in aquatic organisms much faster than in terrestrial organisms?",
+    "subtopic": "Respiration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Water contains more oxygen than air", "isCorrect": false },
+      { "id": "B", "text": "Aquatic organisms need more energy", "isCorrect": false },
+      { "id": "C", "text": "Amount of dissolved oxygen in water is fairly low", "isCorrect": true },
+      { "id": "D", "text": "They use gills instead of lungs", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Since the concentration of oxygen dissolved in water is relatively low compared to the oxygen in the atmosphere, fish must process water much faster to get enough O2.",
+      "whyOthersWrong": "Water actually has much less available oxygen. Gills are the mechanism, but the low concentration is the biological driver."
+    },
+    "hint": "Compare the 'density' of oxygen in air versus a bucket of water."
+  }
+]

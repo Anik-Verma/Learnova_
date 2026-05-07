@@ -1,0 +1,216 @@
+{
+  "chapterTitle": "Control and Coordination",
+  "subject": "Biology",
+  "standard": 10,
+  "totalReadTime": "45 minutes",
+  "chapterSummary": "This chapter explores how living organisms control and coordinate their actions in response to the environment. We study the human nervous system (brain and spinal cord), reflex actions, and the chemical communication system (hormones) in both plants and animals. Understanding these systems helps us see how the body maintains balance and reacts to external stimuli.",
+  "subtopics": [
+    {
+      "id": "nervous_system_intro",
+      "title": "The Animal Nervous System",
+      "order": 1,
+      "summary": "The nervous system uses electrical impulses to quickly transmit information and coordinate body movements.",
+      "theory": "In animals, control is provided by nervous and muscular tissues. The basic unit of the nervous system is the 'Neuron' (nerve cell). Receptors in our sense organs (like taste and smell) acquire information, which sets off a chemical reaction creating an 'electrical impulse' at the dendritic tip. This impulse travels from the dendrite to the cell body, along the 'Axon' to its end, where it crosses a 'Synapse' (gap) between neurons using chemicals to start a new impulse in the next neuron. This allows rapid communication from the brain to muscles.",
+      "didYouKnow": "Impulses travel in your nerves at speeds up to 120 meters per second—that's faster than a high-speed 'Rajdhani Express' train!",
+      "example": {
+        "title": "Touching a Hot Object",
+        "description": "When you accidentally touch a hot 'chai' pan, your receptors immediately send an impulse to your spinal cord and brain, telling your muscles to pull your hand away before you even realize what happened."
+      },
+      "keyTerms": [
+        {
+          "term": "Neuron",
+          "definition": "The structural and functional unit of the nervous system responsible for transmitting electrical impulses."
+        },
+        {
+          "term": "Synapse",
+          "definition": "The small gap between two neurons where information is transmitted via chemicals."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which part of the neuron receives the electrical impulse first?",
+        "answer": "The Dendrite (specifically the dendritic tip)."
+      }
+    },
+    {
+      "id": "reflex_actions",
+      "title": "Reflex Actions and Reflex Arc",
+      "order": 2,
+      "summary": "Reflex actions are sudden, automatic responses to stimuli that occur without conscious thought to protect the body.",
+      "theory": "A 'Reflex' is a sudden action in response to the environment (like pulling your hand from a flame). Since conscious thinking in the brain takes time, the body uses a 'Reflex Arc'. The nerves that detect a stimulus (sensory neurons) are connected directly to the nerves that move muscles (motor neurons) in the 'Spinal Cord'. This bypasses the slower thinking process of the brain for emergency situations, although the information is eventually sent to the brain for processing as well.",
+      "didYouKnow": "Reflex arcs evolved in animals because the brain was originally not fast enough to protect against sudden dangers from the environment!",
+      "example": {
+        "title": "Knee-Jerk Reflex",
+        "description": "Have you seen a doctor tap a patient's knee with a small hammer? The leg kicks out instantly without the person 'deciding' to move it—that's a pure reflex arc in action."
+      },
+      "keyTerms": [
+        {
+          "term": "Reflex Arc",
+          "definition": "The shortest nerve pathway that produces an automatic response to a stimulus."
+        },
+        {
+          "term": "Spinal Cord",
+          "definition": "The bundle of nerves running down the backbone that coordinates most reflex actions."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Where are reflex arcs generally formed in the body?",
+        "answer": "In the Spinal Cord."
+      }
+    },
+    {
+      "id": "human_brain",
+      "title": "The Human Brain",
+      "order": 3,
+      "summary": "The brain is the main coordinating center of the body, divided into the fore-brain, mid-brain, and hind-brain.",
+      "theory": "The 'Brain' and spinal cord form the Central Nervous System (CNS). The brain has three parts: 1. 'Fore-brain' (Cerebrum): The main thinking part; handles senses, learning, and association. 2. 'Mid-brain' & 'Hind-brain': Handle involuntary actions like breathing, blood pressure (Medulla), and balance (Cerebellum). The brain is protected by the skull (cranium) and sits inside a fluid-filled 'balloon' (cerebrospinal fluid) for shock absorption.",
+      "didYouKnow": "The Cerebellum is so precise that it's the reason you can walk in a perfect straight line or ride a 'bicycle' without falling over!",
+      "example": {
+        "title": "Feeling Full",
+        "description": "Success in a 'cricket match' or finishing a delicious plate of 'biryani'—different parts of your fore-brain handle the joy of winning and the sensation of being full."
+      },
+      "keyTerms": [
+        {
+          "term": "Cerebrum",
+          "definition": "The largest part of the brain responsible for thinking, memory, and voluntary actions."
+        },
+        {
+          "term": "Medulla",
+          "definition": "Part of the hind-brain that controls involuntary actions like heartbeat and blood pressure."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which part of the brain is responsible for precision and balance?",
+        "answer": "The Cerebellum (in the Hind-brain)."
+      }
+    },
+    {
+      "id": "coordination_in_plants",
+      "title": "Coordination in Plants",
+      "order": 4,
+      "summary": "Plants coordinate their actions using hormones and changes in cell hydration, as they lack a nervous system.",
+      "theory": "Plants respond to stimuli in two ways: 1. 'Immediate Response': Like the 'Touch-me-not' (Mimosa) plant folding leaves by changing water amount in cells (swelling/shrinking). 2. 'Growth-dependent': Slow movements like a seedling growing towards light. Plants use hormones to grow: 'Auxin' makes cells grow longer on the shady side (phototropism), 'Gibberellins' help stem growth, 'Cytokinins' promote cell division, and 'Abscisic Acid' inhibits growth (making leaves wilt).",
+      "didYouKnow": "Sunflowers follow the Sun across the sky because auxins cause the stem to grow more on the shaded side, effectively 'bending' the flower toward the light!",
+      "example": {
+        "title": "Chhui-Mui Plant",
+        "description": "Touch the leaves of a 'chhui-mui' plant and watch them droop instantly. This isn't growth; it's just the plant moving water out of its leaf base cells."
+      },
+      "keyTerms": [
+        {
+          "term": "Phototropism",
+          "definition": "The growth of a plant part towards or away from light."
+        },
+        {
+          "term": "Auxin",
+          "definition": "A plant hormone synthesized at shoot tips that helps in cell elongation."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which hormone helps the plant stem grow?",
+        "answer": "Gibberellins."
+      }
+    },
+    {
+      "id": "hormones_in_animals",
+      "title": "Chemical Coordination: Hormones",
+      "order": 5,
+      "summary": "Hormones are chemical messengers secreted by endocrine glands that coordinate long-term body changes.",
+      "theory": "Hormones provide a slower but more widespread communication than nerves. Important glands include: 1. 'Adrenal': Secretes Adrenaline for 'flight or fight' responses. 2. 'Thyroid': Secretes Thyroxin (needs Iodine) for metabolism. 3. 'Pituitary': Secretes Growth Hormone. 4. 'Pancreas': Secretes Insulin to regulate blood sugar. 5. 'Testes/Ovaries': Secrete Testosterone/Oestrogen for puberty changes. Hormone levels are strictly regulated by 'feedback mechanisms'.",
+      "didYouKnow": "When you are scared or excited, adrenaline makes your heart beat faster to pump more oxygen to your muscles so you can 'run away' or 'fight'!",
+      "example": {
+        "title": "Iodised Salt",
+        "description": "Have you seen 'Iodised Salt' advertisements? We need iodine for our thyroid gland to make thyroxin. Without it, the neck can swell up (Goitre)."
+      },
+      "keyTerms": [
+        {
+          "term": "Hormones",
+          "definition": "Chemical substances secreted in small amounts by endocrine glands that acts as messengers."
+        },
+        {
+          "term": "Insulin",
+          "definition": "A hormone produced by the pancreas that regulates blood sugar levels."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which gland is known as the 'Master Gland' that controls other glands?",
+        "answer": "The Pituitary Gland."
+      }
+    }
+  ],
+  "importantFormulas": [],
+  "connectsTo": ["Life Processes", "Heredity and Evolution", "How do Organisms Reproduce?"]
+}

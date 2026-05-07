@@ -1,0 +1,27 @@
+{
+  "topicId": "light_10",
+  "topicName": "Light — Reflection and Refraction",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which mirror is used as a rear-view mirror in vehicles?",
+      "options": ["Concave mirror", "Convex mirror", "Plane mirror", "Parabolic mirror"],
+      "answer": 1,
+      "explanation": "Convex mirrors give a wider field of view as they are curved outwards. They also always produce an erect and diminished image."
+    },
+    {
+      "id": "q2",
+      "question": "The refractive index of glass is 1.5. What is the speed of light in glass?",
+      "options": ["3 x 10^8 m/s", "2.25 x 10^8 m/s", "2 x 10^8 m/s", "1.5 x 10^8 m/s"],
+      "answer": 2,
+      "explanation": "Speed of light in medium = (Speed of light in vacuum) / (Refractive index). So, V = (3 x 10^8) / 1.5 = 2 x 10^8 m/s."
+    },
+    {
+      "id": "q3",
+      "question": "A lens has a power of -2.0 D. What is its focal length and type?",
+      "options": ["50 cm, Convex", "-50 cm, Concave", "20 cm, Convex", "-20 cm, Concave"],
+      "answer": 1,
+      "explanation": "f = 1/P. f = 1/(-2.0) = -0.5 m = -50 cm. Negative focal length indicates a concave lens."
+    }
+  ]
+}

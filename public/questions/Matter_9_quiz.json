@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following describes the characteristics of particles of matter correctly?",
+    "subtopic": "Physical Nature of Matter",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "They are extremely small beyond our imagination.", "isCorrect": false },
+      { "id": "B", "text": "They are continuously moving.", "isCorrect": false },
+      { "id": "C", "text": "They have spaces between them.", "isCorrect": false },
+      { "id": "D", "text": "All of the above", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct because particles of matter exhibit all three properties: they are microscopic, in constant motion, and have inter-particle spaces.",
+      "whyOthersWrong": "A, B, and C are not wrong individually, but 'All of the above' is the most complete answer as matter possesses all these characteristics."
+    },
+    "hint": "Recall the three main points of the physical nature of matter."
+  },
+  {
+    "id": 2,
+    "question": "The quantity of matter present in an object is analysed by its:",
+    "subtopic": "Mass and Volume",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Weight", "isCorrect": false },
+      { "id": "B", "text": "Mass", "isCorrect": true },
+      { "id": "C", "text": "Density", "isCorrect": false },
+      { "id": "D", "text": "Volume", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because mass is the measure of the actual amount of matter in an object, which remains constant regardless of the environment.",
+      "whyOthersWrong": "A is wrong because weight depends on gravity. C is wrong because density is mass per unit volume. D is wrong because volume is the space occupied."
+    },
+    "hint": "Think about the property that doesn't change even on the moon."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following statements is correct for the solid state of matter?",
+    "subtopic": "States of Matter",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Solids have no definite shape.", "isCorrect": false },
+      { "id": "B", "text": "Inter-particle space is maximum in solids.", "isCorrect": false },
+      { "id": "C", "text": "Solids have definite shape and volume.", "isCorrect": true },
+      { "id": "D", "text": "Solids are highly compressible.", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because solids have a rigid structure that gives them a fixed shape and a defined volume.",
+      "whyOthersWrong": "A is wrong as that applies to liquids/gases. B is wrong because solids have minimum inter-particle space. D is wrong because solids are generally incompressible."
+    },
+    "hint": "Consider the rigidity of a stone or a piece of wood."
+  },
+  {
+    "id": 4,
+    "question": "The process of conversion of a solid directly into liquid state is called:",
+    "subtopic": "Change of State",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Fusion", "isCorrect": true },
+      { "id": "B", "text": "Vaporisation", "isCorrect": false },
+      { "id": "C", "text": "Condensation", "isCorrect": false },
+      { "id": "D", "text": "Sublimation", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct because fusion (commonly known as melting) is the physical transition of a solid into a liquid.",
+      "whyOthersWrong": "B is liquid to gas. C is gas to liquid. D is solid to gas directly."
+    },
+    "hint": "It's the technical term for melting."
+  },
+  {
+    "id": 5,
+    "question": "What happens to the kinetic energy of particles when the temperature of matter is increased?",
+    "subtopic": "Effect of Temperature",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Kinetic energy decreases.", "isCorrect": false },
+      { "id": "B", "text": "Kinetic energy remains constant.", "isCorrect": false },
+      { "id": "C", "text": "Kinetic energy increases.", "isCorrect": true },
+      { "id": "D", "text": "Kinetic energy first increases then decreases.", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because increasing temperature provides more energy to the particles, causes them to move faster, thus increasing their kinetic energy.",
+      "whyOthersWrong": "A is wrong because heat adds energy. B is wrong as temperature is a measure of average kinetic energy. D is wrong because the trend is consistently upward."
+    },
+    "hint": "Heat is a form of energy that makes particles move faster."
+  },
+  {
+    "id": 6,
+    "question": "In an experiment, crystals of potassium permanganate are added to water. The purple color spreads throughout the water even after multiple dilutions. This concludes that:",
+    "subtopic": "Physical Nature of Matter",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Particles are very large in size.", "isCorrect": false },
+      { "id": "B", "text": "Size of the particles does not affect the water.", "isCorrect": false },
+      { "id": "C", "text": "Just a few crystals can color a large volume of water because they contain millions of tiny particles.", "isCorrect": true },
+      { "id": "D", "text": "Particles do not move in water.", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because it highlights that matter is made of tiny particles that keep dividing into smaller and smaller particles with each dilution.",
+      "whyOthersWrong": "A is wrong as particles are tiny. B is wrong as color spread is a physical effect. D is wrong as the spread happens because particles move."
+    },
+    "hint": "Think about how a tiny drop of ink can color a whole glass of water."
+  },
+  {
+    "id": 7,
+    "question": "Solid Carbon Dioxide (Dry Ice) gets converted into gaseous state directly by:",
+    "subtopic": "Sublimation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increasing pressure to 100 atm.", "isCorrect": false },
+      { "id": "B", "text": "Decreasing pressure to 1 atmosphere.", "isCorrect": true },
+      { "id": "C", "text": "Increasing temperature to 100°C.", "isCorrect": false },
+      { "id": "D", "text": "Mixing with salt water.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because dry ice is stored under high pressure; reducing it to 1 atm allows it to sublime directly into gas without becoming liquid.",
+      "whyOthersWrong": "A and C are not the standard conditions for dry ice sublimation in open air. D is irrelevant to the phase change mechanism of CO2."
+    },
+    "hint": "Dry ice 'disappears' when pressure is released."
+  },
+  {
+    "id": 8,
+    "question": "The smell of perfume reaches several meters away due to which phenomenon?",
+    "subtopic": "Diffusion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Vaporisation", "isCorrect": false },
+      { "id": "B", "text": "Diffusion", "isCorrect": true },
+      { "id": "C", "text": "Condensation", "isCorrect": false },
+      { "id": "D", "text": "Effusion", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because diffusion is the spontaneous intermixing of particles of two different types of matter, allowing the aroma to travel through the air.",
+      "whyOthersWrong": "A is the creation of the gas, but not the long-distance travel. C is gas to liquid. D is movement through a tiny hole, distinct from general mixing."
+    },
+    "hint": "It's the same reason you can smell 'garam masala' being fried in the kitchen from your room."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is the SI unit of Pressure?",
+    "subtopic": "Units of Measurement",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Newton", "isCorrect": false },
+      { "id": "B", "text": "Kilogram", "isCorrect": false },
+      { "id": "C", "text": "Pascal", "isCorrect": true },
+      { "id": "D", "text": "Kelvin", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as the Pascal (Pa) is the official SI unit for measuring pressure.",
+      "whyOthersWrong": "A is force. B is mass. D is temperature."
+    },
+    "hint": "Named after a famous French scientist and philosopher."
+  },
+  {
+    "id": 10,
+    "question": "Latent heat of fusion is defined as the amount of heat energy required to change 1kg of solid into liquid at its:",
+    "subtopic": "Latent Heat",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Boiling point", "isCorrect": false },
+      { "id": "B", "text": "Melting point", "isCorrect": true },
+      { "id": "C", "text": "Critical temperature", "isCorrect": false },
+      { "id": "D", "text": "Absolute zero", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the latent heat of fusion refers specifically to the energy needed to break the bonds of 1kg of a solid at its melting point to turn it into a liquid.",
+      "whyOthersWrong": "A refers to latent heat of vaporisation. C and D are concepts not directly related to the standard definition of latent heat of fusion."
+    },
+    "hint": "Fusion happens when things melt."
+  },
+  {
+    "id": 11,
+    "question": "Boiling is a ______ phenomenon while evaporation is a ______ phenomenon.",
+    "subtopic": "Evaporation vs Boiling",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Surface, Bulk", "isCorrect": false },
+      { "id": "B", "text": "Fast, slow", "isCorrect": false },
+      { "id": "C", "text": "Bulk, surface", "isCorrect": true },
+      { "id": "D", "text": "Chemical, physical", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because boiling happens throughout the liquid (bulk), while evaporation only happens at the top layer (surface).",
+      "whyOthersWrong": "A swaps the definitions. B is descriptive but not the fundamental structural difference. D is wrong as both are physical changes."
+    },
+    "hint": "Where do the bubbles form in boiling water versus where does water disappear from a puddle?"
+  },
+  {
+    "id": 12,
+    "question": "Evaporation of a liquid at room temperature leads to a ______ effect.",
+    "subtopic": "Evaporation",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Heating", "isCorrect": false },
+      { "id": "B", "text": "Cooling", "isCorrect": true },
+      { "id": "C", "text": "Drying", "isCorrect": false },
+      { "id": "D", "text": "No change", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the particles leaving the surface of the liquid take energy from the surroundings, resulting in a temperature drop.",
+      "whyOthersWrong": "A is the opposite. C is a result but B describes the thermal effect mentioned in NCERT. D is physically incorrect."
+    },
+    "hint": "Think about why you feel cold after a bath or when you put petrol on your palm."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is NOT one of the factors that increases the rate of evaporation?",
+    "subtopic": "Factors affecting Evaporation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increase in surface area", "isCorrect": false },
+      { "id": "B", "text": "Increase in temperature", "isCorrect": false },
+      { "id": "C", "text": "Decrease in humidity", "isCorrect": false },
+      { "id": "D", "text": "Decrease in wind speed", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct because a decrease in wind speed actually slows down evaporation; NCERT states that an *increase* in wind speed speeds it up.",
+      "whyOthersWrong": "A, B, and C are all factors that correctly speed up the rate of evaporation according to the chapter."
+    },
+    "hint": "Think about what conditions help wet clothes dry faster."
+  },
+  {
+    "id": 14,
+    "question": "Based on the heating curve of ice, why does temperature remain constant for a while after it reaches 273 K, even if heat is being added?",
+    "subtopic": "Effect of Temperature",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The heat is being lost to the container.", "isCorrect": false },
+      { "id": "B", "text": "The heat is used to change the state by overcoming the forces of attraction between particles.", "isCorrect": true },
+      { "id": "C", "text": "Ice reflects the heat energy.", "isCorrect": false },
+      { "id": "D", "text": "The thermometer becomes insensitive at 273 K.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because this heat is called 'latent heat'. It doesn't raise the temperature because its energy is consumed in breaking inter-particle bonds to change state.",
+      "whyOthersWrong": "A, C, and D are incorrect explanations for the well-known thermodynamic plateau during a phase change."
+    },
+    "hint": "The word 'latent' means hidden."
+  },
+  {
+    "id": 15,
+    "question": "Gases can be liquefied by:",
+    "subtopic": "Liquefaction of Gases",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increasing pressure and increasing temperature", "isCorrect": false },
+      { "id": "B", "text": "Decreasing pressure and decreasing temperature", "isCorrect": false },
+      { "id": "C", "text": "Increasing pressure and decreasing temperature", "isCorrect": true },
+      { "id": "D", "text": "Decreasing pressure and increasing temperature", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as high pressure brings particles closer and low temperature slows them down enough to form bonds, turning the gas into a liquid.",
+      "whyOthersWrong": "A and B have contradictory effects. D moves the state further away from liquid (towards gas)."
+    },
+    "hint": "You need to push particles together and make them 'lazy' (slow)."
+  }
+]

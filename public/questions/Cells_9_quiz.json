@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which scientist observed free living cells in pond water for the first time in 1674?",
+    "subtopic": "Discovery of Cells",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Robert Hooke", "isCorrect": false },
+      { "id": "B", "text": "Robert Brown", "isCorrect": false },
+      { "id": "C", "text": "Anton van Leeuwenhoek", "isCorrect": true },
+      { "id": "D", "text": "Purkinje", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as Leeuwenhoek used an improved microscope to discover free living cells in pond water, advancing Robert Hooke's earlier discovery of dead cork cells.",
+      "whyOthersWrong": "A is wrong as he observed dead cells in cork. B is wrong as he discovered the nucleus. D is wrong as he coined the term 'protoplasm'."
+    },
+    "hint": "He used an improved microscope compared to Robert Hooke."
+  },
+  {
+    "id": 2,
+    "question": "The cell theory, which states that all plants and animals are composed of cells, was originally presented by:",
+    "subtopic": "Cell Theory",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Schleiden and Schwann", "isCorrect": true },
+      { "id": "B", "text": "Watson and Crick", "isCorrect": false },
+      { "id": "C", "text": "Robert Hooke and Robert Brown", "isCorrect": false },
+      { "id": "D", "text": "Virchow and Purkinje", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct because M.J. Schleiden (1838) and T. Schwann (1839) were the two biologists who first formulated the cell theory.",
+      "whyOthersWrong": "B is wrong as they discovered DNA structure. C is wrong as they discovered cells and nucleus respectively. D is wrong as Virchow expanded the theory later."
+    },
+    "hint": "Think of the pair of biologists from 1838-1839."
+  },
+  {
+    "id": 3,
+    "question": "If an animal cell is placed in a very dilute external medium (hypotonic solution), what will happen to the cell?",
+    "subtopic": "Osmosis",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The cell will shrink.", "isCorrect": false },
+      { "id": "B", "text": "The cell is likely to swell up.", "isCorrect": true },
+      { "id": "C", "text": "The cell will stay the same size.", "isCorrect": false },
+      { "id": "D", "text": "The cell will immediately burst without swelling.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because in a hypotonic solution, the water concentration outside the cell is higher than inside, causing water to enter the cell by osmosis and make it swell.",
+      "whyOthersWrong": "A happens in hypertonic solutions. C happens in isotonic solutions. D is wrong as swelling precedes any potential bursting."
+    },
+    "hint": "Water moves from higher concentration (outside) to lower concentration (inside)."
+  },
+  {
+    "id": 4,
+    "question": "The process by which Amoeba acquires its food from the external environment is called:",
+    "subtopic": "Plasma Membrane",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Exocytosis", "isCorrect": false },
+      { "id": "B", "text": "Plasmolysis", "isCorrect": false },
+      { "id": "C", "text": "Endocytosis", "isCorrect": true },
+      { "id": "D", "text": "Osmosis", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as endocytosis is the flexibility of the cell membrane that allows the cell to engulf food and other materials, as seen in Amoeba.",
+      "whyOthersWrong": "A is for waste removal. B is the shrinking of cytoplasm in plant cells. D is specifically for water movement."
+    },
+    "hint": "It involves the 'inward' movement of materials using the flexible membrane."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is the primary constituent of the plant cell wall?",
+    "subtopic": "Cell Wall",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Lipids", "isCorrect": false },
+      { "id": "B", "text": "Cellulose", "isCorrect": true },
+      { "id": "C", "text": "Proteins", "isCorrect": false },
+      { "id": "D", "text": "Starch", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because cellulose is a complex substance that provides structural strength and rigidity to plants.",
+      "whyOthersWrong": "A and C are the main components of the plasma membrane. D is a food storage molecule."
+    },
+    "hint": "It is a complex carbohydrate that provides strength to wood and paper."
+  },
+  {
+    "id": 6,
+    "question": "The undefined nuclear region containing only nucleic acids in prokaryotes is called:",
+    "subtopic": "Nucleus",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Nucleus", "isCorrect": false },
+      { "id": "B", "text": "Nucleolus", "isCorrect": false },
+      { "id": "C", "text": "Nucleoid", "isCorrect": true },
+      { "id": "D", "text": "Chromatin", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because prokaryotes lack a nuclear membrane, so their genetic material is concentrated in an irregular region called the nucleoid.",
+      "whyOthersWrong": "A requires a membrane. B is a structure inside a true nucleus. D is the thread-like genetic material found in eukaryotes."
+    },
+    "hint": "The name ends with '-oid', meaning 'resembling' a nucleus."
+  },
+  {
+    "id": 7,
+    "question": "Which organelle is responsible for 'Membrane Biogenesis' (the building of the cell membrane)?",
+    "subtopic": "Endoplasmic Reticulum",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Rough Endoplasmic Reticulum (RER)", "isCorrect": false },
+      { "id": "B", "text": "Smooth Endoplasmic Reticulum (SER)", "isCorrect": true },
+      { "id": "C", "text": "Golgi Apparatus", "isCorrect": false },
+      { "id": "D", "text": "Mitochondria", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the SER manufactures lipids, and some of these along with proteins from RER help build the cell membrane in a process called membrane biogenesis.",
+      "whyOthersWrong": "A primarily makes proteins via ribosomes. C packages and dispatches materials. D generates energy."
+    },
+    "hint": "Think about which part of the ER makes lipids (fats)."
+  },
+  {
+    "id": 8,
+    "question": "Why are Lysosomes known as the 'Suicide Bags' of a cell?",
+    "subtopic": "Lysosomes",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "They contain food for the cell.", "isCorrect": false },
+      { "id": "B", "text": "They generate ATP for cell death.", "isCorrect": false },
+      { "id": "C", "text": "They may burst and their digestive enzymes can digest their own cell.", "isCorrect": true },
+      { "id": "D", "text": "They are the site of protein synthesis.", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because if a cell gets damaged, lysosomes can release powerful digestive enzymes that break down the entire cell structure.",
+      "whyOthersWrong": "A describes vacuoles. B describes mitochondria's energy function. D describes ribosomes."
+    },
+    "hint": "It happens when the cell is damaged beyond repair."
+  },
+  {
+    "id": 9,
+    "question": "Which organelle is called the 'Powerhouse of the Cell'?",
+    "subtopic": "Mitochondria",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Nucleus", "isCorrect": false },
+      { "id": "B", "text": "Mitochondria", "isCorrect": true },
+      { "id": "C", "text": "Plastids", "isCorrect": false },
+      { "id": "D", "text": "Golgi Apparatus", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because mitochondria perform the chemical reactions needed to produce ATP (Adenosine Triphosphate), the energy currency of life.",
+      "whyOthersWrong": "A is the control center. C is for photosynthesis in plants. D is for packaging."
+    },
+    "hint": "It is where energy in the form of ATP is generated."
+  },
+  {
+    "id": 10,
+    "question": "Plastids that contain the green pigment chlorophyll are called ______ and perform ______.",
+    "subtopic": "Plastids",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Leucoplasts, storage", "isCorrect": false },
+      { "id": "B", "text": "Chromoplasts, reproduction", "isCorrect": false },
+      { "id": "C", "text": "Chloroplasts, photosynthesis", "isCorrect": true },
+      { "id": "D", "text": "Vacuoles, turgidity", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because chloroplasts are specialized plastids containing chlorophyll, used by plants to manufacture food via light energy.",
+      "whyOthersWrong": "A is for white/colorless storage plastids. B is for colored plastids (usually flowers/fruits). D is not a plastid."
+    },
+    "hint": "Think of the process that gives plants their green color and food."
+  },
+  {
+    "id": 11,
+    "question": "The central vacuole of a mature plant cell can occupy up to ______ of the cell volume.",
+    "subtopic": "Vacuoles",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "10-20%", "isCorrect": false },
+      { "id": "B", "text": "50-90%", "isCorrect": true },
+      { "id": "C", "text": "5-10%", "isCorrect": false },
+      { "id": "D", "text": "99%", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct as NCERT specifies that the large central vacuole in plant cells takes up a significant portion (50-90%) of the space, providing turgidity.",
+      "whyOthersWrong": "A and C are too small for central vacuoles. D is an exaggeration."
+    },
+    "hint": "It's more than half the room inside the cell."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following organelles contain their own DNA and ribosomes?",
+    "subtopic": "Cell Organelles",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Golgi Apparatus and Lysosomes", "isCorrect": false },
+      { "id": "B", "text": "Mitochondria and Plastids", "isCorrect": true },
+      { "id": "C", "text": "ER and Vacuoles", "isCorrect": false },
+      { "id": "D", "text": "Nucleus and Cytoplasm", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because mitochondria and plastids are 'strange' organelles that have their own genetic material and protein-making machinery, unlike others.",
+      "whyOthersWrong": "Golgi, Lysosomes, ER, and Vacuoles depend entirely on the cell's main DNA/ribosomes for their components."
+    },
+    "hint": "These two organelles can make some of their own proteins."
+  },
+  {
+    "id": 13,
+    "question": "The type of cell division resulting in the growth of the body and repair of tissues is:",
+    "subtopic": "Cell Division",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Meiosis", "isCorrect": false },
+      { "id": "B", "text": "Binary Fission", "isCorrect": false },
+      { "id": "C", "text": "Mitosis", "isCorrect": true },
+      { "id": "D", "text": "Endocytosis", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as mitosis is the process where a mother cell divides into two identical daughter cells, maintaining the chromosome number for growth.",
+      "whyOthersWrong": "A is for gamete formation. B is for asexual reproduction in organisms like bacteria. D is a transport mechanism."
+    },
+    "hint": "It creates 'identical' copies for repair."
+  },
+  {
+    "id": 14,
+    "question": "In meiosis, the number of chromosomes in the daughter cells is ______ as compared to the mother cell.",
+    "subtopic": "Cell Division",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Doubled", "isCorrect": false },
+      { "id": "B", "text": "Same", "isCorrect": false },
+      { "id": "C", "text": "Half", "isCorrect": true },
+      { "id": "D", "text": "Triple", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because meiosis involves two consecutive divisions that reduce the chromosome count by half to form gametes.",
+      "whyOthersWrong": "Chromosomes stay the same in mitosis. They are never tripled as a standard process in this context."
+    },
+    "hint": "This reduction is necessary for fertilization later."
+  },
+  {
+    "id": 15,
+    "question": "Which organelle was discovered by Camillo Golgi using a unique 'black reaction' staining method?",
+    "subtopic": "Golgi Apparatus",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Endoplasmic Reticulum", "isCorrect": false },
+      { "id": "B", "text": "Lysosomes", "isCorrect": false },
+      { "id": "C", "text": "Golgi Apparatus", "isCorrect": true },
+      { "id": "D", "text": "Mitochondria", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because the organelle was named after its discoverer, Camillo Golgi, who used a silver nitrate staining technique to reveal its structure.",
+      "whyOthersWrong": "ER, Lysosomes, and Mitochondria were described by other scientists using different methods."
+    },
+    "hint": "The name of the organelle matches the name of the scientist."
+  }
+]

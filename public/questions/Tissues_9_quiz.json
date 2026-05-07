@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following tissues is responsible for the increase in the length of the stem and the root?",
+    "subtopic": "Meristematic Tissue",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Lateral meristem", "isCorrect": false },
+      { "id": "B", "text": "Intercalary meristem", "isCorrect": false },
+      { "id": "C", "text": "Apical meristem", "isCorrect": true },
+      { "id": "D", "text": "Sclerenchyma", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because apical meristem is present at the growing tips of stems and roots, where it actively divides to increase the primary length of the plant.",
+      "whyOthersWrong": "A increases girth (thickness). B is present at the base of leaves or internodes. D is a dead permanent tissue for support."
+    },
+    "hint": "Think about the tissue found at the 'apex' or tip."
+  },
+  {
+    "id": 2,
+    "question": "What is the process of taking up a permanent shape, size, and function called?",
+    "subtopic": "Plant Tissues",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Cell division", "isCorrect": false },
+      { "id": "B", "text": "Differentiation", "isCorrect": true },
+      { "id": "C", "text": "Osmosis", "isCorrect": false },
+      { "id": "D", "text": "Plasmolysis", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because differentiation is the developmental process where cells from meristematic tissue lose their ability to divide and specialize into permanent tissues.",
+      "whyOthersWrong": "A is the creation of new cells. C is water transport. D is shrinkage of cell contents."
+    },
+    "hint": "It describes how a general cell becomes 'different' and specialized."
+  },
+  {
+    "id": 3,
+    "question": "Which simple permanent tissue makes the plant hard and stiff, such as in the husk of a coconut?",
+    "subtopic": "Simple Permanent Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Parenchyma", "isCorrect": false },
+      { "id": "B", "text": "Collenchyma", "isCorrect": false },
+      { "id": "C", "text": "Sclerenchyma", "isCorrect": true },
+      { "id": "D", "text": "Xylem", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as sclerenchyma consists of dead cells with heavily thickened walls (lignin), providing mechanical strength and rigidity to plant parts.",
+      "whyOthersWrong": "A is for storage and basic structure. B provides flexibility in young stems. D is a complex tissue for water transport."
+    },
+    "hint": "This tissue is made of dead cells with very thick walls."
+  },
+  {
+    "id": 4,
+    "question": "The flexibility in plants, which allows easy bending in various parts like tendrils, is due to:",
+    "subtopic": "Simple Permanent Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Sclerenchyma", "isCorrect": false },
+      { "id": "B", "text": "Parenchyma", "isCorrect": false },
+      { "id": "C", "text": "Collenchyma", "isCorrect": true },
+      { "id": "D", "text": "Epidermis", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because collenchyma provides mechanical support and elasticity, allowing young plant parts to bend without breaking.",
+      "whyOthersWrong": "A provides hardness, not flexibility. B is mainly for storage. D is the protective outer layer."
+    },
+    "hint": "Think of the tissue that lets a vine wrap around a support."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following are the components of Phloem?",
+    "subtopic": "Complex Permanent Tissue",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Tracheids, Vessels, Xylem Parenchyma", "isCorrect": false },
+      { "id": "B", "text": "Sieve tubes, Companion cells, Phloem parenchyma, Phloem fibres", "isCorrect": true },
+      { "id": "C", "text": "Sclereids and Parenchyma only", "isCorrect": false },
+      { "id": "D", "text": "Red blood cells and Platelets", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Phloem is a food-conducting complex tissue made of four distinct cell types: sieve tubes, companion cells, parenchyma, and fibres.",
+      "whyOthersWrong": "A describes the components of Xylem. C is incomplete. D describes animal blood components."
+    },
+    "hint": "Phloem transports food; look for 'Sieve tubes' in the list."
+  },
+  {
+    "id": 6,
+    "question": "The small pores present in the epidermis of a leaf, used for gas exchange, are called:",
+    "subtopic": "Plant Tissues",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Guard cells", "isCorrect": false },
+      { "id": "B", "text": "Stomata", "isCorrect": true },
+      { "id": "C", "text": "Chloroplasts", "isCorrect": false },
+      { "id": "D", "text": "Cilia", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Stomata are tiny openings in the leaf epidermis that facilitate transpiration and the exchange of CO2 and O2.",
+      "whyOthersWrong": "A are the cells that surround and control the stomata. C are organelles for photosynthesis. D are hair-like projections in animal cells."
+    },
+    "hint": "They are kidney-bean shaped in some plants."
+  },
+  {
+    "id": 7,
+    "question": "Which animal tissue covers the external surface of the body and lines internal organs?",
+    "subtopic": "Animal Tissues",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Connective tissue", "isCorrect": false },
+      { "id": "B", "text": "Muscular tissue", "isCorrect": false },
+      { "id": "C", "text": "Epithelial tissue", "isCorrect": true },
+      { "id": "D", "text": "Nervous tissue", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Epithelial tissue acts as a protective barrier covering the body and forming the lining of cavities and organs.",
+      "whyOthersWrong": "A binds and supports. B handles movement. D transmits signals."
+    },
+    "hint": "Your skin is the most visible example of this tissue."
+  },
+  {
+    "id": 8,
+    "question": "Blood is considered a type of ______ tissue.",
+    "subtopic": "Animal Tissues",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Epithelial", "isCorrect": false },
+      { "id": "B", "text": "Connective", "isCorrect": true },
+      { "id": "C", "text": "Muscular", "isCorrect": false },
+      { "id": "D", "text": "Vascular plant", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Fluid connective tissue (blood) connects various parts of the body by transporting nutrients, gases, and hormones in its plasma matrix.",
+      "whyOthersWrong": "Epithelial covers. Muscular moves. Vascular tissue is only in plants."
+    },
+    "hint": "It has a fluid matrix called plasma."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following connects a bone to another bone?",
+    "subtopic": "Connective Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Tendon", "isCorrect": false },
+      { "id": "B", "text": "Ligament", "isCorrect": true },
+      { "id": "C", "text": "Cartilage", "isCorrect": false },
+      { "id": "D", "text": "Areolar tissue", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Ligaments are elastic connective tissues that join bones together at joints.",
+      "whyOthersWrong": "A connects muscles to bones. C smooths bone surfaces. D fills space between organs."
+    },
+    "hint": "It is a very elastic and strong connective tissue."
+  },
+  {
+    "id": 10,
+    "question": "What is the function of 'Adipose Tissue'?",
+    "subtopic": "Connective Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Transmitting nerve impulses", "isCorrect": false },
+      { "id": "B", "text": "Storing fats and acting as an insulator", "isCorrect": true },
+      { "id": "C", "text": "Contracting to move limbs", "isCorrect": false },
+      { "id": "D", "text": "Filtering blood", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Adipose tissue is found below the skin and between internal organs; it stores fat globules and helps in thermal insulation.",
+      "whyOthersWrong": "A is for neurons. C is for muscle tissue. D is a kidney function."
+    },
+    "hint": "Think of the tissue that 'buffers' your organs."
+  },
+  {
+    "id": 11,
+    "question": "Cardiac muscles are found only in the ______ and are ______ in nature.",
+    "subtopic": "Muscular Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Lungs, voluntary", "isCorrect": false },
+      { "id": "B", "text": "Heart, involuntary", "isCorrect": true },
+      { "id": "C", "text": "Stomach, skeletal", "isCorrect": false },
+      { "id": "D", "text": "Brain, sensory", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Cardiac muscles are specialized involuntary muscles located exclusively in the heart walls for rhythmic contraction.",
+      "whyOthersWrong": "Lungs don't use cardiac muscle. Stomachs use smooth muscle. Brain involves nervous tissue."
+    },
+    "hint": "They never get tired and keep pumping your blood."
+  },
+  {
+    "id": 12,
+    "question": "A neuron consists of which of the following parts?",
+    "subtopic": "Nervous Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Sieve tube and Vessel", "isCorrect": false },
+      { "id": "B", "text": "Cell body, Axon, and Dendrites", "isCorrect": true },
+      { "id": "C", "text": "Epithelium and Matrix", "isCorrect": false },
+      { "id": "D", "text": "Plasma and Platelets", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. A typical nerve cell or neuron has a central cell body with a nucleus, a long single axon, and many short dendrites.",
+      "whyOthersWrong": "A are plant tissues. C are general tissue terms. D are blood components."
+    },
+    "hint": "Think about the shape of a tree with roots and a long trunk."
+  },
+  {
+    "id": 13,
+    "question": "Which of these tissues has a hard matrix composed of calcium and phosphorus compounds?",
+    "subtopic": "Connective Tissue",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Cartilage", "isCorrect": false },
+      { "id": "B", "text": "Bone", "isCorrect": true },
+      { "id": "C", "text": "Blood", "isCorrect": false },
+      { "id": "D", "text": "Tendon", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Bone tissue is hard because its matrix is highly mineralized with calcium and phosphorus.",
+      "whyOthersWrong": "Cartilage is flexible. Blood has a fluid matrix. Tendons are fibrous."
+    },
+    "hint": "It forms the framework of your skeleton."
+  },
+  {
+    "id": 14,
+    "question": "Striated (skeletal) muscles are mostly attached to bones and help in ______ movement.",
+    "subtopic": "Muscular Tissue",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Involuntary", "isCorrect": false },
+      { "id": "B", "text": "Voluntary", "isCorrect": true },
+      { "id": "C", "text": "Rhythmic", "isCorrect": false },
+      { "id": "D", "text": "No", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Skeletal muscles are called voluntary because we can move them by conscious will (e.g., moving an arm).",
+      "whyOthersWrong": "Involuntary muscles (smooth/cardiac) work without our conscious control."
+    },
+    "hint": "You can control these muscles when you want to run or jump."
+  },
+  {
+    "id": 15,
+    "question": "Why are Xylem and Phloem called 'Complex Tissues'?",
+    "subtopic": "Plant Tissues",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Because they have a very hard structure.", "isCorrect": false },
+      { "id": "B", "text": "Because they are made of more than one type of cells that work together.", "isCorrect": true },
+      { "id": "C", "text": "Because they are found in all plants.", "isCorrect": false },
+      { "id": "D", "text": "Because they can only be seen under an electron microscope.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Unlike simple tissues (one cell type), complex tissues like xylem and phloem consist of multiple cell types (vessels, sieve tubes, etc.) cooperating for a common function like transport.",
+      "whyOthersWrong": "Complexity refers to the cellular composition, not physical hardness or ubiquity."
+    },
+    "hint": "Simple tissues have one cell type; complex tissues have ______."
+  }
+]

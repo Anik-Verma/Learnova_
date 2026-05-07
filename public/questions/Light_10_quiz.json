@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "A concave mirror gives real, inverted and same size image if the object is placed:",
+    "subtopic": "Reflection by Spherical Mirrors",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "At Focus (F)", "isCorrect": false },
+      { "id": "B", "text": "At infinity", "isCorrect": false },
+      { "id": "C", "text": "At Centre of Curvature (C)", "isCorrect": true },
+      { "id": "D", "text": "Beyond C", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. When an object is placed at the center of curvature (C) of a concave mirror, the rays converge to form an image at the same point (C).",
+      "whyOthersWrong": "A produces an image at infinity. B produces a highly diminished image at F. D produces a diminished image between F and C."
+    },
+    "hint": "Think about the point where the distance equals twice the focal length."
+  },
+  {
+    "id": 2,
+    "question": "The power of a lens is -2.0 D. What is its focal length and type?",
+    "subtopic": "Power of Lens",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "50 cm, convex", "isCorrect": false },
+      { "id": "B", "text": "-50 cm, concave", "isCorrect": true },
+      { "id": "C", "text": "20 cm, concave", "isCorrect": false },
+      { "id": "D", "text": "-20 cm, convex", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Power P = 1/f (in meters). So f = 1/P = 1/(-2.0) = -0.5 m = -50 cm. A negative focal length indicates a concave (diverging) lens.",
+      "whyOthersWrong": "A and D use incorrect signs or values. C is a calculation error."
+    },
+    "hint": "Remember P = 1/f and negative power means a diverging lens."
+  },
+  {
+    "id": 3,
+    "question": "According to Snell's Law, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is:",
+    "subtopic": "Refraction of Light",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Variable", "isCorrect": false },
+      { "id": "B", "text": "Zero", "isCorrect": false },
+      { "id": "C", "text": "Constant for a given pair of media", "isCorrect": true },
+      { "id": "D", "text": "Always equal to one", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Snell's Law states that sin(i) / sin(r) = n (refractive index), which is a constant value for light of a given color and for a given pair of media.",
+      "whyOthersWrong": "A is incorrect as it's a fundamental constant. B and D are specific cases that don't define the law generally."
+    },
+    "hint": "This constant is also known as the refractive index."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following can make a parallel beam of light when light from a point source is incident on it?",
+    "subtopic": "Reflection and Refraction",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Concave mirror as well as convex lens", "isCorrect": true },
+      { "id": "B", "text": "Convex mirror as well as concave lens", "isCorrect": false },
+      { "id": "C", "text": "Two plane mirrors placed at 90° to each other", "isCorrect": false },
+      { "id": "D", "text": "Concave mirror as well as concave lens", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Both a concave mirror and a convex lens are converging. When a point source is placed at their focus, the emerging rays become parallel to the principal axis.",
+      "whyOthersWrong": "Convex mirrors and concave lenses are diverging and cannot produce a parallel beam from a divergent point source."
+    },
+    "hint": "Identify the optical devices that 'converge' light rays."
+  },
+  {
+    "id": 5,
+    "question": "The refractive index of water is 1.33. What is the speed of light in water? (Speed of light in vacuum = 3 x 10^8 m/s)",
+    "subtopic": "Refractive Index",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "2.25 x 10^8 m/s", "isCorrect": true },
+      { "id": "B", "text": "4.0 x 10^8 m/s", "isCorrect": false },
+      { "id": "C", "text": "3.0 x 10^8 m/s", "isCorrect": false },
+      { "id": "D", "text": "1.33 x 10^8 m/s", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Refractive index n = c/v. So v = c/n = (3 x 10^8) / 1.33 ≈ 2.25 x 10^8 m/s.",
+      "whyOthersWrong": "B is higher than the speed of light. C is the speed in vacuum. D is the refractive index itself."
+    },
+    "hint": "Divide the speed of light in vacuum by the refractive index."
+  },
+  {
+    "id": 6,
+    "question": "A full-size image of a distant tall building can definitely be seen by using:",
+    "subtopic": "Spherical Mirrors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "A concave mirror", "isCorrect": false },
+      { "id": "B", "text": "A convex mirror", "isCorrect": true },
+      { "id": "C", "text": "A plane mirror", "isCorrect": false },
+      { "id": "D", "text": "Both concave as well as plane mirror", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Convex mirrors have a very wide field of view and always form an erect, diminished image of distant objects, allowing a full view of a large building.",
+      "whyOthersWrong": "Plane mirrors require a mirror half the height of the object. Concave mirrors form inverted/magnified images depending on distance."
+    },
+    "hint": "Which mirror is used as a rear-view mirror in vehicles for the same reason?"
+  },
+  {
+    "id": 7,
+    "question": "The magnification produced by a rear-view mirror fitted in vehicles:",
+    "subtopic": "Reflection by Spherical Mirrors",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Is less than one", "isCorrect": true },
+      { "id": "B", "text": "Is more than one", "isCorrect": false },
+      { "id": "C", "text": "Is equal to one", "isCorrect": false },
+      { "id": "D", "text": "Can be more or less than one", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Rear-view mirrors are convex mirrors which always produce diminished images (smaller than the object), hence magnification (m = h'/h) is less than 1.",
+      "whyOthersWrong": "More than one means magnified. Equal to one is a plane mirror."
+    },
+    "hint": "Objects in the mirror look smaller than they actually are."
+  },
+  {
+    "id": 8,
+    "question": "Rays from Sun converge at a point 15 cm in front of a concave mirror. Where should an object be placed so that size of its image is equal to the size of the object?",
+    "subtopic": "Reflection by Spherical Mirrors",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "15 cm in front of the mirror", "isCorrect": false },
+      { "id": "B", "text": "30 cm in front of the mirror", "isCorrect": true },
+      { "id": "C", "text": "Between 15 cm and 30 cm", "isCorrect": false },
+      { "id": "D", "text": "More than 30 cm", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Sun's rays converge at the focus (F), so f = 15 cm. Same-size image is formed at C (Center of Curvature), which is at a distance of 2f = 30 cm.",
+      "whyOthersWrong": "15 cm is at focus. Other ranges produce magnified or diminished images."
+    },
+    "hint": "Determine the focal length first, then find the center of curvature."
+  },
+  {
+    "id": 9,
+    "question": "Under which of the following conditions a concave mirror can form an image larger than the actual object?",
+    "subtopic": "Reflection by Spherical Mirrors",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "When object is kept at C", "isCorrect": false },
+      { "id": "B", "text": "When object is kept between F and C", "isCorrect": true },
+      { "id": "C", "text": "When object is kept beyond C", "isCorrect": false },
+      { "id": "D", "text": "When object is kept at focus", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. For objects placed between C and F, the image is formed beyond C and is enlarged and real.",
+      "whyOthersWrong": "At C, size is same. Beyond C, size is diminished. At focus, image is at infinity."
+    },
+    "hint": "Think of the positions that result in 'Enlarged' images in the ray diagram table."
+  },
+  {
+    "id": 10,
+    "question": "The mirror formula is given by:",
+    "subtopic": "Spherical Mirrors",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1/v - 1/u = 1/f", "isCorrect": false },
+      { "id": "B", "text": "1/v + 1/u = 1/f", "isCorrect": true },
+      { "id": "C", "text": "v + u = f", "isCorrect": false },
+      { "id": "D", "text": "m = v/u", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The mirror formula expresses the relationship between object distance (u), image distance (v), and focal length (f) with a plus sign.",
+      "whyOthersWrong": "A is the lens formula. C is incorrect algebra. D is missing the negative sign for mirror magnification."
+    },
+    "hint": "It has three variables and all are in the denominator."
+  },
+  {
+    "id": 11,
+    "question": "Light travels fastest in:",
+    "subtopic": "Refraction of Light",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Water", "isCorrect": false },
+      { "id": "B", "text": "Glass", "isCorrect": false },
+      { "id": "C", "text": "Vacuum", "isCorrect": true },
+      { "id": "D", "text": "Diamond", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Light requires no medium and travels at its maximum speed (~3 x 10^8 m/s) in vacuum or air.",
+      "whyOthersWrong": "In denser media like water, glass, or diamond, light slows down due to higher refractive indices."
+    },
+    "hint": "It's a place where there are no particles to obstruct its path."
+  },
+  {
+    "id": 12,
+    "question": "A ray of light traveling from a rarer medium to a denser medium bends:",
+    "subtopic": "Refraction of Light",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Towards the normal", "isCorrect": true },
+      { "id": "B", "text": "Away from the normal", "isCorrect": false },
+      { "id": "C", "text": "Doesn't bend at all", "isCorrect": false },
+      { "id": "D", "text": "Parallel to the interface", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. When light enters a denser medium (higher refractive index), its speed decreases, causing it to bend toward the normal.",
+      "whyOthersWrong": "B happens when moving from denser to rarer. C only happens at normal incidence (90°)."
+    },
+    "hint": "Think of light 'hugging' the normal when it slows down."
+  },
+  {
+    "id": 13,
+    "question": "A convex lens forms a real, point-sized image at focus when the object is at:",
+    "subtopic": "Refraction by Spherical Lenses",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Focus", "isCorrect": false },
+      { "id": "B", "text": "2F", "isCorrect": false },
+      { "id": "C", "text": "Infinity", "isCorrect": true },
+      { "id": "D", "text": "Between O and F", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Parallel rays from an object at infinity converge at the principal focus of a convex lens to form a highly diminished image.",
+      "whyOthersWrong": "At focus, image is at infinity. At 2F, image is same size at 2F."
+    },
+    "hint": "Consider rays coming from the Sun."
+  },
+  {
+    "id": 14,
+    "question": "The unit of refractive index is:",
+    "subtopic": "Refractive Index",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "meter", "isCorrect": false },
+      { "id": "B", "text": "dioptre", "isCorrect": false },
+      { "id": "C", "text": "degree", "isCorrect": false },
+      { "id": "D", "text": "None (dimensionless)", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct. Refractive index is a ratio of two similar quantities (speeds of light: c/v), so the units cancel out.",
+      "whyOthersWrong": "Meter is length. Dioptre is for power. Degree is for angles."
+    },
+    "hint": "It's a pure ratio of speeds."
+  },
+  {
+    "id": 15,
+    "question": "An object 5 cm in length is held 25 cm away from a converging lens of focal length 10 cm. The nature of the image formed is:",
+    "subtopic": "Refraction by Spherical Lenses",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Virtual and erect", "isCorrect": false },
+      { "id": "B", "text": "Real and inverted", "isCorrect": true },
+      { "id": "C", "text": "Real and erect", "isCorrect": false },
+      { "id": "D", "text": "No image is formed", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Here u = -25, f = +10. Using 1/v - 1/u = 1/f => 1/v = 1/10 + 1/(-25) = (5-2)/50 = 3/50. v = 50/3 ≈ 16.7 cm. Since v is positive for a lens, the image is real and inverted.",
+      "whyOthersWrong": "A happens if u < f. C is physically impossible for a single lens. D is only at focus."
+    },
+    "hint": "Calculate the image distance (v) using the lens formula; if v is positive, it's real."
+  }
+]

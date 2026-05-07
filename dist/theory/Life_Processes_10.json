@@ -1,0 +1,212 @@
+{
+  "chapterTitle": "Life Processes",
+  "subject": "Biology",
+  "standard": 10,
+  "totalReadTime": "50 minutes",
+  "chapterSummary": "This chapter explores the fundamental processes that keep living organisms alive: nutrition, respiration, transportation, and excretion. We study how plants and animals obtain energy, how materials move within their bodies, and how they get rid of waste products to maintain a stable internal environment.",
+  "subtopics": [
+    {
+      "id": "what_are_life_processes",
+      "title": "What are Life Processes?",
+      "order": 1,
+      "summary": "Life processes are the maintenance functions that living organisms must perform to stay alive and repair their structures.",
+      "theory": "All living organisms need to maintain their bodies even when resting. These maintenance jobs are called 'Life Processes'. Because living structures tend to break down over time due to environmental effects, they need constant repair. This requires energy (Nutrition), using oxygen to break down food (Respiration), moving materials around the body (Transportation), and removing toxic by-products (Excretion). Invisible molecular movements are the true marker of life, distinguishing living beings from non-living things even when they appear stationary.",
+      "didYouKnow": "Viruses are at the border of life because they show no molecular movement at all until they enter a living host cell and hijack its machinery!",
+      "example": {
+        "title": "Sleep and Maintenance",
+        "description": "Even while you are 'asleep' after a long day of school, your body is hard at work repairing muscles and moving nutrients across your cells through your blood."
+      },
+      "keyTerms": [
+        {
+          "term": "Life Processes",
+          "definition": "The processes which together perform the maintenance job of living organisms."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What are the four essential life processes discussed in this chapter?",
+        "answer": "Nutrition, Respiration, Transportation, and Excretion."
+      }
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition: Autotrophic and Heterotrophic",
+      "order": 2,
+      "summary": "Nutrition is the process of obtaining food for energy and growth, divided into autotrophic (self-making) and heterotrophic (consuming others).",
+      "theory": "Nutrition provides the energy currency of life. 'Autotrophs' (like green plants) use simple inorganic materials (CO2 and water) to make their own food via 'Photosynthesis' using chlorophyll and sunlight. 'Heterotrophs' (like animals and fungi) depend on autotrophs directly or indirectly. Photosynthesis converts solar energy into chemical energy (Carbohydrates). Excess energy in plants is stored as 'Starch', while in humans, it's stored as 'Glycogen' in our liver and muscles.",
+      "didYouKnow": "During photosynthesis, plants actually release oxygen as a waste product—the very same oxygen we need to breathe!",
+      "example": {
+        "title": "Starch in Potatoes",
+        "description": "When you eat a potato, you are consuming the energy that the potato plant stored as 'starch' during its growth."
+      },
+      "keyTerms": [
+        {
+          "term": "Photosynthesis",
+          "definition": "The process by which plants use sunlight, water, and carbon dioxide to create food and oxygen."
+        },
+        {
+          "term": "Enzymes",
+          "definition": "Biological catalysts that break down complex food substances into simpler ones."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "6CO_2 + 12H_2O \\xrightarrow[Chlorophyll]{Sunlight} C_6H_{12}O_6 + 6O_2 + 6H_2O",
+        "plain": "Carbon Dioxide + Water -> Glucose + Oxygen + Water",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "In what form do plants store their carbohydrates?",
+        "answer": "Plants store carbohydrates in the form of Starch."
+      }
+    },
+    {
+      "id": "respiration_pathways",
+      "title": "Respiration and Energy Generation",
+      "order": 3,
+      "summary": "Respiration is the process of breaking down food to release energy (ATP), occurring with or without oxygen.",
+      "theory": "Respiration begins with the breakdown of glucose (6 carbons) into pyruvate (3 carbons). In 'Aerobic Respiration' (with oxygen), pyruvate breaks into CO2 and water in the mitochondria, releasing a huge amount of energy. In 'Anaerobic Respiration' (without oxygen, like in yeast), it produces ethanol and CO2. Sometimes, our muscles perform 'Lactic Acid' fermentation when oxygen is low, causing cramps. The released energy is used to build 'ATP' (Adenosine Triphosphate), the energy currency of the cell.",
+      "didYouKnow": "Your muscle cells can switch to anaerobic respiration during a 'fast run' or a heavy cricket match, which is why your legs might hurt later from lactic acid buildup!",
+      "example": {
+        "title": "Deep Breathing",
+        "description": "When you take a deep breath, you are taking in oxygen for aerobic respiration in your 'mitochondria' to fuel your brain and body."
+      },
+      "keyTerms": [
+        {
+          "term": "ATP",
+          "definition": "Adenosine Triphosphate; the energy currency for most cellular processes."
+        },
+        {
+          "term": "Alveoli",
+          "definition": "Balloon-like structures in lungs where gas exchange occurs."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Which organism uses anaerobic respiration to produce ethanol?",
+        "answer": "Yeast uses anaerobic respiration during fermentation."
+      }
+    },
+    {
+      "id": "transportation_human_heart",
+      "title": "Transportation: The Human Heart",
+      "order": 4,
+      "summary": "The circulatory system, powered by the heart, transports oxygen, nutrients, and waste through the body.",
+      "theory": "In humans, the 'Heart' is a muscular pump with four chambers to keep oxygenated and deoxygenated blood separate. Blood flows from the lungs (oxygen-rich) to the left atrium and ventricle, then to the body. Deoxygenated blood returns to the right atrium and ventricle, moving back to the lungs. This is 'Double Circulation'. Arteries carry blood away from the heart (high pressure), while veins bring it back (lower pressure, have valves). 'Platelets' help clot blood to prevent leaks during injury.",
+      "didYouKnow": "If all your blood vessels were laid end-to-end, they would stretch over 1,00,000 kilometres—enough to circle the Earth twice!",
+      "example": {
+        "title": "The Pump",
+        "description": "Think of your heart like an 'electric water pump' in your building, constantly pushing blood to every floor (from your toes to your brain) without stopping."
+      },
+      "keyTerms": [
+        {
+          "term": "Arteries",
+          "definition": "Thick-walled vessels that carry oxygenated blood away from the heart under high pressure."
+        },
+        {
+          "term": "Capillaries",
+          "definition": "Tiny, thin-walled vessels where exchange of materials between blood and cells occurs."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the function of 'valves' in veins?",
+        "answer": "Valves ensure that blood flows only in one direction—back towards the heart."
+      }
+    },
+    {
+      "id": "excretion_kidneys",
+      "title": "Excretion and the Kidneys",
+      "order": 5,
+      "summary": "Excretion removes harmful nitrogenous wastes from the body through the kidneys and nephrons.",
+      "theory": "Excretion in humans is handled by a pair of 'Kidneys'. Their main job is to filter out nitrogenous wastes like urea or uric acid from the blood. The basic filtration unit in the kidney is called a 'Nephron'. Useful substances like glucose and salts are re-absorbed from the filtrate, while the remaining liquid (Urine) flows into the bladder. Plants also excrete; they release oxygen via leaves, shed waste in old leaves, and store others as resins or gums in old 'xylem'.",
+      "didYouKnow": "Your kidneys filter your entire blood volume about 40 times every single day to keep your body clean and healthy!",
+      "example": {
+        "title": "Water Balance",
+        "description": "Ever noticed your urine is darker when you haven't drunk much water? Your 'kidneys' are re-absorbing more water to keep your body hydrated!"
+      },
+      "keyTerms": [
+        {
+          "term": "Nephron",
+          "definition": "The structural and functional unit of the kidney responsible for filtration."
+        },
+        {
+          "term": "Dialysis",
+          "definition": "An artificial kidney procedure used when natural kidneys fail."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the basic filtration unit of the human kidney?",
+        "answer": "The Nephron."
+      }
+    }
+  ],
+  "importantFormulas": [],
+  "connectsTo": ["Control and Coordination", "Heredity and Evolution", "Our Environment"]
+}

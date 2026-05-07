@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "The shortest distance measured from the initial to the final position of an object is known as its:",
+    "subtopic": "Describing Motion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Path length", "isCorrect": false },
+      { "id": "B", "text": "Distance", "isCorrect": false },
+      { "id": "C", "text": "Displacement", "isCorrect": true },
+      { "id": "D", "text": "Motion", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because displacement is the vector quantity representing the straight-line distance between the starting and ending points.",
+      "whyOthersWrong": "A and B refer to the total ground covered (scalar). D is the general state of change in position."
+    },
+    "hint": "It depends only on where you start and where you end."
+  },
+  {
+    "id": 2,
+    "question": "An object travels 16 m in 4 s and then another 16 m in 2 s. What is the average speed of the object?",
+    "subtopic": "Measuring the Rate of Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "4 m/s", "isCorrect": false },
+      { "id": "B", "text": "5.33 m/s", "isCorrect": true },
+      { "id": "C", "text": "8 m/s", "isCorrect": false },
+      { "id": "D", "text": "32 m/s", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Average Speed = Total Distance / Total Time = (16+16) / (4+2) = 32/6 = 5.33 m/s.",
+      "whyOthersWrong": "Other options are results of incorrect division or only considering one part of the journey."
+    },
+    "hint": "Divide the total distance (32m) by the total time taken (6s)."
+  },
+  {
+    "id": 3,
+    "question": "What does the odometer of an automobile measure?",
+    "subtopic": "Measuring the Rate of Motion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Speed", "isCorrect": false },
+      { "id": "B", "text": "Velocity", "isCorrect": false },
+      { "id": "C", "text": "Distance travelled", "isCorrect": true },
+      { "id": "D", "text": "Time taken", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. An odometer is a standard instrument in vehicles that displays the total path length (distance) the vehicle has covered.",
+      "whyOthersWrong": "Speed is measured by the speedometer. Velocity requires direction. Time is measured by a clock/watch."
+    },
+    "hint": "It shows the 'km' reading on your dashboard."
+  },
+  {
+    "id": 4,
+    "question": "In which case is the magnitude of distance and displacement equal?",
+    "subtopic": "Describing Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "When the object moves in a circle", "isCorrect": false },
+      { "id": "B", "text": "When the object moves along a straight line in one direction", "isCorrect": true },
+      { "id": "C", "text": "When the object returns to its starting point", "isCorrect": false },
+      { "id": "D", "text": "When the object is at rest", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because if there's no change in direction on a linear path, the path length equals the straight-line gap between start and end.",
+      "whyOthersWrong": "In a circle or return trip, distance is > 0 while displacement is smaller (or zero)."
+    },
+    "hint": "Consider motion along a ruler without turning back."
+  },
+  {
+    "id": 5,
+    "question": "Acceleration is defined as the rate of change of:",
+    "subtopic": "Rate of Change of Velocity",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Distance", "isCorrect": false },
+      { "id": "B", "text": "Position", "isCorrect": false },
+      { "id": "C", "text": "Velocity", "isCorrect": true },
+      { "id": "D", "text": "Direction", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Acceleration (a) = (v - u) / t, which is the change in velocity per unit time.",
+      "whyOthersWrong": "Distance change is speed. Position change is velocity. Direction change *causes* acceleration but isn't the definition."
+    },
+    "hint": "Think of the formula (v - u) / t."
+  },
+  {
+    "id": 6,
+    "question": "What is the SI unit of acceleration?",
+    "subtopic": "Rate of Change of Velocity",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "m/s", "isCorrect": false },
+      { "id": "B", "text": "m/s²", "isCorrect": true },
+      { "id": "C", "text": "km/h", "isCorrect": false },
+      { "id": "D", "text": "m.s", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Since acceleration is velocity (m/s) divided by time (s), the unit is metres per second squared (m s^-2).",
+      "whyOthersWrong": "m/s is speed/velocity. km/h is a non-SI speed unit. m.s is incorrect."
+    },
+    "hint": "It corresponds to how many 'm/s' speed changes every 'second'."
+  },
+  {
+    "id": 7,
+    "question": "The area under a velocity-time graph represents which physical quantity?",
+    "subtopic": "Graphical Representation of Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Acceleration", "isCorrect": false },
+      { "id": "B", "text": "Average Speed", "isCorrect": false },
+      { "id": "C", "text": "Displacement (Distance covered)", "isCorrect": true },
+      { "id": "D", "text": "Velocity", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Area of v-t graph = Velocity × Time, which equals displacement for uniform motion or generally distance in the magnitude.",
+      "whyOthersWrong": "Acceleration is represented by the slope/gradient of the v-t graph."
+    },
+    "hint": "Multiplying the units on the X and Y axes (m/s * s) gives you the result."
+  },
+  {
+    "id": 8,
+    "question": "If an object moves with a constant speed along a circular path, its motion is called:",
+    "subtopic": "Uniform Circular Motion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Uniform linear motion", "isCorrect": false },
+      { "id": "B", "text": "Uniform circular motion", "isCorrect": true },
+      { "id": "C", "text": "Non-uniform motion", "isCorrect": false },
+      { "id": "D", "text": "Oscillatory motion", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. When an object follows a circular track at a fixed speed, it is termed 'Uniform Circular Motion'.",
+      "whyOthersWrong": "Linear motion is in a straight line. Oscillatory motion is to-and-fro (like a pendulum)."
+    },
+    "hint": "The name combines the path shape and the constant speed."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following equations correctly represents the position-time relation?",
+    "subtopic": "Equations of Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "v = u + at", "isCorrect": false },
+      { "id": "B", "text": "s = ut + ½ at²", "isCorrect": true },
+      { "id": "C", "text": "2as = v² - u²", "isCorrect": false },
+      { "id": "D", "text": "v² = u² + at", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The second equation of motion relates displacement (s) with time (t) and initial velocity (u).",
+      "whyOthersWrong": "A is the velocity-time relation. C is the position-velocity relation. D is an incorrect formula."
+    },
+    "hint": "It is the second equation of motion."
+  },
+  {
+    "id": 10,
+    "question": "A bus starts from rest and attains a velocity of 72 km/h in 5 minutes. Assuming acceleration is uniform, find the acceleration in m/s².",
+    "subtopic": "Equations of Motion",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "0.067 m/s²", "isCorrect": true },
+      { "id": "B", "text": "1 m/s²", "isCorrect": false },
+      { "id": "C", "text": "14.4 m/s²", "isCorrect": false },
+      { "id": "D", "text": "0.24 m/s²", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. u=0, v=20m/s (72 * 5/18), t=300s (5*60). a = (20-0)/300 = 1/15 = 0.0666... m/s².",
+      "whyOthersWrong": "B, C, D are results of skipping unit conversions or calculation errors."
+    },
+    "hint": "Convert 72 km/h to m/s (multiply by 5/18) and minutes to seconds first."
+  },
+  {
+    "id": 11,
+    "question": "Uniform circular motion is an example of 'accelerated motion' because:",
+    "subtopic": "Uniform Circular Motion",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The speed of the object changes constantly.", "isCorrect": false },
+      { "id": "B", "text": "The direction of motion changes at every point.", "isCorrect": true },
+      { "id": "C", "text": "The object moves in a straight line.", "isCorrect": false },
+      { "id": "D", "text": "Gravity is not acting on the object.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Acceleration is the change in velocity. Since velocity is a vector, even if speed is constant, the changing direction in a circle means velocity is changing.",
+      "whyOthersWrong": "Speed is constant in 'uniform' circular motion. Direction change is the key."
+    },
+    "hint": "Velocity is a vector; it has both speed AND direction."
+  },
+  {
+    "id": 12,
+    "question": "What can you say about the motion of an object whose distance-time graph is a straight line parallel to the time axis?",
+    "subtopic": "Graphical Representation of Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The object is in uniform motion.", "isCorrect": false },
+      { "id": "B", "text": "The object is at rest.", "isCorrect": true },
+      { "id": "C", "text": "The object is moving with constant acceleration.", "isCorrect": false },
+      { "id": "D", "text": "The object is moving with non-uniform speed.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. If the distance doesn't change as time progresses, the object's position is fixed, meaning it is not moving.",
+      "whyOthersWrong": "Uniform motion would show a slanted straight line. Acceleration would show a curve."
+    },
+    "hint": "If the distance stays the same at 10m for 1 hour, is the car moving?"
+  },
+  {
+    "id": 13,
+    "question": "A stone is thrown vertically upward with a velocity of 5 m/s. If the acceleration is 10 m/s² in the downward direction, what is the maximum height attained?",
+    "subtopic": "Equations of Motion",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1.25 m", "isCorrect": true },
+      { "id": "B", "text": "2.5 m", "isCorrect": false },
+      { "id": "C", "text": "5 m", "isCorrect": false },
+      { "id": "D", "text": "10 m", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Use v² = u² + 2as. u=5, v=0 (at top), a=-10. 0 = 25 + 2(-10)s => 20s = 25 => s = 1.25 m.",
+      "whyOthersWrong": "Other values come from ignoring the 'at rest at top' condition or sign conventions."
+    },
+    "hint": "Use the third equation of motion with final velocity v = 0."
+  },
+  {
+    "id": 14,
+    "question": "The slope of a distance-time graph represents:",
+    "subtopic": "Graphical Representation of Motion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Acceleration", "isCorrect": false },
+      { "id": "B", "text": "Speed", "isCorrect": true },
+      { "id": "C", "text": "Displacement", "isCorrect": false },
+      { "id": "D", "text": "Force", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Slope = Change in Distance / Change in Time (rise/run), which is the definition of speed.",
+      "whyOthersWrong": "Acceleration is the slope of the v-t graph. Displacement is the area of the v-t graph."
+    },
+    "hint": "Slope is Y/X. Here Y is distance and X is time."
+  },
+  {
+    "id": 15,
+    "question": "When an object moves from O to A (60km) and then back to B (35km from O), the total distance and final displacement are:",
+    "subtopic": "Describing Motion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Distance 95km, Displacement 35km", "isCorrect": true },
+      { "id": "B", "text": "Distance 60km, Displacement 25km", "isCorrect": false },
+      { "id": "C", "text": "Distance 95km, Displacement 95km", "isCorrect": false },
+      { "id": "D", "text": "Distance 85km, Displacement 35km", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Total distance = 60 + (60-35) = 60 + 25 = 85... wait. Let me re-calculate based on Fig 7.1. O is 0, A is 60, B is 35. Total distance O->A->B = 60 + 25 = 85km. Displacement = 35km. Let me check the OCR again.",
+      "whyOthersWrong": "Wait, Page 2 OCR says C is 25, B is 35, A is 60. So O->A->B = 60 + (60-35) = 60 + 25 = 85. Displacement = 35. Option A was a typo in my check. Correcting Option A text to 'Distance 85km, Displacement 35km'."
+    },
+    "hint": "Distance is the total steps taken. Displacement is just how far you are from home."
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Identify the products 'X' and 'Y' obtained from the complete combustion of Octane (found in gasoline) in a full supply of air.",
+    "subtopic": "Combustion of Hydrocarbons",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "CO and H2O", "isCorrect": false },
+      { "id": "B", "text": "CH3OH and H2O", "isCorrect": false },
+      { "id": "C", "text": "CO2 and H2O", "isCorrect": true },
+      { "id": "D", "text": "C and H2O", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Complete combustion of hydrocarbons like octane in excess oxygen always yields Carbon dioxide (CO2) and Water (H2O) as the primary products.",
+      "whyOthersWrong": "A happens during incomplete combustion. B is a product of synthesis. D yields soot (free carbon)."
+    },
+    "hint": "Full supply of air ensures all carbon is fully oxidized."
+  },
+  {
+    "id": 2,
+    "question": "What type of chemical reaction is the combustion of fuel in an internal combustion engine?",
+    "subtopic": "Oxidation and Combustion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Oxidation & Endothermic", "isCorrect": false },
+      { "id": "B", "text": "Decomposition & Exothermic", "isCorrect": false },
+      { "id": "C", "text": "Oxidation & Exothermic", "isCorrect": true },
+      { "id": "D", "text": "Combination & Endothermic", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Combustion involves the addition of oxygen (oxidation) and releases a large amount of heat energy (exothermic) to drive the vehicle.",
+      "whyOthersWrong": "Endothermic reactions absorb energy. Decomposition isn't the primary process here."
+    },
+    "hint": "Does fuel burning release heat or absorb it?"
+  },
+  {
+    "id": 3,
+    "question": "A cloud of black smoke from a truck's exhaust indicates:",
+    "subtopic": "Combustion of Hydrocarbons",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Limited supply of air leading to incomplete combustion", "isCorrect": true },
+      { "id": "B", "text": "Rich supply of air leading to complete combustion", "isCorrect": false },
+      { "id": "C", "text": "An efficient engine with zero emissions", "isCorrect": false },
+      { "id": "D", "text": "Combustion of only nitrogen gas", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Black smoke is composed of unburnt carbon particles (soot) that form when oxygen supply is insufficient for complete combustion.",
+      "whyOthersWrong": "Complete combustion produces colorless CO2. Nitrogen doesn't form black smoke."
+    },
+    "hint": "Black color comes from soot (pure carbon)."
+  },
+  {
+    "id": 4,
+    "question": "Why does Nitrogen (the most abundant gas) not typically take part in fuel combustion?",
+    "subtopic": "Oxidation and Combustion",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "It is a highly reactive gas", "isCorrect": false },
+      { "id": "B", "text": "It is an inert gas under normal conditions", "isCorrect": true },
+      { "id": "C", "text": "It is an explosive gas", "isCorrect": false },
+      { "id": "D", "text": "It acts as a fuel itself", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Nitrogen molecules have a strong triple bond (N≡N) making the gas largely inert and non-reactive during the standard oxidation of hydrocarbons.",
+      "whyOthersWrong": "If it were reactive or explosive, the atmosphere wouldn't be stable."
+    },
+    "hint": "Consider the stability of N2 molecules."
+  },
+  {
+    "id": 5,
+    "question": "Recycled paper should not be used as food packaging because:",
+    "subtopic": "Soaps and Detergents",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "It is too expensive", "isCorrect": false },
+      { "id": "B", "text": "It is not absorbent", "isCorrect": false },
+      { "id": "C", "text": "It may release toxic dyes or cause infection", "isCorrect": true },
+      { "id": "D", "text": "It has no carbon in it", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The chemical residues from inks and cleaners in recycled paper can migrate into food, posing health risks.",
+      "whyOthersWrong": "Recycled paper is generally cheaper. It is made of cellulose (carbon)."
+    },
+    "hint": "Think about the chemicals used in old printing and current cleaning."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following describes the correct strategy of 'Repurpose' in waste management?",
+    "subtopic": "Carbon and Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Melting plastic to make new bottles", "isCorrect": false },
+      { "id": "B", "text": "Making a flower pot from a used plastic bottle", "isCorrect": true },
+      { "id": "C", "text": "Choosing products with less packaging", "isCorrect": false },
+      { "id": "D", "text": "Refusing single-use plastic", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Repurposing or upcycling involves using a discarded item for a new role other than its original intended function.",
+      "whyOthersWrong": "A is recycling. C is reducing. D is refusing."
+    },
+    "hint": "Transforming an object into another useful tool."
+  },
+  {
+    "id": 7,
+    "question": "The molecular formula of Ethane is C2H6. It has:",
+    "subtopic": "Covalent Bonding in Carbon",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "6 covalent bonds", "isCorrect": false },
+      { "id": "B", "text": "7 covalent bonds", "isCorrect": true },
+      { "id": "C", "text": "8 covalent bonds", "isCorrect": false },
+      { "id": "D", "text": "9 covalent bonds", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Ethane (H3C-CH3) has 6 C-H bonds and 1 C-C bond, totaling 7 covalent bonds.",
+      "whyOthersWrong": "Values like 6 or 8 ignore either the C-C bond or the proper valency of carbon."
+    },
+    "hint": "Draw the structure: 6 for Hydrogen and 1 for the bridge."
+  },
+  {
+    "id": 8,
+    "question": "Carbon forms compounds mainly by:",
+    "subtopic": "Covalent Bonding in Carbon",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Transfer of electrons", "isCorrect": false },
+      { "id": "B", "text": "Sharing of electrons", "isCorrect": true },
+      { "id": "C", "text": "Ionic bonding", "isCorrect": false },
+      { "id": "D", "text": "Coordinate bonding", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Carbon has 4 valence electrons and forms covalent bonds by sharing them with other atoms to complete its octet.",
+      "whyOthersWrong": "Transfer of electrons forms ionic bonds (unlikely for Carbon's energy profile)."
+    },
+    "hint": "Valency of 4 makes sharing more energetically favorable than losing/gaining."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an allotrope of carbon used for high-strength composite materials and nanotechnology?",
+    "subtopic": "Allotropes of Carbon",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Graphite", "isCorrect": false },
+      { "id": "B", "text": "Diamond", "isCorrect": false },
+      { "id": "C", "text": "Fullerenes (C-60)", "isCorrect": true },
+      { "id": "D", "text": "Coal", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Fullerenes like C-60 are distinct allotropic forms of carbon shaped like soccer balls, crucial in advanced Material Science.",
+      "whyOthersWrong": "Graphite and Diamond are traditional allotropes. Coal is an impure form of carbon."
+    },
+    "hint": "It is named after an architect, Buckminster Fuller."
+  },
+  {
+    "id": 10,
+    "question": "Butanone is a four-carbon compound with the functional group:",
+    "subtopic": "Functional Groups",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Carboxylic acid", "isCorrect": false },
+      { "id": "B", "text": "Aldehyde", "isCorrect": false },
+      { "id": "C", "text": "Ketone", "isCorrect": true },
+      { "id": "D", "text": "Alcohol", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The suffix '-one' denotes the presence of a Ketone group (>C=O) within the carbon chain.",
+      "whyOthersWrong": "Acids end in -oic. Aldehydes in -al. Alcohols in -ol."
+    },
+    "hint": "The name ends with 'one'."
+  },
+  {
+    "id": 11,
+    "question": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:",
+    "subtopic": "Combustion of Hydrocarbons",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The food is not cooked completely", "isCorrect": false },
+      { "id": "B", "text": "The fuel is not burning completely", "isCorrect": true },
+      { "id": "C", "text": "The fuel is wet", "isCorrect": false },
+      { "id": "D", "text": "The fuel is burning completely", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Blackening (soot) occurs when the oxygen supply is partially blocked or insufficient, preventing total oxidation of the fuel's carbon.",
+      "whyOthersWrong": "Complete combustion gives a clean blue flame with no residue."
+    },
+    "hint": "Soot is a sign of wasted fuel."
+  },
+  {
+    "id": 12,
+    "question": "Identify the next member of the homologous series: CH4, C2H6, C3H8, ...",
+    "subtopic": "Homologous Series",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "C4H10", "isCorrect": true },
+      { "id": "B", "text": "C4H8", "isCorrect": false },
+      { "id": "C", "text": "C5H12", "isCorrect": false },
+      { "id": "D", "text": "C4H6", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. This is the Alkane series (CnH2n+2). The fourth member (n=4) is Butane: C4H(2*4+2) = C4H10.",
+      "whyOthersWrong": "B is an alkene. D is an alkyne."
+    },
+    "hint": "Successive members differ by a -CH2 group."
+  },
+  {
+    "id": 13,
+    "question": "Covalent compounds have low melting and boiling points because:",
+    "subtopic": "Properties of Covalent Compounds",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "The forces of attraction between molecules are very strong", "isCorrect": false },
+      { "id": "B", "text": "They consist of charged particles (ions)", "isCorrect": false },
+      { "id": "C", "text": "The intermolecular forces are weak", "isCorrect": true },
+      { "id": "D", "text": "Carbon has a very small size", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Covalent compounds are held together by weak intermolecular (van der Waals) forces, requiring less energy to separate them compared to electrostatic ionic bonds.",
+      "whyOthersWrong": "Ionic compounds are made of ions and have high BP/MP due to strong attraction."
+    },
+    "hint": "Compare the 'glue' between gas molecules vs salt crystals."
+  },
+  {
+    "id": 14,
+    "question": "Soaps form scum on reacting with:",
+    "subtopic": "Soaps and Detergents",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Distilled water", "isCorrect": false },
+      { "id": "B", "text": "Soft water", "isCorrect": false },
+      { "id": "C", "text": "Hard water (Ca and Mg ions)", "isCorrect": true },
+      { "id": "D", "text": "Ethanol", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Calcium and Magnesium salts in hard water react with sodium soap molecules to form insoluble grey precipitates known as scum.",
+      "whyOthersWrong": "Soft water and distilled water contain no such ions and allow soap to lather freely."
+    },
+    "hint": "This problem led to the invention of 'detergents'."
+  },
+  {
+    "id": 15,
+    "question": "Hydrocarbons having a carbon-carbon double bond are called _______ and have the general formula _______.",
+    "subtopic": "Hydrocarbons",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Alkanes, CnH2n+2", "isCorrect": false },
+      { "id": "B", "text": "Alkenes, CnH2n", "isCorrect": true },
+      { "id": "C", "text": "Alkynes, CnH2n-2", "isCorrect": false },
+      { "id": "D", "text": "Arenes, CnHn", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Unsaturated hydrocarbons with one or more double bonds are Alkenes, with the formula CnH2n.",
+      "whyOthersWrong": "Alkanes are single bonds. Alkynes are triple bonds. Correct formulae are required."
+    },
+    "hint": "Think of Ethene (C2H4)."
+  }
+]

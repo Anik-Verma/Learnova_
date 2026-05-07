@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a plant hormone that promotes cell division?",
+    "subtopic": "Coordination in Plants",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Auxin", "isCorrect": false },
+      { "id": "B", "text": "Gibberellin", "isCorrect": false },
+      { "id": "C", "text": "Cytokinin", "isCorrect": true },
+      { "id": "D", "text": "Abscisic acid", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Cytokinins are plant hormones that specifically promote cytokinesis (cell division) and are present in areas of rapid cell division like fruits and seeds.",
+      "whyOthersWrong": "Auxins promote elongation. Gibberellins help in stem growth. Abscisic acid is a growth inhibitor."
+    },
+    "hint": "The name of this hormone sounds like 'cytokinesis'."
+  },
+  {
+    "id": 2,
+    "question": "The gap between two neurons is called a:",
+    "subtopic": "Nervous System",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Dendrite", "isCorrect": false },
+      { "id": "B", "text": "Synapse", "isCorrect": true },
+      { "id": "C", "text": "Axon", "isCorrect": false },
+      { "id": "D", "text": "Impulse", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. A synapse is a functional junction between the axon end of one neuron and the dendrites of the next, where chemical signals are transmitted.",
+      "whyOthersWrong": "Dendrites and Axons are parts of a single neuron. Impulse is the signal itself."
+    },
+    "hint": "It is the tiny space where neurotransmitters cross from one cell to another."
+  },
+  {
+    "id": 3,
+    "question": "The brain is responsible for:",
+    "subtopic": "Human Brain",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Thinking", "isCorrect": false },
+      { "id": "B", "text": "Regulating the heartbeat", "isCorrect": false },
+      { "id": "C", "text": "Balancing the body", "isCorrect": false },
+      { "id": "D", "text": "All of the above", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct. Different parts of the brain control these: Cerebrum for thinking, Medulla for heartbeat, and Cerebellum for balance.",
+      "whyOthersWrong": "Options A, B, and C are all correct, making D the best choice."
+    },
+    "hint": "Consider the diverse roles of the Forebrain, Midbrain, and Hindbrain."
+  },
+  {
+    "id": 4,
+    "question": "Which part of the brain maintains posture and equilibrium of the body?",
+    "subtopic": "Human Brain",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Cerebrum", "isCorrect": false },
+      { "id": "B", "text": "Cerebellum", "isCorrect": true },
+      { "id": "C", "text": "Medulla", "isCorrect": false },
+      { "id": "D", "text": "Pons", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The cerebellum, located in the hindbrain, is responsible for the precision of voluntary actions and maintaining body balance.",
+      "whyOthersWrong": "Cerebrum handles logic/reasoning. Medulla handles involuntary vitals. Pons regulates respiration."
+    },
+    "hint": "It is often called the 'little brain'."
+  },
+  {
+    "id": 5,
+    "question": "A reflex action is controlled by the:",
+    "subtopic": "Reflex Action",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Brain", "isCorrect": false },
+      { "id": "B", "text": "Spinal cord", "isCorrect": true },
+      { "id": "C", "text": "Muscles", "isCorrect": false },
+      { "id": "D", "text": "Nerves", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Reflex arcs are localized in the spinal cord to provide the fastest possible response without waiting for conscious brain processing.",
+      "whyOthersWrong": "The brain receives the information later. Muscles are effectors, not controllers."
+    },
+    "hint": "This structure is part of the Central Nervous System and runs through the backbone."
+  },
+  {
+    "id": 6,
+    "question": "Which endocrine gland is known as the 'Master Gland'?",
+    "subtopic": "Hormones in Animals",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Adrenal gland", "isCorrect": false },
+      { "id": "B", "text": "Pancreas", "isCorrect": false },
+      { "id": "C", "text": "Pituitary gland", "isCorrect": true },
+      { "id": "D", "text": "Thyroid gland", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The pituitary gland regulates the activities of several other endocrine glands by secreting stimulating hormones.",
+      "whyOthersWrong": "Adrenal handles stress. Pancreas handles blood sugar. Thyroid handles metabolism."
+    },
+    "hint": "It is located at the base of the brain."
+  },
+  {
+    "id": 7,
+    "question": "The hormone responsible for preparing the body for 'fight or flight' is:",
+    "subtopic": "Hormones in Animals",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Insulin", "isCorrect": false },
+      { "id": "B", "text": "Thyroxine", "isCorrect": false },
+      { "id": "C", "text": "Adrenaline", "isCorrect": true },
+      { "id": "D", "text": "Growth hormone", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Adrenaline, secreted by adrenal glands, increases heartbeat and blood flow to muscles during emergency situations.",
+      "whyOthersWrong": "Insulin lowers sugar. Thyroxine affects growth/metabolism. Growth hormone affects height and development."
+    },
+    "hint": "It is released when you are scared or excited."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of a Chemotropic movement in plants?",
+    "subtopic": "Coordination in Plants",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Growth of stem towards light", "isCorrect": false },
+      { "id": "B", "text": "Growth of roots towards water", "isCorrect": false },
+      { "id": "C", "text": "Growth of pollen tube towards ovule", "isCorrect": true },
+      { "id": "D", "text": "Folding of leaves in 'touch-me-not' plant", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Chemotropism is growth in response to a chemical stimulus. The pollen tube grows toward the ovule guided by chemicals.",
+      "whyOthersWrong": "A is phototropism. B is hydrotropism. D is nastic movement (non-directional)."
+    },
+    "hint": "Think about the movement during plant fertilization."
+  },
+  {
+    "id": 9,
+    "question": "The involuntary actions like salivation, vomiting and blood pressure are controlled by which part of the hindbrain?",
+    "subtopic": "Human Brain",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Pons", "isCorrect": false },
+      { "id": "B", "text": "Cerebellum", "isCorrect": false },
+      { "id": "C", "text": "Medulla", "isCorrect": true },
+      { "id": "D", "text": "Hypothalamus", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The medulla oblongata controls vital involuntary functions including digestion, heartbeat, and respiratory reflexes.",
+      "whyOthersWrong": "Pons connects parts of the brain. Hypothalamus is for hunger/thirst. Cerebellum is for balance."
+    },
+    "hint": "This part is at the very bottom of the brain, leading to the spinal cord."
+  },
+  {
+    "id": 10,
+    "question": "Iodine is necessary for the synthesis of which hormone?",
+    "subtopic": "Hormones in Animals",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Insulin", "isCorrect": false },
+      { "id": "B", "text": "Thyroxine", "isCorrect": true },
+      { "id": "C", "text": "Adrenaline", "isCorrect": false },
+      { "id": "D", "text": "Auxin", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. The thyroid gland requires iodine to produce thyroxine. Deficiency of iodine leads to Goitre.",
+      "whyOthersWrong": "Insulin is a protein hormone. Adrenaline is a catecholamine. Auxin is a plant hormone."
+    },
+    "hint": "Deficiency of this mineral causes a swollen neck."
+  },
+  {
+    "id": 11,
+    "question": "Growth of tendrils in climbing plants is an example of:",
+    "subtopic": "Coordination in Plants",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Phototropism", "isCorrect": false },
+      { "id": "B", "text": "Geotropism", "isCorrect": false },
+      { "id": "C", "text": "Thigmotropism", "isCorrect": true },
+      { "id": "D", "text": "Hydrotropism", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Thigmotropism is a directional growth movement of a plant in response to touch/contact with a solid object.",
+      "whyOthersWrong": "Other tropisms describe responses to light, gravity, or water."
+    },
+    "hint": "The prefix 'thigmo-' refers to touch."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is NOT an involuntary action?",
+    "subtopic": "Nervous System",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Breathing", "isCorrect": false },
+      { "id": "B", "text": "Heartbeat", "isCorrect": false },
+      { "id": "C", "text": "Chewing food", "isCorrect": true },
+      { "id": "D", "text": "Digestion", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Chewing is a voluntary action controlled by the motor cortex of the brain. We can start or stop it at will.",
+      "whyOthersWrong": "Breathing, heartbeat, and digestion occur automatically without conscious effort."
+    },
+    "hint": "Identify the action you can consciously control with your will."
+  },
+  {
+    "id": 13,
+    "question": "What happens at the synapse between two neurons?",
+    "subtopic": "Nervous System",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Electric signal jumps from one to another", "isCorrect": false },
+      { "id": "B", "text": "Chemical signal is released to cross the gap", "isCorrect": true },
+      { "id": "C", "text": "Neurons physically merge", "isCorrect": false },
+      { "id": "D", "text": "The signal stops and dies", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. When an electrical impulse reaches the end of an axon, it triggers the release of neurotransmitters (chemicals) into the synapse.",
+      "whyOthersWrong": "Electric signals cannot jump gaps easily. Neurons are discrete cells and never physically fuse."
+    },
+    "hint": "Electrical energy is converted to chemical energy and back again."
+  },
+  {
+    "id": 14,
+    "question": "A diabetic patient is typically given injections of _______ to lower blood sugar levels.",
+    "subtopic": "Hormones in Animals",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Glucagon", "isCorrect": false },
+      { "id": "B", "text": "Adrenaline", "isCorrect": false },
+      { "id": "C", "text": "Insulin", "isCorrect": true },
+      { "id": "D", "text": "Thyroxine", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Insulin, produced by the pancreas, helps cells take up glucose from the blood, thereby reducing sugar levels.",
+      "whyOthersWrong": "Glucagon *increases* sugar levels. Others have no direct role in glucose regulation."
+    },
+    "hint": "This hormone is produced by the Pancreas."
+  },
+  {
+    "id": 15,
+    "question": "The main thinking part of the human brain is the:",
+    "subtopic": "Human Brain",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Forebrain", "isCorrect": true },
+      { "id": "B", "text": "Midbrain", "isCorrect": false },
+      { "id": "C", "text": "Hindbrain", "isCorrect": false },
+      { "id": "D", "text": "Spinal cord", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. The forebrain, specifically the cerebrum, is the primary area for intelligence, memory, reasoning, and processing sensory info.",
+      "whyOthersWrong": "Midbrain and Hindbrain mostly handle relay functions and involuntary/reflexive behaviors."
+    },
+    "hint": "It includes the largest part of the brain, the Cerebrum."
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Who discovered the sub-atomic particle known as the 'Electron'?",
+    "subtopic": "Discovery of Sub-atomic Particles",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Ernest Rutherford", "isCorrect": false },
+      { "id": "B", "text": "J.J. Thomson", "isCorrect": true },
+      { "id": "C", "text": "James Chadwick", "isCorrect": false },
+      { "id": "D", "text": "E. Goldstein", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because J.J. Thomson was the FIRST scientist to identify the electron as a fundamental constituent of the atom around 1900.",
+      "whyOthersWrong": "A is wrong as he discovered the nucleus. C is wrong as he discovered the neutron. D is wrong as he discovered 'canal rays' (protons)."
+    },
+    "hint": "He also proposed the 'Christmas Pudding' model of the atom."
+  },
+  {
+    "id": 2,
+    "question": "Canal rays are composed of which type of charged radiations?",
+    "subtopic": "Discovery of Sub-atomic Particles",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Negatively charged", "isCorrect": false },
+      { "id": "B", "text": "Positively charged", "isCorrect": true },
+      { "id": "C", "text": "Neutrally charged", "isCorrect": false },
+      { "id": "D", "text": "Both positive and negative", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because E. Goldstein discovered canal rays in 1886, which were positively charged radiations leading to the discovery of protons.",
+      "whyOthersWrong": "A is wrong because negatively charged particles are electrons. C is wrong as neutrons have no charge."
+    },
+    "hint": "These rays travel in the opposite direction to cathode rays."
+  },
+  {
+    "id": 3,
+    "question": "What was the main observation in Rutherford's gold foil experiment that led him to conclude atoms are mostly empty space?",
+    "subtopic": "Rutherford's Model",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "All alpha particles were reflected back.", "isCorrect": false },
+      { "id": "B", "text": "Most alpha particles passed straight through the foil.", "isCorrect": true },
+      { "id": "C", "text": "Alpha particles were absorbed by the foil.", "isCorrect": false },
+      { "id": "D", "text": "The gold foil turned into helium.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the majority of alpha particles showed no deflection, proving that most of the volume inside an atom is unoccupied.",
+      "whyOthersWrong": "A is wrong as only 1 in 12,000 rebounded. C is wrong as gold foil is too thin to absorb high-energy alpha particles."
+    },
+    "hint": "Think about what happened to the particles that didn't hit anything."
+  },
+  {
+    "id": 4,
+    "question": "Rutherford estimated that the radius of the nucleus is about ______ times less than the radius of the atom.",
+    "subtopic": "Rutherford's Model",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "100", "isCorrect": false },
+      { "id": "B", "text": "1,000", "isCorrect": false },
+      { "id": "C", "text": "10,000", "isCorrect": false },
+      { "id": "D", "text": "100,000", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct because Rutherford's data showed the nucleus is extremely small (10^5 times smaller) compared to the overall size of the atom.",
+      "whyOthersWrong": "A, B, and C are incorrect magnitudes. 10^5 is the ratio specified in NCERT."
+    },
+    "hint": "It is equivalent to a small cricket ball in the middle of a 5km radius stadium."
+  },
+  {
+    "id": 5,
+    "question": "According to Bohr's model, what happens to electrons while they revolve in discrete orbits?",
+    "subtopic": "Bohr's Model",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "They constantly lose energy.", "isCorrect": false },
+      { "id": "B", "text": "They constantly gain energy from the nucleus.", "isCorrect": false },
+      { "id": "C", "text": "They do not radiate energy.", "isCorrect": true },
+      { "id": "D", "text": "They move in spiral paths into the nucleus.", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as Bohr's key postulate was that while in certain 'allowed' orbits, electrons are stable and do not emit radiation, overcoming Rutherford's limitation.",
+      "whyOthersWrong": "A describes the drawback of classical physics applied to Rutherford's model. D is what would happen if electrons radiated energy."
+    },
+    "hint": "This postulate explains why atoms are stable."
+  },
+  {
+    "id": 6,
+    "question": "The maximum number of electrons that can be accommodated in the 'M' shell (n=3) is:",
+    "subtopic": "Electron Distribution",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "8", "isCorrect": false },
+      { "id": "B", "text": "18", "isCorrect": true },
+      { "id": "C", "text": "32", "isCorrect": false },
+      { "id": "D", "text": "2", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Using the 2n^2 rule: 2 x (3)^2 = 2 x 9 = 18.",
+      "whyOthersWrong": "A is the max for L shell (n=2). C is for N shell (n=4). D is for K shell (n=1)."
+    },
+    "hint": "Apply the formula 2n squared where n is 3."
+  },
+  {
+    "id": 7,
+    "question": "What is the valency of Magnesium (Atomic Number = 12)?",
+    "subtopic": "Valency",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1", "isCorrect": false },
+      { "id": "B", "text": "2", "isCorrect": true },
+      { "id": "C", "text": "3", "isCorrect": false },
+      { "id": "D", "text": "0", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Configuration is (2, 8, 2). It has 2 electrons in its outermost shell, so it loses them to achieve an octet, making its valency 2.",
+      "whyOthersWrong": "A is for Sodium. C is for Aluminium. D is for Noble gases like Neon."
+    },
+    "hint": "Configuration of Mg is 2, 8, 2. How many electrons will it lose?"
+  },
+  {
+    "id": 8,
+    "question": "Atoms with the same atomic number but different mass numbers are called:",
+    "subtopic": "Isotopes",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Isobars", "isCorrect": false },
+      { "id": "B", "text": "Isotopes", "isCorrect": true },
+      { "id": "C", "text": "Isotones", "isCorrect": false },
+      { "id": "D", "text": "Isomers", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because isotopes of an element have the same number of protons (Z) but a different number of neutrons, leading to different mass numbers (A).",
+      "whyOthersWrong": "A is for atoms with the SAME mass number but different atomic numbers. C and D are different chemical concepts."
+    },
+    "hint": "Chlorine-35 and Chlorine-37 are examples of this."
+  },
+  {
+    "id": 9,
+    "question": "Which isotope is used in the treatment of cancer?",
+    "subtopic": "Isotopes",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Isotope of Iodine", "isCorrect": false },
+      { "id": "B", "text": "Isotope of Uranium", "isCorrect": false },
+      { "id": "C", "text": "Isotope of Cobalt", "isCorrect": true },
+      { "id": "D", "text": "Isotope of Carbon", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as NCERT explicitly mentions Cobalt isotopes for cancer therapy.",
+      "whyOthersWrong": "A is for goitre. B is for nuclear fuel. D (C-14) is for dating fossils."
+    },
+    "hint": "Check the 'Applications' section under Isotopes."
+  },
+  {
+    "id": 10,
+    "question": "Mass number (A) of an atom is defined as the sum of:",
+    "subtopic": "Atomic Number and Mass Number",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Electrons and Protons", "isCorrect": false },
+      { "id": "B", "text": "Electrons and Neutrons", "isCorrect": false },
+      { "id": "C", "text": "Protons and Neutrons", "isCorrect": true },
+      { "id": "D", "text": "Protons only", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The mass of an atom is concentrated in the nucleus, which contains protons and neutrons (jointly called nucleons).",
+      "whyOthersWrong": "A and B include electrons, whose mass is negligible. D is the definition of Atomic Number (Z)."
+    },
+    "hint": "Mass resides in the 'Nucleons'."
+  },
+  {
+    "id": 11,
+    "question": "What is the charge of a 'Neutron'?",
+    "subtopic": "Discovery of Sub-atomic Particles",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "+1 unit", "isCorrect": false },
+      { "id": "B", "text": "-1 unit", "isCorrect": false },
+      { "id": "C", "text": "Zero", "isCorrect": true },
+      { "id": "D", "text": "Neutral only in solids", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. J. Chadwick discovered neutrons in 1932 as sub-atomic particles with mass nearly equal to protons but NO electrical charge.",
+      "whyOthersWrong": "A is the charge of a proton. B is the charge of an electron."
+    },
+    "hint": "The name 'Neutron' comes from the word neutral."
+  },
+  {
+    "id": 12,
+    "question": "An atom that has completely filled K and L shells is:",
+    "subtopic": "Electron Distribution",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Hydrogen", "isCorrect": false },
+      { "id": "B", "text": "Lithium", "isCorrect": false },
+      { "id": "C", "text": "Neon", "isCorrect": true },
+      { "id": "D", "text": "Sodium", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. K shell takes 2, L shell takes 8. Total = 10 electrons. Neon (Z=10) has this configuration and is a noble gas.",
+      "whyOthersWrong": "A has 1. B has 3. D has 11."
+    },
+    "hint": "Calculate the total electrons (2 + 8) and match with atomic number."
+  },
+  {
+    "id": 13,
+    "question": "Isobars are defined as atoms of different elements having different atomic numbers but the same:",
+    "subtopic": "Isobars",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Number of protons", "isCorrect": false },
+      { "id": "B", "text": "Number of neutrons", "isCorrect": false },
+      { "id": "C", "text": "Mass number", "isCorrect": true },
+      { "id": "D", "text": "Chemical properties", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Isobars are atoms where the total number of nucleons (A) is identical, such as Calcium (Z=20) and Argon (Z=18) both having A=40.",
+      "whyOthersWrong": "A and B would vary. D is wrong because chemical properties depend on atomic number (Z)."
+    },
+    "hint": "The word comes from Greek 'isos' (equal) and 'baros' (weight)."
+  },
+  {
+    "id": 14,
+    "question": "Based on the table in the chapter, which element has zero valency?",
+    "subtopic": "Valency",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Hydrogen", "isCorrect": false },
+      { "id": "B", "text": "Helium", "isCorrect": true },
+      { "id": "C", "text": "Lithium", "isCorrect": false },
+      { "id": "D", "text": "Oxygen", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Helium has a full K shell (duplet), making it inert with zero combining capacity.",
+      "whyOthersWrong": "A has 1. C has 1. D has 2."
+    },
+    "hint": "Look for a noble gas with naturally full shells."
+  },
+  {
+    "id": 15,
+    "question": "What was the main drawback of Rutherford's model?",
+    "subtopic": "Rutherford's Model",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "He couldn't explain the presence of protons.", "isCorrect": false },
+      { "id": "B", "text": "His model predicted that electrons would spiral into the nucleus following energy loss.", "isCorrect": true },
+      { "id": "C", "text": "He thought the atom was indivisible.", "isCorrect": false },
+      { "id": "D", "text": "He placed protons in orbits outside the nucleus.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. According to classical physics, an accelerating charged particle (revolving electron) radiates energy. This would make it lose speed and crash into the nucleus, making atoms unstable.",
+      "whyOthersWrong": "A is wrong (he discovered the nucleus correctly). C was Dalton's view. D is wrong as he placed them in the center."
+    },
+    "hint": "It relates to the electromagnetic radiation of accelerating charges."
+  }
+]

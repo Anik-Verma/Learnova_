@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following substances contains Calcium Carbonate (CaCO3)?",
+    "subtopic": "Salts and Their Uses",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Dolomite and Sea shells", "isCorrect": true },
+      { "id": "B", "text": "Baking soda", "isCorrect": false },
+      { "id": "C", "text": "Calcined gypsum", "isCorrect": false },
+      { "id": "D", "text": "Washing soda", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Marble, limestone, chalk, dolomite, and sea shells are all various chemical forms of Calcium Carbonate.",
+      "whyOthersWrong": "B is NaHCO3. C is Plaster of Paris (CaSO4.1/2H2O). D is Na2CO3."
+    },
+    "hint": "Think of natural hard structures found in shells and rocks."
+  },
+  {
+    "id": 2,
+    "question": "Marble statues are corroded or stained when they repeatedly come into contact with polluted rain water because:",
+    "subtopic": "Acids and Bases in Daily Life",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Polluted water is basic and dissolves marble", "isCorrect": false },
+      { "id": "B", "text": "Polluted water is acidic and reacts with calcium carbonate", "isCorrect": true },
+      { "id": "C", "text": "Rain water reduces calcium carbonate to calcium", "isCorrect": false },
+      { "id": "D", "text": "Rain water is pure distilled water", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Acid rain contains sulfuric and nitric acids which react with the CaCO3 in marble, forming soluble salts and corroding the stone.",
+      "whyOthersWrong": "Polluted water is rarely basic. Rain water doesn't reduce salts to metals. Pure distilled water is not the cause of corrosion."
+    },
+    "hint": "Analyze the pH nature of 'Acid Rain'."
+  },
+  {
+    "id": 3,
+    "question": "Identify the gas released during the reaction of Manganese dioxide (MnO2) with Hydrochloric acid (HCl) that has bleaching abilities.",
+    "subtopic": "Properties of Acids",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Hydrogen", "isCorrect": false },
+      { "id": "B", "text": "Oxygen", "isCorrect": false },
+      { "id": "C", "text": "Chlorine", "isCorrect": true },
+      { "id": "D", "text": "Carbon dioxide", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. The reaction MnO2 + 4HCl → MnCl2 + 2H2O + Cl2 releases Chlorine gas, which is a powerful bleaching agent.",
+      "whyOthersWrong": "Hydrogen and Oxygen don't bleach. CO2 is not produced in this inorganic redox reaction."
+    },
+    "hint": "This gas is used to treat swimming pool water and manufacture bleaching powder."
+  },
+  {
+    "id": 4,
+    "question": "What is the nature of Manganese dioxide (MnO2) in its reaction with acids?",
+    "subtopic": "Oxides and Their Nature",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Acidic oxide", "isCorrect": false },
+      { "id": "B", "text": "Neutral oxide", "isCorrect": false },
+      { "id": "C", "text": "Basic oxide", "isCorrect": true },
+      { "id": "D", "text": "Amphoteric oxide", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Most metal oxides are basic in nature. MnO2 reacts with HCl (an acid) to form salt and water, exhibiting its basic character.",
+      "whyOthersWrong": "Non-metal oxides are usually acidic. Amphoteric oxides (like Al2O3) react with both acids and bases."
+    },
+    "hint": "Consider the general rule for metallic oxides."
+  },
+  {
+    "id": 5,
+    "question": "Chlorine gas reacts with _______ to form bleaching powder.",
+    "subtopic": "Salts and Their Uses",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Dry Slaked lime [Ca(OH)2]", "isCorrect": true },
+      { "id": "B", "text": "Dilute solution of lime water", "isCorrect": false },
+      { "id": "C", "text": "Dry Quick lime [CaO]", "isCorrect": false },
+      { "id": "D", "text": "Concentrated NaOH", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. Bleaching powder [CaOCl2] is produced by the action of chlorine on dry slaked lime.",
+      "whyOthersWrong": "Solutions lead to different products. CaO requires much higher conditions. NaOH forms sodium hypochlorite."
+    },
+    "hint": "Check the commercial preparation of CaOCl2."
+  },
+  {
+    "id": 6,
+    "question": "If river water is frothy due to a high content of dissolved detergents, its approximate pH value would be:",
+    "subtopic": "Detergents and pH",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "2-5", "isCorrect": false },
+      { "id": "B", "text": "7", "isCorrect": false },
+      { "id": "C", "text": "10-11", "isCorrect": true },
+      { "id": "D", "text": "5-6", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Detergents are salts of strong bases and weak acids, making their aqueous solutions significantly basic (pH > 7).",
+      "whyOthersWrong": "2-5 is strongly acidic. 7 is neutral. 5-6 is weakly acidic (like pure rain)."
+    },
+    "hint": "Are soaps and detergents acidic or basic?"
+  },
+  {
+    "id": 7,
+    "question": "To neutralize a sample of basic water containing detergents, which substance would you add?",
+    "subtopic": "Neutralization Reaction",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Baking soda", "isCorrect": false },
+      { "id": "B", "text": "Vinegar", "isCorrect": true },
+      { "id": "C", "text": "Caustic soda", "isCorrect": false },
+      { "id": "D", "text": "Washing soda", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Since detergent water is basic, an acid like vinegar (acetic acid) is required to neutralize it.",
+      "whyOthersWrong": "Baking soda, caustic soda, and washing soda are all basic substances and would increase the pH further."
+    },
+    "hint": "You need an acidic substance to counter a base."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following describes a solution with a high concentration of hydronium ions (H3O+)?",
+    "subtopic": "pH Scale",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Strongly acidic", "isCorrect": true },
+      { "id": "B", "text": "Strongly basic", "isCorrect": false },
+      { "id": "C", "text": "Neutral", "isCorrect": false },
+      { "id": "D", "text": "Pure water", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. pH is inversely proportional to H3O+ concentration. High H3O+ means low pH, indicating an acidic solution.",
+      "whyOthersWrong": "Bases have high OH- concentration. Neutral/Pure water has balanced [H3O+] and [OH-] (10^-7 M)."
+    },
+    "hint": "pH stands for 'potency of Hydrogen'."
+  },
+  {
+    "id": 9,
+    "question": "The color of phenolphthalein indicator in an acidic solution is:",
+    "subtopic": "Indicators",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Pink", "isCorrect": false },
+      { "id": "B", "text": "Yellow", "isCorrect": false },
+      { "id": "C", "text": "Colorless", "isCorrect": true },
+      { "id": "D", "text": "Red", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Phenolphthalein is a synthetic indicator that remains colorless in acidic or neutral solutions and turns pink in basic solutions.",
+      "whyOthersWrong": "Pink is the basic result. Yellow and red are results of other indicators like Methyl Orange or Litmus."
+    },
+    "hint": "It only shows a vibrant color in bases."
+  },
+  {
+    "id": 10,
+    "question": "Nettle leaf hair inject _________ acid causing a burning pain.",
+    "subtopic": "Acids and Bases in Nature",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Acetic acid", "isCorrect": false },
+      { "id": "B", "text": "Citric acid", "isCorrect": false },
+      { "id": "C", "text": "Methanoic acid", "isCorrect": true },
+      { "id": "D", "text": "Tartaric acid", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct. Nettle leaves have stinging hairs that inject methanoic (formic) acid into the skin, causing a sharp sting.",
+      "whyOthersWrong": "Acetic is in vinegar. Citric is in lemons. Tartaric is in tamarind."
+    },
+    "hint": "It's the same acid found in ant stings."
+  },
+  {
+    "id": 11,
+    "question": "The chemical formula for Plaster of Paris is:",
+    "subtopic": "Salts and Their Uses",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "CaSO4 . 2H2O", "isCorrect": false },
+      { "id": "B", "text": "CaSO4 . ½H2O", "isCorrect": true },
+      { "id": "C", "text": "CaCl2", "isCorrect": false },
+      { "id": "D", "text": "CaCO3", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Calcium sulfate hemihydrate (POP) is formed by heating gypsum to 373 K.",
+      "whyOthersWrong": "A is Gypsum. C is Calcium chloride. D is Limestone/Marble."
+    },
+    "hint": "It is a 'hemihydrate' of calcium sulfate."
+  },
+  {
+    "id": 12,
+    "question": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:",
+    "subtopic": "Properties of Acids",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "NaCl", "isCorrect": false },
+      { "id": "B", "text": "HCl", "isCorrect": true },
+      { "id": "C", "text": "LiCl", "isCorrect": false },
+      { "id": "D", "text": "KCl", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Egg shells are CaCO3. Reaction with an acid (HCl) releases CO2 gas, which turns lime-water milky.",
+      "whyOthersWrong": "NaCl, LiCl, and KCl are neutral salts and do not react with CaCO3 to release gas."
+    },
+    "hint": "Identify which substance is an acid."
+  },
+  {
+    "id": 13,
+    "question": "Sodium hydrogencarbonate (Baking Soda) on heating produces:",
+    "subtopic": "Salts and Their Uses",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Sodium carbonate, water and CO2", "isCorrect": true },
+      { "id": "B", "text": "Sodium hydroxide and Hydrogen", "isCorrect": false },
+      { "id": "C", "text": "Sodium oxide and CO2", "isCorrect": false },
+      { "id": "D", "text": "Bleaching powder", "isCorrect": false }
+    ],
+    "correctId": "A",
+    "explanation": {
+      "main": "A is correct. 2NaHCO3 + heat → Na2CO3 + H2O + CO2. This is why it's used to make cakes fluffy.",
+      "whyOthersWrong": "B is the result of electrolysis of brine. C and D are incorrect chemical pathways for heating bicarbonate."
+    },
+    "hint": "The released gas makes dough rise."
+  },
+  {
+    "id": 14,
+    "question": "Antacids like milk of magnesia are used to treat indigestion because they:",
+    "subtopic": "Acids and Bases in Daily Life",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Increase the acid concentration", "isCorrect": false },
+      { "id": "B", "text": "Neutralize excess stomach acid", "isCorrect": true },
+      { "id": "C", "text": "Are strong acids", "isCorrect": false },
+      { "id": "D", "text": "Act as an indicator", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct. Stomach produces HCl. Antacids are mild bases that neutralize the excess acid, providing relief.",
+      "whyOthersWrong": "Increasing acid would make it worse. Strong acids are corrosive. Indicators don't treat symptoms."
+    },
+    "hint": "Magnesium hydroxide reacts with stomach's Hydrochloric acid."
+  },
+  {
+    "id": 15,
+    "question": "What is the pH of a solution that turns red litmus blue?",
+    "subtopic": "pH Scale",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1", "isCorrect": false },
+      { "id": "B", "text": "4", "isCorrect": false },
+      { "id": "C", "text": "5", "isCorrect": false },
+      { "id": "D", "text": "10", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct. Red litmus turns blue in basic solutions. Bases have a pH greater than 7.",
+      "whyOthersWrong": "1, 4, and 5 are all acidic pH values (below 7), where blue litmus would turn red."
+    },
+    "hint": "Blue indicates a Basic nature."
+  }
+]

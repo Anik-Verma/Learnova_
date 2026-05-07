@@ -1,0 +1,258 @@
+{
+  "chapterTitle": "Acids, Bases and Salts",
+  "subject": "Chemistry",
+  "standard": 10,
+  "totalReadTime": "40 minutes",
+  "chapterSummary": "This chapter introduces the chemical properties of acids and bases, how they react with metals and each other, and the concept of the pH scale. We also explore the importance of pH in daily life and study various common salts like baking soda, washing soda, and bleaching powder, along with their industrial uses.",
+  "subtopics": [
+    {
+      "id": "intro_indicators",
+      "title": "Introduction and Indicators",
+      "order": 1,
+      "summary": "Acids are sour and turn blue litmus red, while bases are bitter and turn red litmus blue. Indicators are substances that change color in acidic or basic media.",
+      "theory": "Acids and bases are fundamental chemical substances. Acids have a sour taste and change the color of blue litmus to red. Bases have a bitter taste, are soapy to touch, and change red litmus to blue. To test if a substance is an acid or a base without tasting it, we use 'indicators'. Natural indicators include litmus (extracted from lichens) and turmeric. Synthetic indicators include methyl orange and phenolphthalein. Some substances, like onion or clove oil, change their 'odour' in acidic or basic media and are called 'olfactory indicators'.",
+      "didYouKnow": "Litmus is a natural dye extracted from lichens, which are composite organisms made of algae and fungi living together!",
+      "example": {
+        "title": "Kitchen Chemistry",
+        "description": "Have you noticed a yellow curry stain on a white shirt turns reddish-brown when you apply soap? This is because soap is basic and turmeric (in the curry) acts as a natural indicator."
+      },
+      "keyTerms": [
+        {
+          "term": "Acid-Base Indicator",
+          "definition": "A substance that indicates the presence of an acid or base through a change in color or odor."
+        },
+        {
+          "term": "Olfactory Indicator",
+          "definition": "Substances whose smell changes in acidic or basic media."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the color change of blue litmus in an acidic solution?",
+        "answer": "Blue litmus turns red in an acidic solution."
+      }
+    },
+    {
+      "id": "chemical_properties",
+      "title": "Chemical Properties of Acids and Bases",
+      "order": 2,
+      "summary": "Acids and bases react with metals to produce hydrogen gas and salts, and with each other to form water and salts (neutralisation).",
+      "theory": "Acids react with active metals (like zinc) to displace hydrogen and form a salt (Acid + Metal -> Salt + Hydrogen gas). Bases also react with some metals to form salts and hydrogen gas. When acids react with metal carbonates or hydrogencarbonates, they produce salt, carbon dioxide, and water. Most importantly, when an acid reacts with a base, they cancel each other's effect to form salt and water. This is called a 'Neutralisation Reaction' (Base + Acid -> Salt + Water).",
+      "didYouKnow": "The 'pop' sound you hear when testing hydrogen gas with a burning candle is the small explosion of hydrogen reacting with oxygen in the air!",
+      "example": {
+        "title": "Acidity Relief",
+        "description": "If someone has 'acidity' in the stomach, they drink ‘eno’ or a baking soda solution. The base in these drinks neutralizes the excess stomach acid, giving instant relief."
+      },
+      "keyTerms": [
+        {
+          "term": "Neutralisation Reaction",
+          "definition": "The reaction between an acid and a base to produce salt and water."
+        },
+        {
+          "term": "Salt",
+          "definition": "A compound formed from an acid by the replacement of the hydrogen of the acid by a metal."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "H^+(aq) + OH^-(aq) \\rightarrow H_2O(l)",
+        "plain": "Hydrogen ion + Hydroxide ion -> Water",
+        "variables": [
+          {
+            "symbol": "H^+",
+            "meaning": "Hydrogen ion from acid",
+            "unit": "None"
+          },
+          {
+            "symbol": "OH^-",
+            "meaning": "Hydroxide ion from base",
+            "unit": "None"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "What are the common products of a neutralisation reaction?",
+        "answer": "A salt and water."
+      }
+    },
+    {
+      "id": "ph_scale",
+      "title": "The pH Scale",
+      "order": 3,
+      "summary": "The pH scale measures the hydrogen ion concentration (0 to 14) to determine how acidic or basic a solution is.",
+      "theory": "To measure the strength of an acid or base solution, we use the 'pH Scale'. The scale ranges from 0 (highly acidic) to 14 (highly basic). A pH of 7 is 'Neutral' (like pure water). Values below 7 are acidic, and values above 7 are basic. pH is linked to the concentration of H+ ions: more H+ ions means a lower pH. Indicators like 'Universal Indicator' (a mixture of several indicators) show different colors at different pH values, allowing us to find the exact pH of a solution.",
+      "didYouKnow": "The 'p' in pH stands for 'potenz' in German, which means 'power'. So pH literally means 'Power of Hydrogen'!",
+      "example": {
+        "title": "Lemon Juice vs Soap",
+        "description": "Lemon juice has a pH of about 2.2 (strong acid), while soap water or 'milk of magnesia' has a pH of about 10 (base). Lemon juice contains citric acid and a high concentration of `H^+` ions."
+      },
+      "keyTerms": [
+        {
+          "term": "pH Scale",
+          "definition": "A scale for measuring hydrogen ion concentration in a solution."
+        },
+        {
+          "term": "Neutral Solution",
+          "definition": "A solution with a pH of exactly 7."
+        }
+      ],
+      "hasGraph": true,
+      "graph": {
+        "type": "line",
+        "title": "The pH Scale and Ion Concentration",
+        "xLabel": "pH Value (0-14)",
+        "yLabel": "Relative Ion Concentration",
+        "description": "This graph shows how the concentration of H+ ions decreases and OH- ions increases as the pH value moves from 0 to 14.",
+        "dataPoints": [
+          {"x": 0, "y": 14},
+          {"x": 7, "y": 7},
+          {"x": 14, "y": 0}
+        ]
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the pH of a neutral solution like pure water?",
+        "answer": "The pH of a neutral solution is 7."
+      }
+    },
+    {
+      "id": "ph_everyday_life",
+      "title": "Importance of pH in Everyday Life",
+      "order": 4,
+      "summary": "pH levels are critical for humans, plants, and animals; from digestion to survival of aquatic life.",
+      "theory": "Our bodies work best within a narrow pH range of 7.0 to 7.8. When the pH of rain falls below 5.6, it becomes 'Acid Rain', which harms aquatic life. In our digestive system, the stomach producing too much hydrochloric acid causes indigestion, relieved by 'Antacids' (mild bases). Tooth decay starts when the pH in our mouth falls below 5.5. Plants also require a specific soil pH to grow healthily. Even some animals use pH-sensitive chemicals for self-defense (like a honey-bee sting which is acidic).",
+      "didYouKnow": "The stinging hair of 'Nettle' leaves (Bichu Ghas) injects methanoic acid into your skin, causing burning pain!",
+      "example": {
+        "title": "Toothbrushing",
+        "description": "Bacteria in your mouth produce acid from leftover sugar. Using toothpaste, which is generally basic, neutralizes this acid and prevents 'tooth decay' after you eat."
+      },
+      "keyTerms": [
+        {
+          "term": "Acid Rain",
+          "definition": "Rain water with a pH less than 5.6."
+        },
+        {
+          "term": "Antacid",
+          "definition": "A mild base used to neutralize excess stomach acid and relieve indigestion."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "At what pH does tooth decay usually start?",
+        "answer": "Tooth decay starts when the pH in the mouth is lower than 5.5."
+      }
+    },
+    {
+      "id": "common_salts",
+      "title": "More About Common Salts",
+      "order": 5,
+      "summary": "Common salt is a raw material for many chemicals like bleaching powder, baking soda, and washing soda.",
+      "theory": "Common salt (Sodium Chloride, `NaCl`) is more than just a seasoning. It's a raw material for several chemicals: 1. Sodium Hydroxide (`NaOH`) via the 'chlor-alkali process'. 2. Bleaching Powder (`CaOCl_2`) used in textiles and water treatment. 3. Baking Soda (`NaHCO_3`) used in kitchen for crispy pakoras and as antacids. 4. Washing Soda (`Na_2CO_3 \\cdot 10H_2O`) used in glass and soap industries. We also study 'Water of Crystallisation', where salts like copper sulphate contain fixed water molecules in their crystal structure.",
+      "didYouKnow": "Plaster of Paris (PoP) was named so because it was originally made from massive deposits of gypsum found near 'Paris'!",
+      "example": {
+        "title": "Dandi March",
+        "description": "Mahatma Gandhi’s 'Dandi March' was a protest against the salt tax, showing how important common salt was even for India's freedom struggle."
+      },
+      "keyTerms": [
+        {
+          "term": "Chlor-alkali Process",
+          "definition": "The electrolysis of brine (sodium chloride solution) to produce sodium hydroxide, chlorine, and hydrogen."
+        },
+        {
+          "term": "Plaster of Paris",
+          "definition": "Calcium sulphate hemihydrate (`CaSO_4 \\cdot \\frac{1}{2}H_2O`), a white powder that hardens when mixed with water."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "NaCl + H_2O + CO_2 + NH_3 \\rightarrow NH_4Cl + NaHCO_3",
+        "plain": "Salt + Water + Carbon Dioxide + Ammonia -> Ammonium Chloride + Baking Soda",
+        "variables": [
+          {
+            "symbol": "NaHCO_3",
+            "meaning": "Sodium Hydrogencarbonate (Baking Soda)",
+            "unit": "None"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "What is the chemical name of Baking Soda?",
+        "answer": "Sodium Hydrogencarbonate (NaHCO3)."
+      }
+    }
+  ],
+  "importantFormulas": [
+    {
+      "formula": "Acid + Metal -> Salt + Hydrogen gas",
+      "meaning": "Acid-Metal Reaction",
+      "unit": "None"
+    },
+    {
+      "formula": "Base + Acid -> Salt + Water",
+      "meaning": "Neutralisation Reaction",
+      "unit": "None"
+    },
+    {
+      "formula": "2NaCl + 2H_2O \\rightarrow 2NaOH + Cl_2 + H_2",
+      "meaning": "Chlor-alkali Process",
+      "unit": "None"
+    },
+    {
+      "formula": "Ca(OH)_2 + Cl_2 \\rightarrow CaOCl_2 + H_2O",
+      "meaning": "Production of Bleaching Powder",
+      "unit": "None"
+    }
+  ],
+  "connectsTo": ["Chemical Reactions and Equations", "Metals and Non-metals", "Carbon and its Compounds"]
+}

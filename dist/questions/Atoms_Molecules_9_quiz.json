@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "Which scientist proposed the Law of Constant Proportions?",
+    "subtopic": "Laws of Chemical Combination",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Antoine L. Lavoisier", "isCorrect": false },
+      { "id": "B", "text": "Joseph L. Proust", "isCorrect": true },
+      { "id": "C", "text": "John Dalton", "isCorrect": false },
+      { "id": "D", "text": "Ernest Rutherford", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because Joseph L. Proust established the law which states that in a chemical substance, elements are always present in definite proportions by mass.",
+      "whyOthersWrong": "A is wrong because Lavoisier established the Law of Conservation of Mass. C is wrong as Dalton proposed the atomic theory. D is wrong because Rutherford worked on atomic structure."
+    },
+    "hint": "He worked alongside Lavoisier in the late 18th century."
+  },
+  {
+    "id": 2,
+    "question": "One atomic mass unit (1u) is defined as exactly 1/12th the mass of one atom of:",
+    "subtopic": "Atomic Mass",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Oxygen-16", "isCorrect": false },
+      { "id": "B", "text": "Hydrogen-1", "isCorrect": false },
+      { "id": "C", "text": "Carbon-12", "isCorrect": true },
+      { "id": "D", "text": "Nitrogen-14", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as Carbon-12 is the international standard reference for measuring atomic masses since 1961.",
+      "whyOthersWrong": "A is wrong because Oxygen-16 was used earlier but replaced. B and D were never the primary standard for 1u definition."
+    },
+    "hint": "The standard is based on the most common isotope of carbon."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following describes 'Atomicity' correctly?",
+    "subtopic": "Molecules",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Total number of electrons in an atom", "isCorrect": false },
+      { "id": "B", "text": "Total number of atoms in a molecule", "isCorrect": true },
+      { "id": "C", "text": "Combining capacity of an element", "isCorrect": false },
+      { "id": "D", "text": "Mass of one atom in grams", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because atomicity refers to the number of atoms constituting a single molecule of an element or compound (e.g., O2 is diatomic).",
+      "whyOthersWrong": "A is wrong as that's atomic number. C is valency. D is actual mass, not atomicity."
+    },
+    "hint": "Think about whether a molecule is monoatomic, diatomic, or polyatomic."
+  },
+  {
+    "id": 4,
+    "question": "What is the ratio of mass of Hydrogen to Oxygen in pure water (H2O)?",
+    "subtopic": "Law of Constant Proportions",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1:2", "isCorrect": false },
+      { "id": "B", "text": "2:1", "isCorrect": false },
+      { "id": "C", "text": "1:8", "isCorrect": true },
+      { "id": "D", "text": "8:1", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because in water, 2g of Hydrogen combines with 16g of Oxygen. The simplest ratio by mass is 2:16, which is 1:8.",
+      "whyOthersWrong": "A and B refer to the ratio of atoms (2 H atoms for 1 O atom), not their mass. D is the reverse mass ratio (Oxygen to Hydrogen)."
+    },
+    "hint": "Atomic masses are H=1, O=16. Calculate weights in H2O."
+  },
+  {
+    "id": 5,
+    "question": "According to Dalton's atomic theory, atoms of different elements have:",
+    "subtopic": "Dalton's Atomic Theory",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Identical masses and chemical properties", "isCorrect": false },
+      { "id": "B", "text": "Different masses but identical chemical properties", "isCorrect": false },
+      { "id": "C", "text": "Identical masses but different chemical properties", "isCorrect": false },
+      { "id": "D", "text": "Different masses and different chemical properties", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct because one of Dalton's key postulates states that atoms of different elements are fundamentally different in both weight and behavior.",
+      "whyOthersWrong": "A, B, and C contradict the postulate that each element has its own unique atom type with specific mass and properties."
+    },
+    "hint": "Consider if a Gold atom and an Iron atom could be the same."
+  },
+  {
+    "id": 6,
+    "question": "The symbol for the element Potassium is derived from its Latin name:",
+    "subtopic": "Symbols of Elements",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Natrium", "isCorrect": false },
+      { "id": "B", "text": "Kalium", "isCorrect": true },
+      { "id": "C", "text": "Ferrum", "isCorrect": false },
+      { "id": "D", "text": "Argentum", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the chemical symbol 'K' for Potassium comes from 'Kalium'.",
+      "whyOthersWrong": "A is Sodium (Na). C is Iron (Fe). D is Silver (Ag)."
+    },
+    "hint": "Think of the symbol 'K'."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following represents a polyatomic ion?",
+    "subtopic": "Ions",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Cl-", "isCorrect": false },
+      { "id": "B", "text": "Mg2+", "isCorrect": false },
+      { "id": "C", "text": "OH-", "isCorrect": true },
+      { "id": "D", "text": "Al3+", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because Hydroxide (OH-) consists of two different atoms (Oxygen and Hydrogen) acting as a single charged unit.",
+      "whyOthersWrong": "A, B, and D are monatomic ions, meaning they are single atoms that have lost or gained electrons."
+    },
+    "hint": "Look for an ion containing more than one capital letter in its shorthand."
+  },
+  {
+    "id": 8,
+    "question": "What is the correct chemical formula for Aluminium Oxide?",
+    "subtopic": "Writing Chemical Formulae",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "AlO", "isCorrect": false },
+      { "id": "B", "text": "Al2O", "isCorrect": false },
+      { "id": "C", "text": "AlO3", "isCorrect": false },
+      { "id": "D", "text": "Al2O3", "isCorrect": true }
+    ],
+    "correctId": "D",
+    "explanation": {
+      "main": "D is correct because Aluminium has a valency of 3+ and Oxygen has 2-. Criss-crossing these values gives Al2O3.",
+      "whyOthersWrong": "A, B, and C do not represent charge-neutral compounds based on the valencies of Al and O."
+    },
+    "hint": "Use the criss-cross method with valencies 3 and 2."
+  },
+  {
+    "id": 9,
+    "question": "Which postulate of Dalton's atomic theory is a result of the Law of Conservation of Mass?",
+    "subtopic": "Dalton's Atomic Theory",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Atoms combine in ratios of small whole numbers.", "isCorrect": false },
+      { "id": "B", "text": "Atoms are indivisible particles, which cannot be created or destroyed.", "isCorrect": true },
+      { "id": "C", "text": "Atoms of a given element are identical in mass.", "isCorrect": false },
+      { "id": "D", "text": "All matter is made of tiny particles called atoms.", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because if atoms can't be created or destroyed, the total mass before and after a reaction must remain constant.",
+      "whyOthersWrong": "A supports standard stoichiometry. C explains element purity. D is the basic definition of matter."
+    },
+    "hint": "Think about the creation or destruction of matter."
+  },
+  {
+    "id": 10,
+    "question": "Calculate the molecular mass of Nitric Acid (HNO3). (Atomic masses: H=1, N=14, O=16)",
+    "subtopic": "Molecular Mass",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "31 u", "isCorrect": false },
+      { "id": "B", "text": "48 u", "isCorrect": false },
+      { "id": "C", "text": "63 u", "isCorrect": true },
+      { "id": "D", "text": "100 u", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct: (1 x 1) + (1 x 14) + (3 x 16) = 1 + 14 + 48 = 63 u.",
+      "whyOthersWrong": "A is just the sum of H, N, and O without considering the 3 oxygen atoms. B is just the mass of 3 oxygen atoms."
+    },
+    "hint": "Add mass of 1 H, 1 N, and 3 O atoms."
+  },
+  {
+    "id": 11,
+    "question": "The radius of an atom is usually expressed in:",
+    "subtopic": "What is an Atom?",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Centimetres (cm)", "isCorrect": false },
+      { "id": "B", "text": "Micrometres (µm)", "isCorrect": false },
+      { "id": "C", "text": "Nanometres (nm)", "isCorrect": true },
+      { "id": "D", "text": "Millimetres (mm)", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct as atomic radii are extremely small (10^-9 m), necessitating the use of nanometres.",
+      "whyOthersWrong": "A, B, and D are much larger units inappropriate for single atom dimensions."
+    },
+    "hint": "1 metre = 10^9 units of this measurement."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a 'Tetra-atomic' molecule?",
+    "subtopic": "Molecules",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Oxygen (O2)", "isCorrect": false },
+      { "id": "B", "text": "Helium (He)", "isCorrect": false },
+      { "id": "C", "text": "Phosphorus (P4)", "isCorrect": true },
+      { "id": "D", "text": "Sulphur (S8)", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct because Phosphorus exists as molecules containing four atoms (P4).",
+      "whyOthersWrong": "A is diatomic (2). B is monoatomic (1). D is polyatomic/octa-atomic (8)."
+    },
+    "hint": "Look for the example in the 'Atomicity' table with 4 atoms."
+  },
+  {
+    "id": 13,
+    "question": "The combining capacity of an element is known as its:",
+    "subtopic": "Writing Chemical Formulae",
+    "difficulty": "easy",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "Atomic Mass", "isCorrect": false },
+      { "id": "B", "text": "Valency", "isCorrect": true },
+      { "id": "C", "text": "Molecularity", "isCorrect": false },
+      { "id": "D", "text": "Isotope number", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because valency determines how many atoms of one element will combine with another to form a molecule.",
+      "whyOthersWrong": "A describes the weight. C relates to reaction mechanisms. D relates to neutron counts."
+    },
+    "hint": "It's like the 'hands' available for bonding."
+  },
+  {
+    "id": 14,
+    "question": "What is the formula unit mass of Sodium Chloride (NaCl)? (Atomic masses: Na=23, Cl=35.5)",
+    "subtopic": "Molecular Mass",
+    "difficulty": "medium",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "23 u", "isCorrect": false },
+      { "id": "B", "text": "35.5 u", "isCorrect": false },
+      { "id": "C", "text": "58.5 u", "isCorrect": true },
+      { "id": "D", "text": "12.5 u", "isCorrect": false }
+    ],
+    "correctId": "C",
+    "explanation": {
+      "main": "C is correct: 1 x 23 + 1 x 35.5 = 58.5 u.",
+      "whyOthersWrong": "A and B are individual weights. D is a subtraction error."
+    },
+    "hint": "Simply add the mass of Na and Cl."
+  },
+  {
+    "id": 15,
+    "question": "If 9g of water is decomposed, what mass of Oxygen is obtained?",
+    "subtopic": "Law of Constant Proportions",
+    "difficulty": "hard",
+    "type": "mcq",
+    "options": [
+      { "id": "A", "text": "1 g", "isCorrect": false },
+      { "id": "B", "text": "8 g", "isCorrect": true },
+      { "id": "C", "text": "9 g", "isCorrect": false },
+      { "id": "D", "text": "16 g", "isCorrect": false }
+    ],
+    "correctId": "B",
+    "explanation": {
+      "main": "B is correct because the mass ratio of H:O in water is 1:8. In 9g total, 1g is Hydrogen and 8g is Oxygen.",
+      "whyOthersWrong": "A is the weight of Hydrogen. C is the total weight. D is the weight from a larger sample (18g)."
+    },
+    "hint": "Use the 1:8 ratio found in the chapter."
+  }
+]

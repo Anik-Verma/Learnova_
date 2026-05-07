@@ -1,0 +1,238 @@
+{
+  "chapterTitle": "Carbon and its Compounds",
+  "subject": "Chemistry",
+  "standard": 10,
+  "totalReadTime": "45 minutes",
+  "chapterSummary": "This chapter explores the unique properties of carbon that allow it to form millions of compounds, the basis of all life. We study covalent bonding, the versatile nature of carbon (catenation and tetravalency), homologous series, nomenclature, and the chemistry of important substances like ethanol, ethanoic acid, soaps, and detergents.",
+  "subtopics": [
+    {
+      "id": "covalent_bonding",
+      "title": "Bonding in Carbon – The Covalent Bond",
+      "order": 1,
+      "summary": "Carbon forms covalent bonds by sharing electrons to achieve a stable noble gas configuration.",
+      "theory": "Carbon has an atomic number of 6, with 4 electrons in its outermost shell. To become stable, it needs 4 more electrons. It cannot easily gain 4 (`C^{4-}` anion) or lose 4 (`C^{4+}` cation) due to energy and nucleus constraints. Instead, carbon 'shares' its valence electrons with other atoms. Bonds formed by sharing electron pairs are called 'Covalent Bonds'. Covalently bonded molecules like methane (`CH_4`) have strong bonds within the molecule but weak forces between molecules, leading to low melting and boiling points.",
+      "didYouKnow": "Diamond and Graphite are both made entirely of carbon! The only difference is how the carbon atoms are bonded—rigidly in diamonds and in slippery layers in graphite.",
+      "example": {
+        "title": "Methane (CNG)",
+        "description": "Methane (`CH_4`) is the simplest carbon compound and is the main component of bio-gas and Compressed Natural Gas (CNG) used to run 'auto-rickshaws' in many Indian cities."
+      },
+      "keyTerms": [
+        {
+          "term": "Covalent Bond",
+          "definition": "A chemical bond formed by the sharing of electron pairs between atoms."
+        },
+        {
+          "term": "Valence Electrons",
+          "definition": "The electrons present in the outermost shell of an atom."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Why does carbon form covalent bonds instead of ionic bonds?",
+        "answer": "Carbon cannot easily gain or lose 4 electrons, so it shares them to reach a stable state."
+      }
+    },
+    {
+      "id": "versatile_nature",
+      "title": "Versatile Nature of Carbon",
+      "order": 2,
+      "summary": "Carbon's ability to form long chains and four bonds leads to a massive variety of compounds.",
+      "theory": "Two main factors make carbon unique: 1. 'Catenation': The ability to form bonds with other carbon atoms, creating long straight chains, branched chains, or rings. 2. 'Tetravalency': Having a valency of four, it can bond with four other atoms (oxygen, hydrogen, nitrogen, etc.). Saturated compounds have only 'single bonds' between carbon atoms (alkanes), while unsaturated ones have 'double' or 'triple bonds' (alkenes and alkynes).",
+      "didYouKnow": "There are more than 3 million known carbon compounds, which is more than the compounds of all other elements put together!",
+      "example": {
+        "title": "Chains and Branches",
+        "description": "Imagine carbon atoms like 'LEGO' bricks that can snap together into long straight tracks or complex branching structures to build anything from fuels to medicines."
+      },
+      "keyTerms": [
+        {
+          "term": "Catenation",
+          "definition": "The unique ability of carbon to form bonds with other atoms of carbon, giving rise to large molecules."
+        },
+        {
+          "term": "Alkanes",
+          "definition": "Saturated hydrocarbons with only single bonds between carbon atoms."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "C_nH_{2n+2}",
+        "plain": "General Formula for Alkanes",
+        "variables": [
+          {
+            "symbol": "n",
+            "meaning": "Number of carbon atoms",
+            "unit": "None"
+          }
+        ]
+      },
+      "quickCheck": {
+        "question": "What is catenation?",
+        "answer": "It is the ability of carbon atoms to link with each other to form long chains or rings."
+      }
+    },
+    {
+      "id": "homologous_series",
+      "title": "Homologous Series and Nomenclature",
+      "order": 3,
+      "summary": "Groups of compounds with same functional group and similar properties follow a systematic naming system.",
+      "theory": "A 'Homologous Series' is a family of compounds where the same functional group substitutes for hydrogen in a carbon chain (e.g., Alcohols `-OH`). Successive members differ by a `-CH_2-` unit. 'Functional Groups' like Alcohols, Aldehydes (`-CHO`), Ketones (`>C=O`), and Carboxylic Acids (`-COOH`) give specific chemical properties. International rules (IUPAC) are used for 'Nomenclature' (naming) based on the number of carbons (Meth-, Eth-, Prop-, But-) and the functional group.",
+      "didYouKnow": "The smell of 'vinegar' comes from ethanoic acid, which is a member of the carboxylic acid homologous series!",
+      "example": {
+        "title": "Alcohol Family",
+        "description": "Methanol (1 carbon) and Ethanol (2 carbons) are part of the same homologous series. Ethanol is used in 'tonics' and 'cough syrups'."
+      },
+      "keyTerms": [
+        {
+          "term": "Functional Group",
+          "definition": "An atom or group of atoms that defines the chemical properties of an organic compound."
+        },
+        {
+          "term": "IUPAC",
+          "definition": "International Union of Pure and Applied Chemistry (the body that decides naming rules)."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "By what unit do successive members of a homologous series differ?",
+        "answer": "They differ by a -CH2- unit."
+      }
+    },
+    {
+      "id": "ethanol_ethanoic",
+      "title": "Ethanol and Ethanoic Acid",
+      "order": 4,
+      "summary": "Ethanol and ethanoic acid are two commercially important carbon compounds with distinct properties and reactions.",
+      "theory": "1. 'Ethanol' (`CH_3CH_2OH`): A liquid at room temperature, soluble in water, used as a solvent and in medicines. It reacts with sodium to release hydrogen gas. 2. 'Ethanoic Acid' (`CH_3COOH`): Commonly called acetic acid; 5-8% solution is 'Vinegar'. It is a weak acid. It reacts with alcohols to form sweet-smelling substances called 'Esters' (Esterification), which are used in perfumes and flavouring agents.",
+      "didYouKnow": "Pure ethanoic acid freezes in cold climates, looking like ice, which is why it's called 'Glacial Acetic Acid'!",
+      "example": {
+        "title": "Vinegar in Pickles",
+        "description": "Indian households often use vinegar (ethanoic acid) to preserve 'pickles' (aachar) because its acidic nature stops bacteria from growing."
+      },
+      "keyTerms": [
+        {
+          "term": "Esterification",
+          "definition": "The reaction between an acid and an alcohol to form an ester."
+        },
+        {
+          "term": "Saponification",
+          "definition": "The reaction of an ester with a base to produce alcohol and the salt of the acid (used to make soap)."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": true,
+        "latex": "CH_3COOH + CH_3CH_2OH \\xrightarrow{Acid} CH_3COOCH_2CH_3 + H_2O",
+        "plain": "Ethanoic Acid + Ethanol -> Ester + Water",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "What is the common name for a 5-8% solution of ethanoic acid in water?",
+        "answer": "Vinegar."
+      }
+    },
+    {
+      "id": "soaps_detergents",
+      "title": "Soaps and Detergents",
+      "order": 5,
+      "summary": "Soaps and detergents are molecules with two ends—one that loves water and one that loves oil—allowing them to clean dirt.",
+      "theory": "Soap molecules have a 'Hydrophilic' head (water-loving) and a 'Hydrophobic' tail (oil-loving). When cleaning, they form spherical structures called 'Micelles', trapping oily dirt in the center so it can be washed away. Soap works poorly in 'hard water' (containing calcium/magnesium) because it forms 'scum'. 'Detergents' are similar but work effectively even in hard water, making them popular for shampoos and laundry.",
+      "didYouKnow": "Micelles are so small they scatter light, which is why a soap solution often looks cloudy or 'milky'!",
+      "example": {
+        "title": "Laundry Day",
+        "description": "When you scrub your school uniform with soap, millions of 'micelles' are surrounding the dirt 'stains', pulling them into the water to make your clothes white again."
+      },
+      "keyTerms": [
+        {
+          "term": "Micelle",
+          "definition": "A spherical cluster of soap molecules with hydrophobic tails in the center and hydrophilic heads on the surface."
+        },
+        {
+          "term": "Hard Water",
+          "definition": "Water contains high amounts of dissolved calcium and magnesium salts."
+        }
+      ],
+      "hasGraph": false,
+      "graph": {
+        "type": "line",
+        "title": "",
+        "xLabel": "",
+        "yLabel": "",
+        "description": "",
+        "dataPoints": []
+      },
+      "formula": {
+        "exists": false,
+        "latex": "",
+        "plain": "",
+        "variables": []
+      },
+      "quickCheck": {
+        "question": "Why do detergents work better than soaps in hard water?",
+        "answer": "Detergents do not form insoluble precipitates (scum) with the calcium and magnesium ions in hard water."
+      }
+    }
+  ],
+  "importantFormulas": [
+    {
+      "formula": "C_nH_{2n+2}",
+      "meaning": "Alkanes (Saturated)",
+      "unit": "None"
+    },
+    {
+      "formula": "C_nH_{2n}",
+      "meaning": "Alkenes (Unsaturated - Double Bond)",
+      "unit": "None"
+    },
+    {
+      "formula": "C_nH_{2n-2}",
+      "meaning": "Alkynes (Unsaturated - Triple Bond)",
+      "unit": "None"
+    }
+  ],
+  "connectsTo": ["Acids, Bases and Salts", "Life Processes", "Metals and Non-metals"]
+}
